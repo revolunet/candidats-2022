@@ -1,24 +1,30 @@
-title: DashLord example
-description: Bonnes pratiques techniques
-entity: Ministères sociaux
-footer: Powered by SocialGouv
+title: Candidats 2022
+description: Comparatif sites webs
+marianne: false
+entity: false
+footer: false
 tools:
-  404: true
+  404: false
   screenshot: true
-  nmap: true
-  zap: true
+  nmap: false
+  zap: false
   wappalyzer: true
   http: true
   testssl: true
   lighthouse: true
   thirdparties: true
-  nuclei: true
+  nuclei: false
   updownio: false
-  dependabot: true
-  codescan: true
+  dependabot: false
+  codescan: false
   stats: false
 urls:
-  - url: https://www.fabrique.social.gouv.fr
-    repositories:
-      - socialgouv/www
-  - url: https://beta.gouv.fr
+  - url: https://www.upr.fr
+  - url: https://rassemblementnational.fr
+  - url: https://www.debout-la-france.fr
+  - url: https://melenchon2022.fr
+  - url: https://www.nathalie-arthaud.info
+  - url: https://www.anassekazib2022.fr
+  - url: https://poutou2022.org
+  - url: https://laremontada.fr
+  - url: https://www.2022avechidalgo.fr
