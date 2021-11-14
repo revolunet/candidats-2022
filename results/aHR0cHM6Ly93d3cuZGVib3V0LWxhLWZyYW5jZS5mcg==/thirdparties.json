@@ -57,14 +57,6 @@
       }
     },
     {
-      "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j93&aip=1&a=817630489&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=972593566&gjid=598740054&cid=2127047753.1636370678&tid=UA-69556209-1&_gid=1122859005.1636370678&_r=1&_slc=1&z=690318030",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "twitter",
       "url": "https://platform.twitter.com/widgets/widget_iframe.a53eecb4584348a2ad32ec2ae21f6eae.html?origin=https%3A%2F%2Fwww.debout-la-france.fr",
       "details": {
@@ -73,8 +65,16 @@
       }
     },
     {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1593893365&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1311510507&gjid=1151606699&cid=1173375977.1636848905&tid=UA-69556209-1&_gid=1616033655.1636848905&_r=1&_slc=1&z=359946254",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=81aa6edb3f651a1aa9ce2f13b203b0d9",
+      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=4371eeced214954d9c6f4856f471b510",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -82,7 +82,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=dc13791c2e3142fc2982cf93ca0c51628b28cb5e",
+      "url": "https://syndication.twitter.com/settings?session_id=eb9e8bcdca63206ce7aa26fe19a69de6a8bf6fdc",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -109,7 +109,7 @@
       "value": "1",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1636370738,
+      "expires": 1636848965,
       "size": 5,
       "httpOnly": false,
       "secure": false,
@@ -120,10 +120,10 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.1122859005.1636370678",
+      "value": "GA1.2.1616033655.1636848905",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1636457078,
+      "expires": 1636935305,
       "size": 31,
       "httpOnly": false,
       "secure": false,
@@ -134,10 +134,10 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.2127047753.1636370678",
+      "value": "GA1.2.1173375977.1636848905",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1699442678,
+      "expires": 1699920905,
       "size": 30,
       "httpOnly": false,
       "secure": false,
@@ -162,16 +162,16 @@
     }
   ],
   "headers": {
-    "date": "Mon, 08 Nov 2021 11:24:36 GMT",
+    "date": "Sun, 14 Nov 2021 00:15:03 GMT",
     "server": "Apache/2.4.10 (Debian)",
     "x-drupal-cache": "HIT",
-    "etag": "\"1636364883-1\"",
+    "etag": "\"1636841050-1\"",
     "content-language": "fr",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 7 (http://drupal.org)",
-    "link": "<http://debout-la-france.fr/>; rel=\"canonical\",<http://debout-la-france.fr/>; rel=\"shortlink\"",
+    "link": "<http://www.debout-la-france.fr/>; rel=\"canonical\",<http://www.debout-la-france.fr/>; rel=\"shortlink\"",
     "cache-control": "public, max-age=300",
-    "last-modified": "Mon, 08 Nov 2021 09:48:03 GMT",
+    "last-modified": "Sat, 13 Nov 2021 22:04:10 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "vary": "Cookie,Accept-Encoding",
     "content-encoding": "gzip",
@@ -185,14 +185,6 @@
       "hostname": "www.debout-la-france.fr",
       "ip": "212.129.44.164",
       "geoip": {
-        "city": {
-          "geoname_id": 2980372,
-          "names": {
-            "en": "Sainte-Pazanne",
-            "fr": "Sainte-Pazanne",
-            "zh-CN": "圣帕藏"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -223,13 +215,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 47.1056,
-          "longitude": -1.8067,
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "44680"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -245,38 +234,12 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 2988289,
-            "iso_code": "PDL",
-            "names": {
-              "de": "Pays de la Loire",
-              "en": "Pays de la Loire",
-              "es": "Países del Loira",
-              "fr": "Pays de la Loire",
-              "ja": "ペイ・ド・ラ・ロワール地域圏",
-              "pt-BR": "País do Loire",
-              "ru": "Земли Луары",
-              "zh-CN": "卢瓦尔河地区"
-            }
-          },
-          {
-            "geoname_id": 2997861,
-            "iso_code": "44",
-            "names": {
-              "de": "Loire-Atlantique",
-              "en": "Loire-Atlantique",
-              "es": "Loira Atlántico",
-              "fr": "Loire-Atlantique"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.16.19.94",
+      "ip": "104.16.18.94",
       "geoip": null
     },
     {
@@ -286,7 +249,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.250.188.206",
+      "ip": "172.217.9.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -340,7 +303,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "72.21.91.66",
+      "ip": "192.229.163.25",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -372,80 +335,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
+          "latitude": 32.7797,
+          "longitude": -96.8022,
           "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "EE. UU.",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "connect.facebook.net",
-      "ip": "157.240.18.19",
-      "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "EE. UU.",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60602"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -463,16 +355,95 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 4736286,
+            "iso_code": "TX",
             "names": {
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "connect.facebook.net",
+      "ip": "31.13.66.19",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "en": "Ashburn",
+            "ru": "Ашберн"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "EE. UU.",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 200,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 2963597,
+          "is_in_european_union": true,
+          "iso_code": "IE",
+          "names": {
+            "de": "Irland",
+            "en": "Ireland",
+            "es": "Irlanda",
+            "fr": "Irlande",
+            "ja": "アイルランド",
+            "pt-BR": "Irlanda",
+            "ru": "Ирландия",
+            "zh-CN": "爱尔兰"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -480,7 +451,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.8",
+      "ip": "104.244.42.72",
       "geoip": {
         "continent": {
           "code": "NA",
