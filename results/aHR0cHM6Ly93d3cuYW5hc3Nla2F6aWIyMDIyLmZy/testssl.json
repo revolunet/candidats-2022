@@ -360,7 +360,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "87 >= 30 days"
+              "finding"      : "81 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1142,6 +1142,6 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "204"
+              "finding"      : "167"
           }
 ]
