@@ -1,6 +1,45 @@
 {
-  "trackers": [],
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://cdn.lutte-ouvriere.org/matomo.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://cdn.lutte-ouvriere.org/matomo.php?action_name=Accueil%20%7C%20Le%20site%20de%20Nathalie%20Arthaud&idsite=5&rec=1&r=747411&h=0&m=21&s=31&url=https%3A%2F%2Fwww.nathalie-arthaud.info%2F&_id=424973920e487501&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=f6ieHb&pf_net=214&pf_srv=110&pf_tfr=1&pf_dm1=492"
+    }
+  ],
   "cookies": [
+    {
+      "name": "_pk_ses.5.b5e5",
+      "value": "1",
+      "domain": "www.nathalie-arthaud.info",
+      "path": "/",
+      "expires": 1637455891,
+      "size": 15,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.5.b5e5",
+      "value": "424973920e487501.1637454092.",
+      "domain": "www.nathalie-arthaud.info",
+      "path": "/",
+      "expires": 1671409292,
+      "size": 41,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
     {
       "name": "has_js",
       "value": "1",
@@ -17,21 +56,21 @@
     }
   ],
   "headers": {
-    "date": "Sun, 14 Nov 2021 00:20:14 GMT",
+    "date": "Sun, 21 Nov 2021 00:21:30 GMT",
     "server": "Apache",
     "strict-transport-security": "max-age=15552000; includeSubdomains;",
     "x-content-type-options": "nosniff",
     "x-drupal-cache": "HIT",
-    "etag": "\"1636848013-1\"",
+    "etag": "\"1637453096-1\"",
     "content-language": "fr",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 7 (http://drupal.org)",
     "cache-control": "public, max-age=3600",
-    "last-modified": "Sun, 14 Nov 2021 00:00:13 GMT",
+    "last-modified": "Sun, 21 Nov 2021 00:04:56 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "vary": "Cookie,Accept-Encoding",
     "content-encoding": "gzip",
-    "content-length": "7150",
+    "content-length": "6664",
     "keep-alive": "timeout=5, max=100",
     "connection": "Keep-Alive",
     "content-type": "text/html; charset=utf-8"
@@ -40,6 +79,62 @@
     {
       "hostname": "www.nathalie-arthaud.info",
       "ip": "5.135.94.231",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdn.lutte-ouvriere.org",
+      "ip": "193.70.2.103",
       "geoip": {
         "continent": {
           "code": "EU",

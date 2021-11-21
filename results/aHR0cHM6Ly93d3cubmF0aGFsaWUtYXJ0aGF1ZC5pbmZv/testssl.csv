@@ -53,7 +53,7 @@
 "cert_trust","www.nathalie-arthaud.info/5.135.94.231","443","OK","Ok via SAN (same w/o SNI)","",""
 "cert_chain_of_trust","www.nathalie-arthaud.info/5.135.94.231","443","OK","passed.","",""
 "cert_certificatePolicies_EV","www.nathalie-arthaud.info/5.135.94.231","443","INFO","no","",""
-"cert_expirationStatus","www.nathalie-arthaud.info/5.135.94.231","443","OK","50 >= 30 days","",""
+"cert_expirationStatus","www.nathalie-arthaud.info/5.135.94.231","443","OK","43 >= 30 days","",""
 "cert_notBefore","www.nathalie-arthaud.info/5.135.94.231","443","INFO","2021-10-06 00:19","",""
 "cert_notAfter","www.nathalie-arthaud.info/5.135.94.231","443","OK","2022-01-04 00:19","",""
 "cert_extlifeSpan","www.nathalie-arthaud.info/5.135.94.231","443","OK","certificate has no extended life time according to browser forum","",""
