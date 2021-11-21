@@ -654,7 +654,7 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "HIGH",
-              "finding"      : "expires < 30 days (21)"
+              "finding"      : "expires < 30 days (14)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1366,6 +1366,6 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "138"
+              "finding"      : "225"
           }
 ]
