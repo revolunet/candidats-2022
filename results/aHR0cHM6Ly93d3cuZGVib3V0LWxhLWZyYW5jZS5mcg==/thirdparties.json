@@ -58,18 +58,10 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=320597160&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=622221355&gjid=888984837&cid=1743144047.1637453724&tid=UA-69556209-1&_gid=655459785.1637453724&_r=1&_slc=1&z=678201336",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1841955426&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=244035351&gjid=645787018&cid=817268730.1638058568&tid=UA-69556209-1&_gid=1813256599.1638058568&_r=1&_slc=1&z=150531511",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=ef9d6f40737689866943b17d0cc11961",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -82,10 +74,18 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=00c24279cfa3040357183517228bb873c93f473a",
+      "url": "https://syndication.twitter.com/settings?session_id=3be882da775044661a6c0f6b35b6d9d0794c5a00",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "facebook",
+      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=2b2e6099ba653c51d818848404fa4c1b",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     }
   ],
@@ -109,7 +109,7 @@
       "value": "1",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1637453784,
+      "expires": 1638058628,
       "size": 5,
       "httpOnly": false,
       "secure": false,
@@ -120,11 +120,11 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.655459785.1637453724",
+      "value": "GA1.2.1813256599.1638058568",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1637540124,
-      "size": 30,
+      "expires": 1638144968,
+      "size": 31,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -134,11 +134,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.1743144047.1637453724",
+      "value": "GA1.2.817268730.1638058568",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1700525724,
-      "size": 30,
+      "expires": 1701130568,
+      "size": 29,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -162,16 +162,16 @@
     }
   ],
   "headers": {
-    "date": "Sun, 21 Nov 2021 00:15:21 GMT",
+    "date": "Sun, 28 Nov 2021 00:16:06 GMT",
     "server": "Apache/2.4.10 (Debian)",
     "x-drupal-cache": "HIT",
-    "etag": "\"1637446970-1\"",
+    "etag": "\"1638052811-1\"",
     "content-language": "fr",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 7 (http://drupal.org)",
-    "link": "<http://debout-la-france.fr/>; rel=\"canonical\",<http://debout-la-france.fr/>; rel=\"shortlink\"",
+    "link": "<http://www.debout-la-france.fr/>; rel=\"canonical\",<http://www.debout-la-france.fr/>; rel=\"shortlink\"",
     "cache-control": "public, max-age=300",
-    "last-modified": "Sat, 20 Nov 2021 22:22:50 GMT",
+    "last-modified": "Sat, 27 Nov 2021 22:40:11 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "vary": "Cookie,Accept-Encoding",
     "content-encoding": "gzip",
@@ -239,17 +239,17 @@
     },
     {
       "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.16.18.94",
+      "ip": "104.16.19.94",
       "geoip": null
     },
     {
       "hostname": "netdna.bootstrapcdn.com",
-      "ip": "104.18.11.207",
+      "ip": "104.18.10.207",
       "geoip": null
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.251.33.110",
+      "ip": "142.250.188.46",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -303,8 +303,15 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "192.229.163.25",
+      "ip": "151.101.248.157",
       "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "en": "Ashburn",
+            "ru": "Ашберн"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -335,9 +342,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
-          "time_zone": "America/Chicago"
+          "latitude": 39.018,
+          "longitude": -77.539,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20147"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -355,15 +366,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "ru": "Техас",
-              "zh-CN": "德克萨斯州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -371,19 +382,18 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.18.19",
+      "ip": "157.240.3.29",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5809844,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "Seattle",
+            "en": "Seattle",
+            "es": "Seattle",
+            "fr": "Seattle",
+            "ja": "シアトル",
+            "pt-BR": "Seattle",
+            "ru": "Сиэтл"
           }
         },
         "continent": {
@@ -416,13 +426,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 47.6034,
+          "longitude": -122.3414,
+          "metro_code": 819,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60602"
+          "code": "98111"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -440,16 +450,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5815135,
+            "iso_code": "WA",
             "names": {
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "en": "Washington",
+              "es": "Washington",
+              "fr": "Washington",
+              "ja": "ワシントン州",
+              "ru": "Вашингтон",
+              "zh-CN": "华盛顿州"
             }
           }
         ]
@@ -457,7 +466,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.200",
+      "ip": "104.244.42.136",
       "geoip": {
         "continent": {
           "code": "NA",
