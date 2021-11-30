@@ -1,8 +1,8 @@
 title: Candidats 2022
 description: Comparatif sites webs
 marianne: false
-entity: false
-footer: false
+entity: ""
+footer: ""
 tools:
   404: false
   screenshot: true
