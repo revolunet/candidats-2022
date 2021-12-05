@@ -387,8 +387,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.nathalie-arthaud.info/5.135.94.231",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "36 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (29)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -401,7 +401,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "www.nathalie-arthaud.info/5.135.94.231",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2022-01-04 00:19"
           }
 ,         {
@@ -1168,6 +1168,6 @@
               "ip"           : "www.nathalie-arthaud.info/5.135.94.231",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "147"
+              "finding"      : "151"
           }
 ]
