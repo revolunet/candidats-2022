@@ -48,7 +48,7 @@
 "cert_trust","www.upr.fr/145.239.192.17","443","OK","Ok via SAN wildcard and CN wildcard (same w/o SNI)","",""
 "cert_chain_of_trust","www.upr.fr/145.239.192.17","443","OK","passed.","",""
 "cert_certificatePolicies_EV","www.upr.fr/145.239.192.17","443","INFO","no","",""
-"cert_expirationStatus","www.upr.fr/145.239.192.17","443","OK","113 >= 60 days","",""
+"cert_expirationStatus","www.upr.fr/145.239.192.17","443","OK","106 >= 60 days","",""
 "cert_notBefore","www.upr.fr/145.239.192.17","443","INFO","2020-03-03 00:00","",""
 "cert_notAfter","www.upr.fr/145.239.192.17","443","OK","2022-03-21 23:59","",""
 "cert_extlifeSpan","www.upr.fr/145.239.192.17","443","INFO","748 =< 398 days","",""
