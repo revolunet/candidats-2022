@@ -58,7 +58,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1841955426&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=244035351&gjid=645787018&cid=817268730.1638058568&tid=UA-69556209-1&_gid=1813256599.1638058568&_r=1&_slc=1&z=150531511",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1384475692&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=20103588&gjid=152243893&cid=1108547955.1638663386&tid=UA-69556209-1&_gid=114851305.1638663386&_r=1&_slc=1&z=62060209",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -66,7 +66,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.a53eecb4584348a2ad32ec2ae21f6eae.html?origin=https%3A%2F%2Fwww.debout-la-france.fr",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.21f942bb866c2823339b839747a0c50c.html?origin=https%3A%2F%2Fwww.debout-la-france.fr",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -74,7 +74,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=3be882da775044661a6c0f6b35b6d9d0794c5a00",
+      "url": "https://syndication.twitter.com/settings?session_id=cffa8d7dd9fb15bc8c3bbeb73ce7fb2f3487105e",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -82,7 +82,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=2b2e6099ba653c51d818848404fa4c1b",
+      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=489b0d491dea6bf5a97676193dffcf3f",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -109,7 +109,7 @@
       "value": "1",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1638058628,
+      "expires": 1638663445,
       "size": 5,
       "httpOnly": false,
       "secure": false,
@@ -120,11 +120,11 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.1813256599.1638058568",
+      "value": "GA1.2.114851305.1638663386",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1638144968,
-      "size": 31,
+      "expires": 1638749785,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -134,11 +134,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.817268730.1638058568",
+      "value": "GA1.2.1108547955.1638663386",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1701130568,
-      "size": 29,
+      "expires": 1701735385,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -162,16 +162,16 @@
     }
   ],
   "headers": {
-    "date": "Sun, 28 Nov 2021 00:16:06 GMT",
+    "date": "Sun, 05 Dec 2021 00:16:24 GMT",
     "server": "Apache/2.4.10 (Debian)",
     "x-drupal-cache": "HIT",
-    "etag": "\"1638052811-1\"",
+    "etag": "\"1638658447-1\"",
     "content-language": "fr",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 7 (http://drupal.org)",
     "link": "<http://www.debout-la-france.fr/>; rel=\"canonical\",<http://www.debout-la-france.fr/>; rel=\"shortlink\"",
     "cache-control": "public, max-age=300",
-    "last-modified": "Sat, 27 Nov 2021 22:40:11 GMT",
+    "last-modified": "Sat, 04 Dec 2021 22:54:07 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "vary": "Cookie,Accept-Encoding",
     "content-encoding": "gzip",
@@ -303,15 +303,8 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "151.101.248.157",
+      "ip": "192.229.163.25",
       "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -342,13 +335,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 39.018,
-          "longitude": -77.539,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20147"
+          "latitude": 32.7797,
+          "longitude": -96.8022,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -366,15 +355,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 4736286,
+            "iso_code": "TX",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
             }
           }
         ]
@@ -466,7 +455,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.136",
+      "ip": "104.244.42.72",
       "geoip": {
         "continent": {
           "code": "NA",
