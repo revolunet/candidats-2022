@@ -220,7 +220,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -360,7 +360,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "67 >= 30 days"
+              "finding"      : "60 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -556,7 +556,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HSTS",
@@ -1142,6 +1142,6 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "206"
+              "finding"      : "183"
           }
 ]
