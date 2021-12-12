@@ -2,11 +2,11 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901638550407/default/bootstrap.css"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901639172831/default/bootstrap.css"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901638550407/default/theme.scss"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901639172831/default/theme.scss"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901638550407/default/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901639172831/default/bootstrap.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901638550407/default/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901639172831/default/theme.js"
     },
     {
       "type": "google tag manager",
@@ -62,7 +62,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-12-01_19-31-24.jpg",
+      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-12-06_14-42-22.jpg",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -79,14 +79,6 @@
     {
       "type": "unknown",
       "url": "https://consentcdn.cookiebot.com/consentconfig/2d37563b-7703-4bd8-b38a-5f11dbe4840b/zemmour2022.fr/configuration.js"
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/25/attachments/original/1637484562/zemmour.jpg?1637484562",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
     },
     {
       "type": "cloudfront",
@@ -114,39 +106,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Semibold.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/France22-Bold_V2.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
       "url": "https://df8xkop7ho1no.cloudfront.net/prio/prio-3-530.jpg",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Regular.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -186,7 +146,39 @@
     },
     {
       "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Semibold.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/France22-Bold_V2.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Regular.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
       "url": "https://df8xkop7ho1no.cloudfront.net/signez.jpg",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -214,7 +206,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-12-01_19-31-24.jpg",
+      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-12-06_14-42-22.jpg",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -262,11 +254,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901638550407/default/bootstrap.min.js"
+      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.zemmour2022.fr&dnt=false&forceshow=false"
+    },
+    {
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901639172831/default/bootstrap.min.js"
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=40bcc6141aebfecefbb976105141ace63e3343ab",
+      "url": "https://syndication.twitter.com/settings?session_id=d67e4dafb007c8ac0bb4ad20d2e4b4762edd4be7",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -274,21 +270,17 @@
     },
     {
       "type": "unknown",
-      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.zemmour2022.fr&dnt=false&forceshow=false"
-    },
-    {
-      "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901638550407/default/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901639172831/default/theme.js"
     }
   ],
   "cookies": [
     {
       "name": "_nbuild_token",
-      "value": "pfBwQErObwv1n4vCi1Rea6cohMraiexQ85MQj8vGZl4%3D",
+      "value": "xGMJnX3UFQKXbiuDyg%2FckLZHVskAvKwfAS1wHiLF%2BNU%3D",
       "domain": "www.zemmour2022.fr",
       "path": "/",
       "expires": -1,
-      "size": 59,
+      "size": 63,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -298,47 +290,47 @@
     }
   ],
   "headers": {
-    "date": "Sun, 05 Dec 2021 00:28:45 GMT",
+    "date": "Sun, 12 Dec 2021 00:28:07 GMT",
     "content-type": "text/html; charset=utf-8",
-    "x-rack-cache": "stale, valid, store",
+    "x-rack-cache": "fresh",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "0",
+    "age": "56",
     "x-nb-cached-page": "yes",
-    "x-request-id": "2dbf50d3-353c-428c-800e-ceb78437ca30",
-    "x-served-by": "app14",
-    "x-middleware-start": "t=1638664125733001",
-    "x-content-digest": "50780105e6702c4b0873a67098f694d0560b96bc",
+    "x-request-id": "48307b65-3240-43e4-b014-e1760d3897ab",
+    "x-served-by": "app12",
+    "x-middleware-start": "t=1639268887854728",
+    "x-content-digest": "821e53d2b695003691abfbb98021c7290175e31e",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.063593",
+    "x-runtime": "0.086741",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=pfBwQErObwv1n4vCi1Rea6cohMraiexQ85MQj8vGZl4%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=xGMJnX3UFQKXbiuDyg%2FckLZHVskAvKwfAS1wHiLF%2BNU%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "x-nationbuilder": "true",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6b8928019c87821e-IAD",
+    "cf-ray": "6bc2d4b4eb9157fa-IAD",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-27=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "ez.nationbuilder.com",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "consent.cookiebot.com",
-      "ip": "23.212.251.155",
+      "ip": "23.212.249.200",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -417,7 +409,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.250.188.42",
+      "ip": "172.217.15.74",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -471,7 +463,7 @@
     },
     {
       "hostname": "d3n8a8pro7vhmx.cloudfront.net",
-      "ip": "18.67.66.29",
+      "ip": "18.67.66.222",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -525,7 +517,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.12.232",
+      "ip": "172.217.9.200",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -579,7 +571,7 @@
     },
     {
       "hostname": "df8xkop7ho1no.cloudfront.net",
-      "ip": "18.67.79.58",
+      "ip": "18.67.79.139",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -633,18 +625,13 @@
     },
     {
       "hostname": "consentcdn.cookiebot.com",
-      "ip": "184.87.82.16",
+      "ip": "104.121.85.218",
       "geoip": {
         "city": {
-          "geoname_id": 5101798,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Newark",
-            "en": "Newark",
-            "es": "Newark",
-            "fr": "Newark",
-            "ja": "ニューアーク",
-            "pt-BR": "Newark",
-            "ru": "Ньюарк"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -677,13 +664,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.738,
-          "longitude": -74.1634,
-          "metro_code": 501,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "07175"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -701,16 +688,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5101760,
-            "iso_code": "NJ",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "New Jersey",
-              "es": "Nueva Jersey",
-              "fr": "New Jersey",
-              "ja": "ニュージャージー州",
-              "pt-BR": "Nova Jérsia",
-              "ru": "Нью-Джерси",
-              "zh-CN": "新泽西州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -718,7 +704,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "192.229.163.25",
+      "ip": "72.21.91.66",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -750,8 +736,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
+          "latitude": 37.751,
+          "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -767,26 +753,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
-            "names": {
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "ru": "Техас",
-              "zh-CN": "德克萨斯州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.8",
+      "ip": "104.244.42.136",
       "geoip": {
         "continent": {
           "code": "NA",
