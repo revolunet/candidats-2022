@@ -577,7 +577,7 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ABAAF4CD6007B15DA0F8DF312FD27103"
+              "finding"      : "47FB7D1D29E64351C33F4427EF772BB9"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -591,49 +591,49 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "6716AAD94576FF2F798495CB8DE2E119C4395AEC"
+              "finding"      : "879AC7B7103C768B8AD79A051AF14E6ED795C489"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2AB6C822994D36CFA8DFA691D5BB8B685704E7C5FD9DCF9F497C73FAE104C0E2"
+              "finding"      : "1E2CBF57BFCBB0F2374B4CBCEAF9A9C50FBEF992B1DD475993340F7A1EF1828D"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE----- 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 2RSrU7k= -----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE----- MIIGTTCCBTWgAwIBAgIQR/t9HSnmQ1HDP0Qn73cruTANBgkqhkiG9w0BAQsFADBf MQswCQYDVQQGEwJGUjEOMAwGA1UECBMFUGFyaXMxDjAMBgNVBAcTBVBhcmlzMQ4w DAYDVQQKEwVHYW5kaTEgMB4GA1UEAxMXR2FuZGkgU3RhbmRhcmQgU1NMIENBIDIw HhcNMjExMjA2MDAwMDAwWhcNMjIxMjA2MjM1OTU5WjAiMSAwHgYDVQQDExd3d3cu ZGVib3V0LWxhLWZyYW5jZS5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC ggEBANG67Py2sCnNSuVZgqLIH/8nfERw1JG4iSEzgWxG7KHE0CA6qrqw+dWrNkVS DPbNdl+nDQWH3a4vVwNd7GSS2MEo4sD/KelRgV3EJE5gNsH81f/9WnUMqbOD0Li4 RIGrOSIJy/sl6R/2gNIl0+nYfYW7W12+WQWt9o2TrF2/07e+VQlPZP9rOMi5iUAO t6/ih77pbF91lS1YpBfNS92Pl27gFraIeNJ7mlBSFb4RCx8FZAYDRHkPTGQotaOK rgjk+u/sNH2bfxyt8mCN2rSmDpl2anP1GXpI0/sfEo00kCN3t0Jw6245Hfh9N3al rsJyEeCJ4mI2F0fDKtioIsgSAiUCAwEAAaOCA0AwggM8MB8GA1UdIwQYMBaAFLOQ p9jJr07NYTyffK1df0H9aTDqMB0GA1UdDgQWBBRXQGJ13P81olrHZlyxaTCGWphq JjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEF BQcDAQYIKwYBBQUHAwIwSwYDVR0gBEQwQjA2BgsrBgEEAbIxAQICGjAnMCUGCCsG AQUFBwIBFhlodHRwczovL2Nwcy51c2VydHJ1c3QuY29tMAgGBmeBDAECATBBBgNV HR8EOjA4MDagNKAyhjBodHRwOi8vY3JsLnVzZXJ0cnVzdC5jb20vR2FuZGlTdGFu ZGFyZFNTTENBMi5jcmwwcwYIKwYBBQUHAQEEZzBlMDwGCCsGAQUFBzAChjBodHRw Oi8vY3J0LnVzZXJ0cnVzdC5jb20vR2FuZGlTdGFuZGFyZFNTTENBMi5jcnQwJQYI KwYBBQUHMAGGGWh0dHA6Ly9vY3NwLnVzZXJ0cnVzdC5jb20wNwYDVR0RBDAwLoIX d3d3LmRlYm91dC1sYS1mcmFuY2UuZnKCE2RlYm91dC1sYS1mcmFuY2UuZnIwggF9 BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB1AEalVet1+pEgMLWiiWn0830RLEF0vv1J uIWr8vxw/m1HAAABfY+F74sAAAQDAEYwRAIgFw2tZKIdPuS88h25xYv9S19aExtu YAenA+fOE0xipSwCIGOLfCLwfgsaB6JoKDRSA+cYXYePkQTVo22LWF6EZm6aAHcA QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF9j4XvRAAABAMASDBG AiEAvEXrAot6v5hiCmaF5dqGmd7J1wP0cs8ejsCooD8QazQCIQDHRBOIuhzvtw+M bLyTVP82YnTvEYKWH0bJ2IAXwE1xSQB1ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4 +U1dJlwlXceEAAABfY+F7yEAAAQDAEYwRAIgKkApIfslfc48E8rnnvQ9lq+rXnWU ZV4i8oRB1TILdd8CIBzIFumQmRznT8A0zdG+uw5k2O2mcnvxJGVaddG9PfZvMA0G CSqGSIb3DQEBCwUAA4IBAQBV2EmDTkRCgwGySz2U0H2cmP54zAR3xB6vzUzqQka4 CPPJbDKkvOFUnkSGChWk9dGqnhAD5C11TN7LqRjTQj+P0qkLn7/KjyWNq95oAX8E OXrxK+xc5cHA8K8zO3r1KMgqERmrPTYXFKcJQWA9UQZ731BVc4/dFy3QqAnOs4vi pQP2JUwregMJSinLgYL+N8HKaq691PljObNiX7zPplU/s8WHw75Fe1uNyFQG5l7I 5sKeDP4bdinIX+3lQXSL4dKQYeDKo57y6D7buHkewaS3Usmz6fgFh7k5/EgLcM61 hpK5A6D9QD/DUTiLUzNmIs4snlhRiUXLhS/+IQz8Pi7a -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "debout-la-france.fr"
+              "finding"      : "www.debout-la-france.fr"
           }
 ,         {
               "id"           : "cert_commonName_wo_SNI",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "debout-la-france.fr"
+              "finding"      : "www.debout-la-france.fr"
           }
 ,         {
               "id"           : "cert_subjectAltName",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "debout-la-france.fr www.debout-la-france.fr"
+              "finding"      : "www.debout-la-france.fr debout-la-france.fr"
           }
 ,         {
               "id"           : "cert_trust",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "Ok via SAN (same w/o SNI)"
+              "finding"      : "Ok via SAN and CN (same w/o SNI)"
           }
 ,         {
               "id"           : "cert_chain_of_trust",
@@ -653,22 +653,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "expires < 30 days (0)"
+              "severity"     : "OK",
+              "finding"      : "359 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-12-05 00:00"
+              "finding"      : "2021-12-06 00:00"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "2021-12-05 23:59"
+              "severity"     : "OK",
+              "finding"      : "2022-12-06 23:59"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -946,7 +946,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=2AB6C822994D36CFA8DFA691D5BB8B685704E7C5FD9DCF9F497C73FAE104C0E2"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=1E2CBF57BFCBB0F2374B4CBCEAF9A9C50FBEF992B1DD475993340F7A1EF1828D"
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
@@ -1366,6 +1366,6 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "152"
+              "finding"      : "150"
           }
 ]
