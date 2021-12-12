@@ -21,16 +21,16 @@
 ###########################################################</span>
 
  Using &quot;OpenSSL 1.0.2-chacha (1.0.2k-dev)&quot; [~183 ciphers]
- on fv-az186-36:/home/testssl/bin/openssl.Linux.x86_64
+ on fv-az177-345:/home/testssl/bin/openssl.Linux.x86_64
  (built: &quot;Jan 18 17:12:17 2019&quot;, platform: &quot;linux-x86_64&quot;)
 
 
 <span style="font-weight:bold;">Testing all IPv4 addresses (port 443): </span>162.159.128.45 162.159.138.44
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2021-11-30 22:02:46        --&gt;&gt; 162.159.128.45:443 (www.zemmour2022.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2021-12-12 00:28:30        --&gt;&gt; 162.159.128.45:443 (www.zemmour2022.fr) &lt;&lt;--</span>
 
- Further IP addresses:   162.159.138.44 2606:4700:7::a29f:802d
-                         2606:4700:7::a29f:8a2c 
+ Further IP addresses:   162.159.138.44 2606:4700:7::a29f:8a2c
+                         2606:4700:7::a29f:802d 
  rDNS (162.159.128.45):  --
  Service detected:       HTTP
 
@@ -98,8 +98,8 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;compress_certificate/#27&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>64800 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: no
-<span style="font-weight:bold;"> TLS clock skew</span>               -5 sec from localtime
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: no
+<span style="font-weight:bold;"> TLS clock skew</span>               -3 sec from localtime
 <span style="font-weight:bold;"> Certificate Compression      </span>0002/Brotli
 <span style="font-weight:bold;"> Client Authentication        </span>none
 <span style="font-weight:bold;"> Signature Algorithm          </span><span style="color:#008817;">SHA256 with RSA</span>
@@ -114,7 +114,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">360 &gt;= 60 days</span> (2021-11-26 00:00 --&gt; 2022-11-25 23:59)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">348 &gt;= 60 days</span> (2021-11-26 00:00 --&gt; 2022-11-25 23:59)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncRSACA-2.crl
                               http://crl4.digicert.com/CloudflareIncRSACA-2.crl
@@ -144,7 +144,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ez.nationbuilder.com
                               <span style="color:#008817;">Expect-CT</span>: max-age=604800,
                                 report-uri=&quot;https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct&quot;
-                              X-Served-By: app11
+                              X-Served-By: app12
                               Cache-Control: no-cache, no-store, max-age=0,
                                 must-revalidate
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -228,13 +228,13 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2021-11-30 22:04:15 [  91s] --&gt;&gt; 162.159.128.45:443 (www.zemmour2022.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2021-12-12 00:29:32 [  63s] --&gt;&gt; 162.159.128.45:443 (www.zemmour2022.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2021-11-30 22:04:15        --&gt;&gt; 162.159.138.44:443 (www.zemmour2022.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2021-12-12 00:29:32        --&gt;&gt; 162.159.138.44:443 (www.zemmour2022.fr) &lt;&lt;--</span>
 
- Further IP addresses:   162.159.128.45 2606:4700:7::a29f:802d
-                         2606:4700:7::a29f:8a2c 
+ Further IP addresses:   162.159.128.45 2606:4700:7::a29f:8a2c
+                         2606:4700:7::a29f:802d 
  rDNS (162.159.138.44):  --
  Service detected:       HTTP
 
@@ -302,8 +302,8 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;compress_certificate/#27&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>64800 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: no
-<span style="font-weight:bold;"> TLS clock skew</span>               -4 sec from localtime
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: no
+<span style="font-weight:bold;"> TLS clock skew</span>               -3 sec from localtime
 <span style="font-weight:bold;"> Certificate Compression      </span>0002/Brotli
 <span style="font-weight:bold;"> Client Authentication        </span>none
 <span style="font-weight:bold;"> Signature Algorithm          </span><span style="color:#008817;">SHA256 with RSA</span>
@@ -318,7 +318,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">360 &gt;= 60 days</span> (2021-11-26 00:00 --&gt; 2022-11-25 23:59)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">348 &gt;= 60 days</span> (2021-11-26 00:00 --&gt; 2022-11-25 23:59)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncRSACA-2.crl
                               http://crl4.digicert.com/CloudflareIncRSACA-2.crl
@@ -348,7 +348,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 ez.nationbuilder.com
                               <span style="color:#008817;">Expect-CT</span>: max-age=604800,
                                 report-uri=&quot;https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct&quot;
-                              X-Served-By: app14
+                              X-Served-By: app13
                               Cache-Control: no-cache, no-store, max-age=0,
                                 must-revalidate
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -432,7 +432,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2021-11-30 22:05:39 [ 175s] --&gt;&gt; 162.159.138.44:443 (www.zemmour2022.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2021-12-12 00:30:36 [ 127s] --&gt;&gt; 162.159.138.44:443 (www.zemmour2022.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
 <span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>162.159.128.45 162.159.138.44
