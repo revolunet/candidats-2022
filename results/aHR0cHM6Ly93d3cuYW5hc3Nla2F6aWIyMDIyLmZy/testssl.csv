@@ -49,7 +49,7 @@
 "cert_trust","www.anassekazib2022.fr/51.91.236.255","443","OK","Ok via SAN (SNI mandatory)","",""
 "cert_chain_of_trust","www.anassekazib2022.fr/51.91.236.255","443","OK","passed.","",""
 "cert_certificatePolicies_EV","www.anassekazib2022.fr/51.91.236.255","443","INFO","no","",""
-"cert_expirationStatus","www.anassekazib2022.fr/51.91.236.255","443","OK","46 >= 30 days","",""
+"cert_expirationStatus","www.anassekazib2022.fr/51.91.236.255","443","OK","39 >= 30 days","",""
 "cert_notBefore","www.anassekazib2022.fr/51.91.236.255","443","INFO","2021-11-05 21:28","",""
 "cert_notAfter","www.anassekazib2022.fr/51.91.236.255","443","OK","2022-02-03 21:28","",""
 "cert_extlifeSpan","www.anassekazib2022.fr/51.91.236.255","443","OK","certificate has no extended life time according to browser forum","",""
