@@ -388,7 +388,7 @@
               "ip"           : "www.nathalie-arthaud.info/141.94.244.194",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "86 >= 30 days"
+              "finding"      : "79 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1168,6 +1168,6 @@
               "ip"           : "www.nathalie-arthaud.info/141.94.244.194",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "89"
+              "finding"      : "90"
           }
 ]
