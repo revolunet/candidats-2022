@@ -206,21 +206,21 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -3 seconds from your localtime"
+              "finding"      : "off by -4 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -353,7 +353,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "263 >= 60 days"
+              "finding"      : "256 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -598,7 +598,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app12"
+              "finding"      : "app10"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1342,7 +1342,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -3 seconds from your localtime"
+              "finding"      : "off by -4 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -1475,7 +1475,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "263 >= 60 days"
+              "finding"      : "256 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2248,6 +2248,6 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "131"
+              "finding"      : "159"
           }
 ]
