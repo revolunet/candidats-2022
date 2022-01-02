@@ -41,19 +41,19 @@
       }
     },
     {
-      "type": "google",
-      "url": "https://www.google.com/recaptcha/api.js?render=6LdbSoYUAAAAAF63P-t0tCOvpyeqYuFN4wg6hjOW&ver=3.0",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "google maps",
       "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/recaptcha/api.js?render=6LdbSoYUAAAAAF63P-t0tCOvpyeqYuFN4wg6hjOW&ver=3.0",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -133,12 +133,8 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://matomo.upr.fr/matomo.php?action_name=Union%20Populaire%20R%C3%A9publicaine%20%7C%20UPR&idsite=1&rec=1&r=904312&h=0&m=17&s=44&url=https%3A%2F%2Fwww.upr.fr%2F&_id=7f800492bcc8c4e3&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=uT5pBI&pf_net=256&pf_srv=119&pf_tfr=203&pf_dm1=1093"
-    },
-    {
       "type": "google",
-      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdbSoYUAAAAAF63P-t0tCOvpyeqYuFN4wg6hjOW&co=aHR0cHM6Ly93d3cudXByLmZyOjQ0Mw..&hl=en&v=VZKEDW9wslPbEc9RmzMqaOAP&size=invisible&cb=2wra1irsqrym",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdbSoYUAAAAAF63P-t0tCOvpyeqYuFN4wg6hjOW&co=aHR0cHM6Ly93d3cudXByLmZyOjQ0Mw..&hl=en&v=VZKEDW9wslPbEc9RmzMqaOAP&size=invisible&cb=jh7hsi35bdd2",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -146,7 +142,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/gtm/js?id=GTM-MBK795B&t=gtm4&cid=659348998.1640477865",
+      "url": "https://www.google-analytics.com/gtm/js?id=GTM-MBK795B&t=gtm4&cid=169969754.1641082623",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -154,7 +150,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=f093de02634bb1d2481b61a1e7b52b8ffa6e3200",
+      "url": "https://syndication.twitter.com/settings?session_id=22481f799b0fdeec2c2621ff2c255ff027ad72e6",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -178,7 +174,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=246707200&t=pageview&_s=1&dl=https%3A%2F%2Fwww.upr.fr%2F&ul=en-us&de=UTF-8&dt=Union%20Populaire%20R%C3%A9publicaine%20%7C%20UPR&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=aGDAAAADQAAAAC~&jid=1411297795&gjid=531308924&cid=659348998.1640477865&tid=UA-41994912-1&_gid=1443773604.1640477865&_r=1&gtm=2wgc10MMFL8F2&z=1672804103",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=8951174&t=pageview&_s=1&dl=https%3A%2F%2Fwww.upr.fr%2F&ul=en-us&de=UTF-8&dt=Union%20Populaire%20R%C3%A9publicaine%20%7C%20UPR&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=aGDAAAADQAAAAC~&jid=248332689&gjid=1150604963&cid=169969754.1641082623&tid=UA-41994912-1&_gid=1215244727.1641082623&_r=1&gtm=2wgc10MMFL8F2&z=670898014",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -186,31 +182,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=246707200&t=pageview&_s=1&dl=https%3A%2F%2Fwww.upr.fr%2F&ul=en-us&de=UTF-8&dt=Union%20Populaire%20R%C3%A9publicaine%20%7C%20UPR&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=aGDAAAADQAAAAC~&jid=865104126&gjid=150768823&cid=659348998.1640477865&tid=UA-41994912-2&_gid=1443773604.1640477865&_r=1&gtm=2wgc10MMFL8F2&z=1034781420",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/js/moment~timeline.c7de492113f2eac2bb49ff9013aa2889.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/js/timeline.55167c7072ca7f4363bf18820295ba93.js",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-41994912-1&cid=659348998.1640477865&jid=1411297795&gjid=531308924&_gid=1443773604.1640477865&_u=aGDAAAACQAAAAC~&z=744235727",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=8951174&t=pageview&_s=1&dl=https%3A%2F%2Fwww.upr.fr%2F&ul=en-us&de=UTF-8&dt=Union%20Populaire%20R%C3%A9publicaine%20%7C%20UPR&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=aGDAAAADQAAAAC~&jid=1925019100&gjid=9620873&cid=169969754.1641082623&tid=UA-41994912-2&_gid=1215244727.1641082623&_r=1&gtm=2wgc10MMFL8F2&z=2089813319",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -218,18 +190,18 @@
     },
     {
       "type": "google analytics",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-41994912-2&cid=659348998.1640477865&jid=865104126&gjid=150768823&_gid=1443773604.1640477865&_u=aGDAAAADQAAAAC~&z=1780420258",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-41994912-1&cid=169969754.1641082623&jid=248332689&gjid=1150604963&_gid=1215244727.1641082623&_u=aGDAAAACQAAAAC~&z=715714498",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "twitter",
-      "url": "https://cdn.syndication.twimg.com/timeline/profile?callback=__twttr.callbacks.tl_i0_profile_UPR_Asselineau_old&dnt=true&domain=www.upr.fr&lang=fr&screen_name=UPR_Asselineau&suppress_response_codes=true&t=1822753&tz=GMT%2B0000&with_replies=false",
+      "type": "google analytics",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-41994912-2&cid=169969754.1641082623&jid=1925019100&gjid=9620873&_gid=1215244727.1641082623&_u=aGDAAAADQAAAAC~&z=1358595653",
       "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -265,8 +237,24 @@
       }
     },
     {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/js/moment~timeline.c7de492113f2eac2bb49ff9013aa2889.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/js/timeline.55167c7072ca7f4363bf18820295ba93.js",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1646112412320069&ev=PageView&dl=https%3A%2F%2Fwww.upr.fr%2F&rl=&if=false&ts=1640477865475&sw=800&sh=600&v=2.9.48&r=stable&ec=0&o=158&fbp=fb.1.1640477865473.327057027&it=1640477864948&coo=false&exp=p0&rqm=GET",
+      "url": "https://www.facebook.com/tr/?id=1646112412320069&ev=PageView&dl=https%3A%2F%2Fwww.upr.fr%2F&rl=&if=false&ts=1641082623773&sw=800&sh=600&v=2.9.48&r=stable&ec=0&o=158&fbp=fb.1.1641082623771.1549204651&it=1641082623307&coo=false&exp=p0&rqm=GET",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -274,7 +262,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f976.png",
+      "url": "https://cdn.syndication.twimg.com/timeline/profile?callback=__twttr.callbacks.tl_i0_profile_UPR_Asselineau_old&dnt=true&domain=www.upr.fr&lang=fr&screen_name=UPR_Asselineau&suppress_response_codes=true&t=1823425&tz=GMT%2B0000&with_replies=false",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -282,55 +270,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/26d4.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f633.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474072061819731975/0-A7OyPU?format=jpg&name=600x314",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/26a0.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/2705.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f6a8.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/25aa.png",
+      "url": "https://pbs.twimg.com/card_img/1475389484955049985/qYUutksV?format=jpg&name=600x314",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -346,47 +286,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f4c8.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/27a1.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f914.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f489.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
       "url": "https://abs.twimg.com/emoji/v2/72x72/1f1ea-1f1fa.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474671254275870723/f0GcwJzA?format=jpg&name=600x314",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -402,7 +302,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f942.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1eb-1f1f7.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -410,7 +310,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f381.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1ea-1f1f8.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -418,79 +318,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474455316901376004/uJIU0P4M?format=jpg&name=600x314",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/css/timeline.2fcb295ab98c2ce26f4cca0d2b2d0f48.light.ltr.css",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/css/timeline.2fcb295ab98c2ce26f4cca0d2b2d0f48.light.ltr.css",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f976.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/26d4.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f633.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474072061819731975/0-A7OyPU?format=jpg&name=600x314",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/26a0.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/2705.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f6a8.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1ee-1f1f9.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -506,7 +334,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f92c.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1e9-1f1ea.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -514,7 +342,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f4c8.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/26a0.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -522,7 +350,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/27a1.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1ee-1f1ea.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -530,7 +358,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f914.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1f2-1f1f9.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -538,7 +366,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f489.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -546,23 +374,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1ea-1f1fa.png",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474671254275870723/f0GcwJzA?format=jpg&name=600x314",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/2935.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f3a5.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -578,7 +390,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://abs.twimg.com/emoji/v2/72x72/1f381.png",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f389.png",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -586,7 +398,119 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474455316901376004/uJIU0P4M?format=jpg&name=600x314",
+      "url": "https://pbs.twimg.com/card_img/1476992537093189634/zZkuZh5u?format=jpg&name=600x314",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/2695.png",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/css/timeline.2fcb295ab98c2ce26f4cca0d2b2d0f48.light.ltr.css",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f9d0.png",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/card_img/1476820463838023690/PEkElBUe?format=jpg&name=600x314",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1ff-1f1e6.png",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/card_img/1474295067120746497/1y5E3tUT?format=jpg&name=600x314",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f50e.png",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f6a8.png",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://abs.twimg.com/emoji/v2/72x72/1f1e8-1f1e6.png",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/css/timeline.2fcb295ab98c2ce26f4cca0d2b2d0f48.light.ltr.css",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/card_img/1475389484955049985/qYUutksV?format=jpg&name=600x314",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/card_img/1476992537093189634/zZkuZh5u?format=jpg&name=600x314",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/card_img/1476820463838023690/PEkElBUe?format=jpg&name=600x314",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/card_img/1474295067120746497/1y5E3tUT?format=jpg&name=600x314",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -602,7 +526,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHfbMUaXEAQ4vAk?format=jpg&name=small",
+      "url": "https://pbs.twimg.com/tweet_video_thumb/FICSRuuXMAADbdm?format=jpg&name=small",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -610,7 +534,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHepGFfWYAwCnJp?format=jpg&name=small",
+      "url": "https://pbs.twimg.com/media/FIBnbQoWUAAOcQ1?format=jpg&name=small",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -618,7 +542,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHefDrTXsAYUvBz?format=jpg&name=small",
+      "url": "https://pbs.twimg.com/media/FIBhSKHX0AkUQBa?format=jpg&name=small",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -626,7 +550,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHdeXD6WYAUcB7C?format=jpg&name=small",
+      "url": "https://pbs.twimg.com/media/FH9N_8AXwAAGzji?format=jpg&name=small",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -634,7 +558,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHddQ14WUA8WKzh?format=jpg&name=900x900",
+      "url": "https://pbs.twimg.com/media/FH7Qw2DXwAQnXH8?format=jpg&name=small",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -642,71 +566,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSfcQXIAAxQaY?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSY0LXIAsWroH?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSWPVXsAAI1fk?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSTqjWQAUVfjZ?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSQqAXwAAwCjN?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSKxGXEAsoqw5?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSI6KX0Aslqgd?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSGEHXoAch1hI?format=jpg&name=small",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://pbs.twimg.com/media/FHZSCOnXMAA8mCy?format=jpg&name=small",
+      "url": "https://pbs.twimg.com/media/FH7JmfQX0BgNgNv?format=jpg&name=small",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -730,7 +590,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474072061819731975/0-A7OyPU?format=jpg&name=600x314",
+      "url": "https://pbs.twimg.com/card_img/1475389484955049985/qYUutksV?format=jpg&name=600x314",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -738,7 +598,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474671254275870723/f0GcwJzA?format=jpg&name=600x314",
+      "url": "https://pbs.twimg.com/card_img/1476992537093189634/zZkuZh5u?format=jpg&name=600x314",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -754,7 +614,15 @@
     },
     {
       "type": "twitter",
-      "url": "https://pbs.twimg.com/card_img/1474455316901376004/uJIU0P4M?format=jpg&name=600x314",
+      "url": "https://pbs.twimg.com/card_img/1476820463838023690/PEkElBUe?format=jpg&name=600x314",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://pbs.twimg.com/card_img/1474295067120746497/1y5E3tUT?format=jpg&name=600x314",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -769,19 +637,19 @@
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/jot.html",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google",
       "url": "https://www.google.com/recaptcha/api2/reload?k=6LdbSoYUAAAAAF63P-t0tCOvpyeqYuFN4wg6hjOW",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/jot.html",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
@@ -804,11 +672,11 @@
   "cookies": [
     {
       "name": "_fbp",
-      "value": "fb.1.1640477865473.327057027",
+      "value": "fb.1.1641082623771.1549204651",
       "domain": ".upr.fr",
       "path": "/",
-      "expires": 1648253865,
-      "size": 32,
+      "expires": 1648858623,
+      "size": 33,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -821,7 +689,7 @@
       "value": "1",
       "domain": ".upr.fr",
       "path": "/",
-      "expires": 1640477925,
+      "expires": 1641082683,
       "size": 19,
       "httpOnly": false,
       "secure": false,
@@ -831,23 +699,8 @@
       "sourcePort": 443
     },
     {
-      "name": "_pk_id.1.68ee",
-      "value": "7f800492bcc8c4e3.1640477865.",
-      "domain": "www.upr.fr",
-      "path": "/",
-      "expires": 1674433065,
-      "size": 41,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
       "name": "PHPSESSID",
-      "value": "6f1vsd9cferldgqglsjh2d90h7",
+      "value": "i9h4gui66f2guid7kkl79c22i7",
       "domain": "www.upr.fr",
       "path": "/",
       "expires": -1,
@@ -864,7 +717,7 @@
       "value": "1",
       "domain": ".upr.fr",
       "path": "/",
-      "expires": 1640477925,
+      "expires": 1641082683,
       "size": 19,
       "httpOnly": false,
       "secure": false,
@@ -875,10 +728,10 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.1443773604.1640477865",
+      "value": "GA1.2.1215244727.1641082623",
       "domain": ".upr.fr",
       "path": "/",
-      "expires": 1640564265,
+      "expires": 1641169023,
       "size": 31,
       "httpOnly": false,
       "secure": false,
@@ -889,10 +742,10 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.659348998.1640477865",
+      "value": "GA1.2.169969754.1641082623",
       "domain": ".upr.fr",
       "path": "/",
-      "expires": 1703549865,
+      "expires": 1704154623,
       "size": 29,
       "httpOnly": false,
       "secure": false,
@@ -900,28 +753,13 @@
       "sameParty": false,
       "sourceScheme": "Secure",
       "sourcePort": 443
-    },
-    {
-      "name": "_pk_ses.1.68ee",
-      "value": "1",
-      "domain": "www.upr.fr",
-      "path": "/",
-      "expires": 1640479664,
-      "size": 15,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
     }
   ],
   "headers": {
     "server": "nginx/1.18.0 (Ubuntu)",
-    "date": "Sun, 26 Dec 2021 00:17:43 GMT",
+    "date": "Sun, 02 Jan 2022 00:17:02 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "content-length": "47350",
+    "content-length": "47308",
     "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "cache-control": "no-store, no-cache, must-revalidate",
     "pragma": "no-cache",
@@ -930,9 +768,9 @@
     "x-tec-api-origin": "https://www.upr.fr",
     "vary": "Accept-Encoding",
     "content-encoding": "gzip",
-    "age": "24620",
+    "age": "18521",
     "x-cache": "cached",
-    "x-name": "rbx-proue1",
+    "x-name": "can-proue1",
     "accept-ranges": "bytes",
     "strict-transport-security": "max-age=15768000; includeSubDomains",
     "x-frame-options": "sameorigin"
@@ -996,7 +834,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.73.234",
+      "ip": "172.217.13.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1050,12 +888,12 @@
     },
     {
       "hostname": "maxcdn.bootstrapcdn.com",
-      "ip": "104.18.11.207",
+      "ip": "104.18.10.207",
       "geoip": null
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "172.217.2.106",
+      "ip": "172.217.0.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1109,61 +947,7 @@
     },
     {
       "hostname": "maps.google.com",
-      "ip": "142.250.188.206",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "www.google.com",
-      "ip": "172.253.63.99",
+      "ip": "142.250.73.238",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1217,7 +1001,61 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "142.250.188.202",
+      "ip": "142.251.33.202",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.google.com",
+      "ip": "142.250.65.68",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1423,7 +1261,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.13.72",
+      "ip": "172.217.164.168",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1587,7 +1425,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.251.45.3",
+      "ip": "142.251.45.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1641,7 +1479,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.250.65.78",
+      "ip": "142.250.188.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1695,7 +1533,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.8",
+      "ip": "104.244.42.200",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1749,8 +1587,17 @@
     },
     {
       "hostname": "stats.g.doubleclick.net",
-      "ip": "173.194.66.154",
+      "ip": "209.85.144.154",
       "geoip": {
+        "city": {
+          "geoname_id": 4852832,
+          "names": {
+            "en": "Council Bluffs",
+            "ja": "カウンシルブラフス",
+            "ru": "Каунсил-Блафс",
+            "zh-CN": "康瑟尔布拉夫斯"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -1781,9 +1628,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
+          "latitude": 41.2591,
+          "longitude": -95.8517,
+          "metro_code": 652,
           "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "51502"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1798,7 +1649,102 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4862182,
+            "iso_code": "IA",
+            "names": {
+              "de": "Iowa",
+              "en": "Iowa",
+              "es": "Iowa",
+              "fr": "Iowa",
+              "ja": "アイオワ州",
+              "pt-BR": "Iova",
+              "ru": "Айова",
+              "zh-CN": "艾奥瓦州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "www.facebook.com",
+      "ip": "157.240.229.35",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "en": "Ashburn",
+            "ru": "Ашберн"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
       }
     },
     {
@@ -1856,94 +1802,8 @@
       }
     },
     {
-      "hostname": "www.facebook.com",
-      "ip": "157.240.2.35",
-      "geoip": {
-        "city": {
-          "geoname_id": 4887398,
-          "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
-        },
-        "postal": {
-          "code": "60602"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
-            "names": {
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "abs.twimg.com",
-      "ip": "152.199.24.185",
+      "hostname": "pbs.twimg.com",
+      "ip": "72.21.91.70",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1996,8 +1856,8 @@
       }
     },
     {
-      "hostname": "pbs.twimg.com",
-      "ip": "72.21.91.70",
+      "hostname": "abs.twimg.com",
+      "ip": "152.199.24.185",
       "geoip": {
         "continent": {
           "code": "NA",
