@@ -150,7 +150,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=808248323&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=882257003&gjid=2093282544&cid=248241369.1640478278&tid=UA-64609674-1&_gid=1063718026.1640478278&_r=1&gtm=2wgc10P52GNT2&z=1034213171",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=60186210&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1350076434&gjid=1500181012&cid=1739094033.1641082993&tid=UA-64609674-1&_gid=1421906649.1641082993&_r=1&gtm=2wgc10P52GNT2&z=1586291248",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -158,7 +158,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=248241369.1640478278&jid=882257003&gjid=2093282544&_gid=1063718026.1640478278&_u=YEBAAEAAAAAAAC~&z=1876962895",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=1739094033.1641082993&jid=1350076434&gjid=1500181012&_gid=1421906649.1641082993&_u=YEBAAEAAAAAAAC~&z=2128412399",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -166,7 +166,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=248241369.1640478278&jid=882257003&_u=YEBAAEAAAAAAAC~&z=954906455",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=1739094033.1641082993&jid=1350076434&_u=YEBAAEAAAAAAAC~&z=1792819866",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -190,7 +190,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1640478279097&sw=800&sh=600&v=2.9.48&r=stable&ec=0&o=158&fbp=fb.1.1640478279096.738950801&it=1640478278404&coo=false&exp=p1&rqm=GET",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1641082994002&sw=800&sh=600&v=2.9.48&r=stable&ec=0&o=158&fbp=fb.1.1641082993999.1976331963&it=1641082993646&coo=false&exp=p0&rqm=GET",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -198,7 +198,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1640478279602&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.48&r=stable&ec=1&o=158&fbp=fb.1.1640478279096.738950801&it=1640478278404&coo=false&es=automatic&tm=3&exp=p1&rqm=GET",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1641082994506&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.48&r=stable&ec=1&o=158&fbp=fb.1.1641082993999.1976331963&it=1641082993646&coo=false&es=automatic&tm=3&exp=p0&rqm=GET",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -211,7 +211,7 @@
       "value": "1",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1640478338,
+      "expires": 1641083053,
       "size": 19,
       "httpOnly": false,
       "secure": false,
@@ -222,11 +222,11 @@
     },
     {
       "name": "_fbp",
-      "value": "fb.1.1640478279096.738950801",
+      "value": "fb.1.1641082993999.1976331963",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1648254279,
-      "size": 32,
+      "expires": 1648858993,
+      "size": 33,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -236,10 +236,10 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.1063718026.1640478278",
+      "value": "GA1.2.1421906649.1641082993",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1640564678,
+      "expires": 1641169393,
       "size": 31,
       "httpOnly": false,
       "secure": false,
@@ -250,11 +250,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.248241369.1640478278",
+      "value": "GA1.2.1739094033.1641082993",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1703550278,
-      "size": 29,
+      "expires": 1704154993,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -264,7 +264,7 @@
     }
   ],
   "headers": {
-    "date": "Sun, 26 Dec 2021 00:24:37 GMT",
+    "date": "Sun, 02 Jan 2022 00:23:12 GMT",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "x-powered-by": "PHP/7.4",
@@ -335,7 +335,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.45.106",
+      "ip": "142.250.73.202",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -458,7 +458,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.164.168",
+      "ip": "142.250.188.40",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -596,7 +596,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.217.1.195",
+      "ip": "172.217.2.99",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -650,7 +650,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.250.73.206",
+      "ip": "142.251.45.14",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -788,7 +788,7 @@
     },
     {
       "hostname": "stats.g.doubleclick.net",
-      "ip": "173.194.68.157",
+      "ip": "173.194.207.157",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -842,7 +842,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "142.251.33.196",
+      "ip": "172.253.115.99",
       "geoip": {
         "continent": {
           "code": "NA",
