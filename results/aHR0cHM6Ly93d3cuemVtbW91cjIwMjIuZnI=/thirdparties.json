@@ -2,11 +2,11 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640452487/mobile/bootstrap.css"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/bootstrap.css"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640452487/mobile/theme.scss"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/theme.scss"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640452487/mobile/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/bootstrap.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640452487/mobile/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/theme.js"
     },
     {
       "type": "google tag manager",
@@ -55,6 +55,30 @@
     {
       "type": "cloudfront",
       "url": "https://df8xkop7ho1no.cloudfront.net/ez_2022_logo_fond_blanc.svg",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/347/attachments/original/1640867652/bg-aaa_%281%29.jpg?1640867652",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/348/attachments/original/1640866846/bg-aaa_%2814%29.jpg?1640866846",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/350/attachments/original/1640866976/bg-aaa_%2816%29.jpg?1640866976",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -138,14 +162,6 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
       "url": "https://df8xkop7ho1no.cloudfront.net/prio/prio-4-530.jpg",
       "details": {
         "id": "cloudfront",
@@ -162,7 +178,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/347/attachments/original/1638211771/bg-toulon.jpeg?1638211771",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1636657857/default_single_bg.jpg?1636657857",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -170,7 +186,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/348/attachments/original/1638211911/bg-lille.jpeg?1638211911",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -213,14 +229,6 @@
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.21f942bb866c2823339b839747a0c50c.html?origin=https%3A%2F%2Fwww.zemmour2022.fr",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "cloudfront",
       "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js",
       "details": {
@@ -229,12 +237,8 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640452487/mobile/bootstrap.min.js"
-    },
-    {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=8e8a429c025e9d36b8e8bb17e2ea813afb4ea0c3",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.21f942bb866c2823339b839747a0c50c.html?origin=https%3A%2F%2Fwww.zemmour2022.fr",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -242,21 +246,33 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640452487/mobile/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/bootstrap.min.js"
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/settings?session_id=57d069fbec567e1a3e366201c046b9bd599ddf60",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
     },
     {
       "type": "unknown",
       "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.zemmour2022.fr&dnt=false&forceshow=false"
+    },
+    {
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/theme.js"
     }
   ],
   "cookies": [
     {
       "name": "_nbuild_token",
-      "value": "JQMJw8G%2BqPybtt%2Bs8ZJdk5cCHiZP1gO%2BzuVO1jPwv18%3D",
+      "value": "h%2FzxmF78va70r7hXbzwi75VR8VWgxXAhSAoxwRJnPFE%3D",
       "domain": "www.zemmour2022.fr",
       "path": "/",
       "expires": -1,
-      "size": 65,
+      "size": 61,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -266,47 +282,47 @@
     }
   ],
   "headers": {
-    "date": "Sun, 26 Dec 2021 00:31:06 GMT",
+    "date": "Sun, 02 Jan 2022 00:29:42 GMT",
     "content-type": "text/html; charset=utf-8",
     "x-rack-cache": "fresh",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "47",
+    "age": "42",
     "x-nb-cached-page": "yes",
-    "x-request-id": "d95f3514-9e46-470c-a783-57aa2fab9f99",
+    "x-request-id": "bc63468d-de62-43b3-90c4-5f29525bb38e",
     "x-served-by": "app11",
-    "x-middleware-start": "t=1640478666527848",
-    "x-content-digest": "d7a5e777fa536e9e5e339c12649add953ef4776a",
+    "x-middleware-start": "t=1641083382308520",
+    "x-content-digest": "20a5f774719d33c36af550d348d87e507b781bae",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.060665",
+    "x-runtime": "0.101854",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=JQMJw8G%2BqPybtt%2Bs8ZJdk5cCHiZP1gO%2BzuVO1jPwv18%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=h%2FzxmF78va70r7hXbzwi75VR8VWgxXAhSAoxwRJnPFE%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "x-nationbuilder": "true",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6c363451997f5884-IAD",
+    "cf-ray": "6c6fdfe34e795c11-IAD",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-27=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "ez.nationbuilder.com",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "consent.cookiebot.com",
-      "ip": "23.212.250.22",
+      "ip": "23.212.251.155",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -385,7 +401,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.250.188.42",
+      "ip": "172.217.164.170",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -439,7 +455,7 @@
     },
     {
       "hostname": "d3n8a8pro7vhmx.cloudfront.net",
-      "ip": "18.67.66.222",
+      "ip": "99.84.185.158",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -493,7 +509,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.81.200",
+      "ip": "172.217.2.104",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -547,173 +563,7 @@
     },
     {
       "hostname": "df8xkop7ho1no.cloudfront.net",
-      "ip": "54.239.153.14",
-      "geoip": {
-        "city": {
-          "geoname_id": 2867714,
-          "names": {
-            "de": "München",
-            "en": "Munich",
-            "es": "Múnich",
-            "fr": "Munich",
-            "ja": "ミュンヘン",
-            "pt-BR": "Munique",
-            "ru": "Мюнхен",
-            "zh-CN": "慕尼黑"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 2921044,
-          "is_in_european_union": true,
-          "iso_code": "DE",
-          "names": {
-            "de": "Deutschland",
-            "en": "Germany",
-            "es": "Alemania",
-            "fr": "Allemagne",
-            "ja": "ドイツ連邦共和国",
-            "pt-BR": "Alemanha",
-            "ru": "Германия",
-            "zh-CN": "德国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 100,
-          "latitude": 48.1663,
-          "longitude": 11.5683,
-          "time_zone": "Europe/Berlin"
-        },
-        "postal": {
-          "code": "80539"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 2951839,
-            "iso_code": "BY",
-            "names": {
-              "de": "Bayern",
-              "en": "Bavaria",
-              "es": "Baviera",
-              "fr": "Bavière",
-              "ja": "バイエルン州",
-              "pt-BR": "Baviera",
-              "ru": "Бавария",
-              "zh-CN": "巴伐利亚"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "consentcdn.cookiebot.com",
-      "ip": "23.2.150.108",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "platform.twitter.com",
-      "ip": "192.229.163.25",
+      "ip": "13.32.192.177",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -745,8 +595,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
+          "latitude": 37.751,
+          "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -762,18 +612,174 @@
             "ru": "США",
             "zh-CN": "美国"
           }
+        }
+      }
+    },
+    {
+      "hostname": "consentcdn.cookiebot.com",
+      "ip": "184.87.82.16",
+      "geoip": {
+        "city": {
+          "geoname_id": 5101798,
+          "names": {
+            "de": "Newark",
+            "en": "Newark",
+            "es": "Newark",
+            "fr": "Newark",
+            "ja": "ニューアーク",
+            "pt-BR": "Newark",
+            "ru": "Ньюарк"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 40.738,
+          "longitude": -74.1634,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "07175"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
         },
         "subdivisions": [
           {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
+            "geoname_id": 5101760,
+            "iso_code": "NJ",
             "names": {
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "ru": "Техас",
-              "zh-CN": "德克萨斯州"
+              "en": "New Jersey",
+              "es": "Nueva Jersey",
+              "fr": "New Jersey",
+              "ja": "ニュージャージー州",
+              "pt-BR": "Nova Jérsia",
+              "ru": "Нью-Джерси",
+              "zh-CN": "新泽西州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "platform.twitter.com",
+      "ip": "151.101.208.157",
+      "geoip": {
+        "city": {
+          "geoname_id": 5101798,
+          "names": {
+            "de": "Newark",
+            "en": "Newark",
+            "es": "Newark",
+            "fr": "Newark",
+            "ja": "ニューアーク",
+            "pt-BR": "Newark",
+            "ru": "Ньюарк"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 40.738,
+          "longitude": -74.1634,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "07175"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5101760,
+            "iso_code": "NJ",
+            "names": {
+              "en": "New Jersey",
+              "es": "Nueva Jersey",
+              "fr": "New Jersey",
+              "ja": "ニュージャージー州",
+              "pt-BR": "Nova Jérsia",
+              "ru": "Нью-Джерси",
+              "zh-CN": "新泽西州"
             }
           }
         ]
@@ -781,7 +787,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.72",
+      "ip": "104.244.42.136",
       "geoip": {
         "continent": {
           "code": "NA",
