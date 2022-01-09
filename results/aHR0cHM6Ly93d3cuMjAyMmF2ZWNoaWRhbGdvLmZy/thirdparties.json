@@ -114,7 +114,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/61/features/original/lemeeting2_%282%29.jpg?1640185116",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/61/features/original/030122_header2.jpg?1641207749",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -122,7 +122,15 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/61/features/original/IMG-20211222-WA0022.jpg?1640249005",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/61/features/original/lemeeting2_%282%29_%281%29.jpg?1641213308",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/199/meta_images/original/51744449615_445ce913ff_k.jpg?1639754354",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -147,14 +155,6 @@
     {
       "type": "cloudfront",
       "url": "https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/194/meta_images/original/51697020967_785130278f_k.jpg?1639159319",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/2022avechidalgo/pages/175/meta_images/original/De%CC%81placement_Bretagne_2_4_%281%29.jpg?1639161809",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -277,14 +277,6 @@
       }
     },
     {
-      "type": "google analytics",
-      "url": "https://www.google-analytics.com/analytics.js",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "twitter",
       "url": "https://platform.twitter.com/widgets/widget_iframe.21f942bb866c2823339b839747a0c50c.html?origin=https%3A%2F%2Fwww.2022avechidalgo.fr",
       "details": {
@@ -302,15 +294,23 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i24&2i274&2e1&3u2&4m2&1u660&2u300&5m5&1e0&5sfr&6sus&10b1&12b1&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=37881",
+      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i24&2i274&2e1&3u2&4m2&1u660&2u300&5m5&1e0&5sfr&6sus&10b1&12b1&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=86011",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
       }
     },
     {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=d07225d004f1de5ba3ac3d7252102e24",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=ce2a3d77761252dad2daab7594009d76",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -322,14 +322,6 @@
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
-      }
-    },
-    {
-      "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=2079211970&t=pageview&_s=1&dl=https%3A%2F%2Fwww.2022avechidalgo.fr%2F&ul=en-us&de=UTF-8&dt=2022%20avec%20Hidalgo%20%E2%80%A2%20Site%20officiel%20d%27Anne%20Hidalgo%2C%20candidate%20%C3%A0%20l%27%C3%A9lection%20pr%C3%A9sidentielle&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAUABAAAAAC~&jid=1883767855&gjid=1364005045&cid=150994817.1641083355&tid=UA-207274027-1&_gid=306199153.1641083355&_r=1&gtm=2ouc10&z=1331350222",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -349,27 +341,11 @@
       }
     },
     {
-      "type": "google analytics",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-207274027-1&cid=150994817.1641083355&jid=1883767855&gjid=1364005045&_gid=306199153.1641083355&_u=YEBAAUAAAAAAAC~&z=182477912",
-      "details": {
-        "id": "google analytics",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&1m2&1d18.17156610741369&2d-85.40636070484433&2m2&1d74.50342104039612&2d90.85783053706844&2u4&4sfr&5e0&6sm%40585000000&7b0&8e0&12e1&13shttps%3A%2F%2Fwww.2022avechidalgo.fr%2F&14b1&callback=_xdc_._6vf19s&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=125500",
+      "url": "https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&1m2&1d18.17156610741369&2d-85.40636070484433&2m2&1d74.50342104039612&2d90.85783053706844&2u4&4sfr&5e0&6sm%40585000000&7b0&8e0&12e1&13shttps%3A%2F%2Fwww.2022avechidalgo.fr%2F&14b1&callback=_xdc_._6vf19s&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=47174",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
-      }
-    },
-    {
-      "type": "facebook",
-      "url": "https://www.facebook.com/x/oauth/status?client_id=126739610711965&input_token&origin=1&redirect_uri=https%3A%2F%2Fwww.2022avechidalgo.fr%2F&sdk=joey&wants_cookie_data=true",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -381,6 +357,14 @@
       }
     },
     {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1695184202&t=pageview&_s=1&dl=https%3A%2F%2Fwww.2022avechidalgo.fr%2F&ul=en-us&de=UTF-8&dt=2022%20avec%20Hidalgo%20%E2%80%A2%20Site%20officiel%20d%27Anne%20Hidalgo%2C%20candidate%20%C3%A0%20l%27%C3%A9lection%20pr%C3%A9sidentielle&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAUABAAAAAC~&jid=957693478&gjid=1188639541&cid=18422911.1641688158&tid=UA-207274027-1&_gid=1093176404.1641688158&_r=1&gtm=2ou150&z=918515818",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "cloudfront",
       "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/maps/markers/colors-sprite.png",
       "details": {
@@ -389,8 +373,24 @@
       }
     },
     {
+      "type": "facebook",
+      "url": "https://www.facebook.com/x/oauth/status?client_id=126739610711965&input_token&origin=1&redirect_uri=https%3A%2F%2Fwww.2022avechidalgo.fr%2F&sdk=joey&wants_cookie_data=true",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-207274027-1&cid=18422911.1641688158&jid=957693478&gjid=1188639541&_gid=1093176404.1641688158&_u=YEBAAUAAAAAAAC~&z=1574786115",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.2022avechidalgo.fr%2F&4sAIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&7m1&1e0&callback=_xdc_._oig3dq&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=82999",
+      "url": "https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.2022avechidalgo.fr%2F&4sAIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&7m1&1e0&callback=_xdc_._oig3dq&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=805",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -398,7 +398,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i8!3i6!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=27881",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i8!3i6!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=45972",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -406,7 +406,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i7!3i6!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=125434",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i7!3i6!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=12454",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -414,7 +414,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i7!3i5!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=120764",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i7!3i5!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=7784",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -422,7 +422,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i8!3i5!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=23211",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i8!3i5!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=41302",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -430,7 +430,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i9!3i5!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=56729",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i9!3i5!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=74820",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -438,7 +438,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i9!3i6!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=61399",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i9!3i6!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=79490",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -446,7 +446,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i6!3i6!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=91916",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i6!3i6!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=110007",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -454,7 +454,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i6!3i5!4i256!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=87246",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i6!3i5!4i256!2m3!1e0!2sm!3i585314786!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=105337",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -462,7 +462,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=68e0641eca6417bbb0c91981ddc8e52f30881329",
+      "url": "https://syndication.twitter.com/settings?session_id=1774df1798d2359ba642e2c16f3216b07a79eb1a",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -470,7 +470,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i4!2i6!3i5!1m4!1m3!1i4!2i7!3i5!1m4!1m3!1i4!2i6!3i6!1m4!1m3!1i4!2i7!3i6!1m4!1m3!1i4!2i8!3i5!1m4!1m3!1i4!2i9!3i5!1m4!1m3!1i4!2i8!3i6!1m4!1m3!1i4!2i9!3i6!2m3!1e0!2sm!3i585313791!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1&callback=_xdc_._mh3q6m&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=108058",
+      "url": "https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i4!2i6!3i5!1m4!1m3!1i4!2i7!3i5!1m4!1m3!1i4!2i6!3i6!1m4!1m3!1i4!2i7!3i6!1m4!1m3!1i4!2i8!3i5!1m4!1m3!1i4!2i9!3i5!1m4!1m3!1i4!2i8!3i6!1m4!1m3!1i4!2i9!3i6!2m3!1e0!2sm!3i585314799!3m12!2sfr!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1&callback=_xdc_._u7uge1&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=64978",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -478,7 +478,7 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/QuotaService.RecordEvent?1shttps%3A%2F%2Fwww.2022avechidalgo.fr%2F&3sAIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&7swinp8d&10e1&callback=_xdc_._v6ghq1&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=127",
+      "url": "https://maps.googleapis.com/maps/api/js/QuotaService.RecordEvent?1shttps%3A%2F%2Fwww.2022avechidalgo.fr%2F&3sAIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&7s6iqpsa&10e1&callback=_xdc_._b6r4tx&key=AIzaSyABrLQgEPlxfasBE9mMtJQ9sgiVx8yvfJ4&token=8504",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
@@ -575,7 +575,7 @@
       "value": "1",
       "domain": ".2022avechidalgo.fr",
       "path": "/",
-      "expires": 1641083415,
+      "expires": 1641688217,
       "size": 25,
       "httpOnly": false,
       "secure": false,
@@ -586,11 +586,11 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.306199153.1641083355",
+      "value": "GA1.2.1093176404.1641688158",
       "domain": ".2022avechidalgo.fr",
       "path": "/",
-      "expires": 1641169755,
-      "size": 30,
+      "expires": 1641774557,
+      "size": 31,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -600,11 +600,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.150994817.1641083355",
+      "value": "GA1.2.18422911.1641688158",
       "domain": ".2022avechidalgo.fr",
       "path": "/",
-      "expires": 1704155355,
-      "size": 29,
+      "expires": 1704760157,
+      "size": 28,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -614,11 +614,11 @@
     },
     {
       "name": "_nbuild_token",
-      "value": "YiEFNoc0k70VKFl3l9vPQwwqJ6q37qmHpx9iZRh1ZYY%3D",
+      "value": "DK1zu4KJRUs4OKEIOhaIh6TLyL9rpv1UcRNiqNBt%2F%2B8%3D",
       "domain": "www.2022avechidalgo.fr",
       "path": "/",
       "expires": -1,
-      "size": 59,
+      "size": 63,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -628,30 +628,30 @@
     }
   ],
   "headers": {
-    "date": "Sun, 02 Jan 2022 00:29:14 GMT",
+    "date": "Sun, 09 Jan 2022 00:29:16 GMT",
     "content-type": "text/html; charset=utf-8",
     "x-rack-cache": "fresh",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "43",
+    "age": "1",
     "x-nb-cached-page": "yes",
-    "x-request-id": "55a1395a-781f-4219-a0d0-161cefa3a1ef",
-    "x-served-by": "app11",
-    "x-middleware-start": "t=1641083354267711",
-    "x-content-digest": "4596679fe3892f92fdb5dd4533e1f32be2f125b1",
+    "x-request-id": "4010f73b-401d-4e19-b55b-268c8aef857f",
+    "x-served-by": "app14",
+    "x-middleware-start": "t=1641688156811430",
+    "x-content-digest": "eeefa0964f59491d8f3bd1ad9b9b3e8deedaed33",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.064058",
+    "x-runtime": "1.154267",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors 2022avechidalgo.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=YiEFNoc0k70VKFl3l9vPQwwqJ6q37qmHpx9iZRh1ZYY%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=DK1zu4KJRUs4OKEIOhaIh6TLyL9rpv1UcRNiqNBt%2F%2B8%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "x-nationbuilder": "true",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6c6fdf329860681a-SEA",
+    "cf-ray": "6ca98ce289bfc99d-SEA",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-27=\":443\"; ma=86400"
   },
@@ -722,7 +722,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.251.33.74",
+      "ip": "142.250.217.74",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -776,7 +776,7 @@
     },
     {
       "hostname": "d3n8a8pro7vhmx.cloudfront.net",
-      "ip": "18.65.227.103",
+      "ip": "52.84.160.74",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -830,7 +830,7 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "142.250.69.202",
+      "ip": "142.251.33.74",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -938,8 +938,20 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "192.229.163.25",
+      "ip": "151.101.52.157",
       "geoip": {
+        "city": {
+          "geoname_id": 5809844,
+          "names": {
+            "de": "Seattle",
+            "en": "Seattle",
+            "es": "Seattle",
+            "fr": "Seattle",
+            "ja": "シアトル",
+            "pt-BR": "Seattle",
+            "ru": "Сиэтл"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -970,9 +982,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
-          "time_zone": "America/Chicago"
+          "latitude": 47.6034,
+          "longitude": -122.3414,
+          "metro_code": 819,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "98111"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -990,15 +1006,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
+            "geoname_id": 5815135,
+            "iso_code": "WA",
             "names": {
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "ru": "Техас",
-              "zh-CN": "德克萨斯州"
+              "en": "Washington",
+              "es": "Washington",
+              "fr": "Washington",
+              "ja": "ワシントン州",
+              "ru": "Вашингтон",
+              "zh-CN": "华盛顿州"
             }
           }
         ]
@@ -1006,7 +1022,7 @@
     },
     {
       "hostname": "apis.google.com",
-      "ip": "142.250.217.110",
+      "ip": "142.250.69.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1060,18 +1076,19 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.3.29",
+      "ip": "157.240.22.25",
       "geoip": {
         "city": {
-          "geoname_id": 5809844,
+          "geoname_id": 5393015,
           "names": {
-            "de": "Seattle",
-            "en": "Seattle",
-            "es": "Seattle",
-            "fr": "Seattle",
-            "ja": "シアトル",
-            "pt-BR": "Seattle",
-            "ru": "Сиэтл"
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
           }
         },
         "continent": {
@@ -1104,13 +1121,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 47.6034,
-          "longitude": -122.3414,
-          "metro_code": 819,
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
           "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "98111"
+          "code": "95052"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1128,15 +1145,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5815135,
-            "iso_code": "WA",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Washington",
-              "es": "Washington",
-              "fr": "Washington",
-              "ja": "ワシントン州",
-              "ru": "Вашингтон",
-              "zh-CN": "华盛顿州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -1144,7 +1163,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.251.33.78",
+      "ip": "142.250.217.110",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1198,61 +1217,7 @@
     },
     {
       "hostname": "maps.gstatic.com",
-      "ip": "142.250.217.67",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "stats.g.doubleclick.net",
-      "ip": "74.125.195.154",
+      "ip": "172.217.14.227",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1306,18 +1271,19 @@
     },
     {
       "hostname": "www.facebook.com",
-      "ip": "157.240.3.35",
+      "ip": "157.240.22.35",
       "geoip": {
         "city": {
-          "geoname_id": 5809844,
+          "geoname_id": 5393015,
           "names": {
-            "de": "Seattle",
-            "en": "Seattle",
-            "es": "Seattle",
-            "fr": "Seattle",
-            "ja": "シアトル",
-            "pt-BR": "Seattle",
-            "ru": "Сиэтл"
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
           }
         },
         "continent": {
@@ -1350,13 +1316,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 47.6034,
-          "longitude": -122.3414,
-          "metro_code": 819,
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
           "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "98111"
+          "code": "95052"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -1374,18 +1340,74 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5815135,
-            "iso_code": "WA",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Washington",
-              "es": "Washington",
-              "fr": "Washington",
-              "ja": "ワシントン州",
-              "ru": "Вашингтон",
-              "zh-CN": "华盛顿州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "stats.g.doubleclick.net",
+      "ip": "74.125.195.155",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     },
     {
@@ -1444,7 +1466,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.69.195",
+      "ip": "142.250.217.67",
       "geoip": {
         "continent": {
           "code": "NA",
