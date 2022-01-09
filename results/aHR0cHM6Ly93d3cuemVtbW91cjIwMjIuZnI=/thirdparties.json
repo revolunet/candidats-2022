@@ -2,11 +2,11 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/bootstrap.css"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641581015/default/bootstrap.css"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/theme.scss"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641581015/default/theme.scss"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641581015/default/bootstrap.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641581015/default/theme.js"
     },
     {
       "type": "google tag manager",
@@ -106,7 +106,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-11-30_14-19-50.jpg",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/25/attachments/original/1637484562/zemmour.jpg?1637484562",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -114,7 +114,15 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Regular.otf",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1641378268/ez-home.jpg?1641378268",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1641379655/degrade-bleu.svg?1641379655",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -131,6 +139,14 @@
     {
       "type": "cloudfront",
       "url": "https://df8xkop7ho1no.cloudfront.net/font/France22-Bold_V2.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Regular.otf",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -178,7 +194,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1636657857/default_single_bg.jpg?1636657857",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -186,7 +202,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1636657857/default_single_bg.jpg?1636657857",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -213,6 +229,46 @@
       }
     },
     {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/ez_2022_logo_fond_blanc.svg",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/347/attachments/original/1640867652/bg-aaa_%281%29.jpg?1640867652",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/348/attachments/original/1640866846/bg-aaa_%2814%29.jpg?1640866846",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/350/attachments/original/1640866976/bg-aaa_%2816%29.jpg?1640866976",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-12-06_14-42-22.jpg",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
       "type": "twitter",
       "url": "https://platform.twitter.com/widgets.js",
       "details": {
@@ -229,14 +285,6 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
       "type": "twitter",
       "url": "https://platform.twitter.com/widgets/widget_iframe.21f942bb866c2823339b839747a0c50c.html?origin=https%3A%2F%2Fwww.zemmour2022.fr",
       "details": {
@@ -245,12 +293,20 @@
       }
     },
     {
+      "type": "cloudfront",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641581015/default/bootstrap.min.js"
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=57d069fbec567e1a3e366201c046b9bd599ddf60",
+      "url": "https://syndication.twitter.com/settings?session_id=56e69bc1edb7846c8ec783674770a84cb7a14986",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -258,21 +314,21 @@
     },
     {
       "type": "unknown",
-      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.zemmour2022.fr&dnt=false&forceshow=false"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641581015/default/theme.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901640946024/mobile/theme.js"
+      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.zemmour2022.fr&dnt=false&forceshow=false"
     }
   ],
   "cookies": [
     {
       "name": "_nbuild_token",
-      "value": "h%2FzxmF78va70r7hXbzwi75VR8VWgxXAhSAoxwRJnPFE%3D",
+      "value": "a7uZ9uCrz6sLPeei0gan9wtC7enFDEra703dba187as%3D",
       "domain": "www.zemmour2022.fr",
       "path": "/",
       "expires": -1,
-      "size": 61,
+      "size": 59,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -282,47 +338,47 @@
     }
   ],
   "headers": {
-    "date": "Sun, 02 Jan 2022 00:29:42 GMT",
+    "date": "Sun, 09 Jan 2022 00:30:00 GMT",
     "content-type": "text/html; charset=utf-8",
     "x-rack-cache": "fresh",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "42",
+    "age": "19",
     "x-nb-cached-page": "yes",
-    "x-request-id": "bc63468d-de62-43b3-90c4-5f29525bb38e",
-    "x-served-by": "app11",
-    "x-middleware-start": "t=1641083382308520",
-    "x-content-digest": "20a5f774719d33c36af550d348d87e507b781bae",
+    "x-request-id": "b713c5ab-2790-4515-9ede-47df70a04b1d",
+    "x-served-by": "app14",
+    "x-middleware-start": "t=1641688200233284",
+    "x-content-digest": "e2960619c06d26a980f3ac56ac2a5ddd4a13e78c",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.101854",
+    "x-runtime": "0.060840",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=h%2FzxmF78va70r7hXbzwi75VR8VWgxXAhSAoxwRJnPFE%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=a7uZ9uCrz6sLPeei0gan9wtC7enFDEra703dba187as%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "x-nationbuilder": "true",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6c6fdfe34e795c11-IAD",
+    "cf-ray": "6ca98df35b6057a6-IAD",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-27=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "ez.nationbuilder.com",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "consent.cookiebot.com",
-      "ip": "23.212.251.155",
+      "ip": "23.205.107.72",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -401,7 +457,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "172.217.164.170",
+      "ip": "172.217.0.42",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -455,7 +511,7 @@
     },
     {
       "hostname": "d3n8a8pro7vhmx.cloudfront.net",
-      "ip": "99.84.185.158",
+      "ip": "99.84.185.22",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -509,7 +565,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.2.104",
+      "ip": "172.217.0.40",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -563,41 +619,58 @@
     },
     {
       "hostname": "df8xkop7ho1no.cloudfront.net",
-      "ip": "13.32.192.177",
+      "ip": "54.239.153.180",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
+        "city": {
+          "geoname_id": 2867714,
           "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
+            "de": "München",
+            "en": "Munich",
+            "es": "Múnich",
+            "fr": "Munich",
+            "ja": "ミュンヘン",
+            "pt-BR": "Munique",
+            "ru": "Мюнхен",
+            "zh-CN": "慕尼黑"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
           }
         },
         "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 2921044,
+          "is_in_european_union": true,
+          "iso_code": "DE",
           "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Deutschland",
+            "en": "Germany",
+            "es": "Alemania",
+            "fr": "Allemagne",
+            "ja": "ドイツ連邦共和国",
+            "pt-BR": "Alemanha",
+            "ru": "Германия",
+            "zh-CN": "德国"
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 100,
+          "latitude": 48.1663,
+          "longitude": 11.5683,
+          "time_zone": "Europe/Berlin"
+        },
+        "postal": {
+          "code": "80539"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -612,7 +685,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 2951839,
+            "iso_code": "BY",
+            "names": {
+              "de": "Bayern",
+              "en": "Bavaria",
+              "es": "Baviera",
+              "fr": "Bavière",
+              "ja": "バイエルン州",
+              "pt-BR": "Baviera",
+              "ru": "Бавария",
+              "zh-CN": "巴伐利亚"
+            }
+          }
+        ]
       }
     },
     {
@@ -702,20 +791,8 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "151.101.208.157",
+      "ip": "72.21.91.66",
       "geoip": {
-        "city": {
-          "geoname_id": 5101798,
-          "names": {
-            "de": "Newark",
-            "en": "Newark",
-            "es": "Newark",
-            "fr": "Newark",
-            "ja": "ニューアーク",
-            "pt-BR": "Newark",
-            "ru": "Ньюарк"
-          }
-        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -746,13 +823,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.738,
-          "longitude": -74.1634,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "07175"
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -767,27 +840,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5101760,
-            "iso_code": "NJ",
-            "names": {
-              "en": "New Jersey",
-              "es": "Nueva Jersey",
-              "fr": "New Jersey",
-              "ja": "ニュージャージー州",
-              "pt-BR": "Nova Jérsia",
-              "ru": "Нью-Джерси",
-              "zh-CN": "新泽西州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.136",
+      "ip": "104.244.42.200",
       "geoip": {
         "continent": {
           "code": "NA",
