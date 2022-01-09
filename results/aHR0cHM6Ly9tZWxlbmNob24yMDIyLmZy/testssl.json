@@ -1,1403 +1,6 @@
 [
          {
               "id"           : "service",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "HTTP"
-          }
-,         {
-              "id"           : "pre_128cipher",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No 128 cipher limit bug"
-          }
-,         {
-              "id"           : "SSLv2",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "SSLv3",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "TLS1",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "offered (deprecated)"
-          }
-,         {
-              "id"           : "TLS1_1",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "offered (deprecated)"
-          }
-,         {
-              "id"           : "TLS1_2",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "TLS1_3",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered with final"
-          }
-,         {
-              "id"           : "ALPN_HTTP2",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "h2"
-          }
-,         {
-              "id"           : "ALPN",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "http/1.1"
-          }
-,         {
-              "id"           : "cipherlist_NULL",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_aNULL",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_EXPORT",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_LOW",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cwe"          : "CWE-327",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_3DES_IDEA",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-310",
-              "finding"      : "not offered"
-          }
-,         {
-              "id"           : "cipherlist_AVERAGE",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "cwe"          : "CWE-310",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cipherlist_GOOD",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cipherlist_STRONG",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cipher_order",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "server -- TLS 1.3 client determined"
-          }
-,         {
-              "id"           : "protocol_negotiated",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "Default protocol TLS1.3"
-          }
-,         {
-              "id"           : "cipher_negotiated",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "TLS_AES_256_GCM_SHA384, 253 bit ECDH (X25519)"
-          }
-,         {
-              "id"           : "cipherorder_TLSv1",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-SHA"
-          }
-,         {
-              "id"           : "cipherorder_TLSv1_1",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-SHA"
-          }
-,         {
-              "id"           : "cipherorder_TLSv1_2",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "FS",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "FS_ciphers",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256 ECDHE-ECDSA-AES128-SHA256 ECDHE-ECDSA-AES128-SHA ECDHE-ECDSA-AES256-GCM-SHA384 ECDHE-ECDSA-AES256-SHA384 ECDHE-ECDSA-AES256-SHA ECDHE-ECDSA-CHACHA20-POLY1305-OLD ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA ECDHE-RSA-CHACHA20-POLY1305-OLD"
-          }
-,         {
-              "id"           : "FS_ECDHE_curves",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "prime256v1"
-          }
-,         {
-              "id"           : "TLS_extensions",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
-          }
-,         {
-              "id"           : "TLS_session_ticket",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "valid for 64800 seconds only (<daily)"
-          }
-,         {
-              "id"           : "SSL_sessionID_support",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "yes"
-          }
-,         {
-              "id"           : "sessionresumption_ticket",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "supported"
-          }
-,         {
-              "id"           : "sessionresumption_ID",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "supported"
-          }
-,         {
-              "id"           : "TLS_timestamp",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "off by 0 seconds from your localtime"
-          }
-,         {
-              "id"           : "certificate_compression",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0002/Brotli"
-          }
-,         {
-              "id"           : "clientAuth",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "none"
-          }
-,         {
-              "id"           : "cert_numbers",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2"
-          }
-,         {
-              "id"           : "cert_signatureAlgorithm <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "SHA256 with RSA"
-          }
-,         {
-              "id"           : "cert_keySize <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "RSA 2048 bits (exponent is 65537)"
-          }
-,         {
-              "id"           : "cert_keyUsage <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Digital Signature, Key Encipherment"
-          }
-,         {
-              "id"           : "cert_extKeyUsage <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
-          }
-,         {
-              "id"           : "cert_serialNumber <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0B0F4EE3DE8E928DCD825FFE5CCC4CA2"
-          }
-,         {
-              "id"           : "cert_serialNumberLen <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "16"
-          }
-,         {
-              "id"           : "cert_fingerprintSHA1 <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "28F73921FFA430ACB6EA615C0883E33E63BB2C78"
-          }
-,         {
-              "id"           : "cert_fingerprintSHA256 <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
-          }
-,         {
-              "id"           : "cert <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE----- MIIGyzCCBbOgAwIBAgIQCw9O496Oko3Ngl/+XMxMojANBgkqhkiG9w0BAQsFADBK MQswCQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UE AxMXQ2xvdWRmbGFyZSBJbmMgUlNBIENBLTIwHhcNMjEwNjI0MDAwMDAwWhcNMjIw NjIzMjM1OTU5WjB1MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEW MBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5j LjEeMBwGA1UEAxMVc25pLmNsb3VkZmxhcmVzc2wuY29tMIIBIjANBgkqhkiG9w0B AQEFAAOCAQ8AMIIBCgKCAQEAuhj/m/0CvobnPNS7vSfVaWfgRUAuEbCK/JbRJuka bNS5WeSczhR+bZV5FKQkRm9rgh7eQV9AfvvS1PYrl4MV3ddEVjuNc4gS2P+ukpU1 Uio0lMWJhrfqxnbSGxpak/F3xu7XiTPdRT26YMrQJYNPnpT7zIApiUXKv9U+9phS 1lXHK7EpFAtir/TOFjLF4sJe/ifKuSCXEK+nIkcqYRQLezy9aCmeH6ej5TttHn/m UHeZlEfAQ9QxTc4c1+v8hyAPqkp0xEVu5xZJUEe5wv7m6v1GRVcthJ+rkZo4hGQI yKzAS8+lZXVslC2pbH+7qUoQrDJ7tCvb/MP6l+GANNhYeQIDAQABo4IDgDCCA3ww HwYDVR0jBBgwFoAUGKka/LJFScFvMDQIK9mHnLAlV3owHQYDVR0OBBYEFLvUdsyV O3+jvHeUNkBgw5dsx7v4MEYGA1UdEQQ/MD2CFXNuaS5jbG91ZGZsYXJlc3NsLmNv bYISKi5tZWxlbmNob24yMDIyLmZyghBtZWxlbmNob24yMDIyLmZyMA4GA1UdDwEB /wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwewYDVR0fBHQw cjA3oDWgM4YxaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNS U0FDQS0yLmNybDA3oDWgM4YxaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0Nsb3Vk ZmxhcmVJbmNSU0FDQS0yLmNybDA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsG AQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwdgYIKwYBBQUHAQEE ajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYB BQUHMAKGNGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5j UlNBQ0EtMi5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIB agFoAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF6PqKCNAAA BAMARzBFAiEAmgh6gdLZWPoJJqARYfhvy5n8ckxgzMjIS7zjw46ZceACIG3Y6628 PWLGkysmLkWAqwj4FikPuKVWkRO2A3YboWL0AHYAIkVFB1lVJFaWP6Ev8fdthuAj JmOtwEt/XcaDXG7iDwIAAAF6PqKB2QAABAMARzBFAiAtF5APuhlqS6KQXdCLDubE RqzNVLX5lFhF8ADN0A4L4AIhAMR9AYjsvktTdljkKsgvfdw4fnI6/gh/resbAAht SaU2AHYAUaOw9f0BeZxWbbg3eI8MpHrMGyfL956IQpoN/tSLBeUAAAF6PqKCDAAA BAMARzBFAiAleusQX7Yk18Vis30u/Ed40gulBtLWdV8/Wc5S2b9BSQIhAJ6iwW8g HF2BHmNGAlUqlAS8cViAL6jOY/HFYHwPdw4GMA0GCSqGSIb3DQEBCwUAA4IBAQBQ nK0OTDkbHohvsjpZQdFupLfkIEi/X4KLvyx8r45KZYIGLxhfrkrsMHaKuBp5iNld iNl/uquEOdbqjtR8IMaJMGtpPiNbSMJKiY+2wM7k50AB7exgdIghcmlUw3UHmz4x jPeeWVgsAXfTecSINO/biJQ7AkUGTkwqdf4FT3ZdZLRXy2mszcrqqaghXnh9A+eP KvUYorlK+8YPZuF1s1ny/DDNGqjDTRiXUyJEIZ9Go2S+ql4hGc/P90IIw8b7fsbM znngeeTC7x9uHLT13J6+RcRtrPWHd4q/7pCVjYrJE+sVzN000DGPpJ8o5PBlEeRK h4MaUIugPDihDpk5oHbD -----END CERTIFICATE-----"
-          }
-,         {
-              "id"           : "cert_commonName <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "sni.cloudflaressl.com"
-          }
-,         {
-              "id"           : "cert_commonName_wo_SNI <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "request w/o SNI didn't succeed"
-          }
-,         {
-              "id"           : "cert_subjectAltName <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "sni.cloudflaressl.com *.melenchon2022.fr melenchon2022.fr"
-          }
-,         {
-              "id"           : "cert_trust <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "Ok via SAN (SNI mandatory)"
-          }
-,         {
-              "id"           : "cert_chain_of_trust <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "passed."
-          }
-,         {
-              "id"           : "cert_certificatePolicies_EV <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no"
-          }
-,         {
-              "id"           : "cert_expirationStatus <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "172 >= 60 days"
-          }
-,         {
-              "id"           : "cert_notBefore <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2021-06-24 00:00"
-          }
-,         {
-              "id"           : "cert_notAfter <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "2022-06-23 23:59"
-          }
-,         {
-              "id"           : "cert_extlifeSpan <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "certificate has no extended life time according to browser forum"
-          }
-,         {
-              "id"           : "cert_eTLS <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not present"
-          }
-,         {
-              "id"           : "cert_crlDistributionPoints <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "http://crl3.digicert.com/CloudflareIncRSACA-2.crl http://crl4.digicert.com/CloudflareIncRSACA-2.crl"
-          }
-,         {
-              "id"           : "cert_ocspURL <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "http://ocsp.digicert.com"
-          }
-,         {
-              "id"           : "OCSP_stapling <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
-          }
-,         {
-              "id"           : "cert_mustStapleExtension <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "DNS_CAArecord <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "issue=comodoca.com, issue=digicert.com;, issue=letsencrypt.org, issuewild=comodoca.com, issuewild=digicert.com;, issuewild=letsencrypt.org"
-          }
-,         {
-              "id"           : "certificate_transparency <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "yes (certificate extension)"
-          }
-,         {
-              "id"           : "certs_countServer <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2"
-          }
-,         {
-              "id"           : "certs_list_ordering_problem <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no"
-          }
-,         {
-              "id"           : "cert_caIssuers <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Cloudflare Inc RSA CA-2 (Cloudflare, Inc. from US)"
-          }
-,         {
-              "id"           : "intermediate_cert <#1> <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE----- MIIEmDCCA4CgAwIBAgIQAtiaFXPzs7jaFFtYOJgpBzANBgkqhkiG9w0BAQsFADBa MQswCQYDVQQGEwJJRTESMBAGA1UEChMJQmFsdGltb3JlMRMwEQYDVQQLEwpDeWJl clRydXN0MSIwIAYDVQQDExlCYWx0aW1vcmUgQ3liZXJUcnVzdCBSb290MB4XDTIw MDEyNzEyNDYzOVoXDTI0MTIzMTIzNTk1OVowSjELMAkGA1UEBhMCVVMxGTAXBgNV BAoTEENsb3VkZmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkZmxhcmUgSW5jIFJT QSBDQS0yMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtV0myAmrsTNd DLKWBcIxA05+X4cCxm+AJO3arhy+552A98XPVAFmOCjo5mm7nfiBMWpW9ejBpehZ 6LPgOgFhCCiwfs2g/c43AMPpqY0LyXjKpmBGgK90BS1P2ugJUsibWjLPISFHj1wa iqoXwBhwsQHx3t8thamV7FtXOTm+hcLv17YsSj/R1rMhopdPJSxCI33XsxnWEmmF AAKv1aoS2Ghkf+OtGJ1SL8Xl9JGv5QnZi0bnzzIVIvA3xP2L5uIdFsw6SNeBYYK/ PXLZcF7sCmkk4jxI4/7T5VHUK8ASoU+TcJm/t9KDbmktyM2iYhhMQzdfFjp2k1r6 bmldmsWIwQIDAQABo4IBaDCCAWQwHQYDVR0OBBYEFBipGvyyRUnBbzA0CCvZh5yw JVd6MB8GA1UdIwQYMBaAFOWdWTCCR1jMrPoIVDaGezq1BE3wMA4GA1UdDwEB/wQE AwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwEgYDVR0TAQH/BAgw BgEB/wIBADA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw LmRpZ2ljZXJ0LmNvbTA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vY3JsMy5kaWdp Y2VydC5jb20vT21uaXJvb3QyMDI1LmNybDBtBgNVHSAEZjBkMDcGCWCGSAGG/WwB ATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAsG CWCGSAGG/WwBAjAIBgZngQwBAgEwCAYGZ4EMAQICMAgGBmeBDAECAzANBgkqhkiG 9w0BAQsFAAOCAQEAfLCdjh6mZHIQ4WHd83Q9UKca58JOFwwVJisXj0HnkPCw8/LS 51CA0gfGqX+6k+u+wcGG+E+EvAV85nIv6bbGdmnd8mpHa5NUGKQNgAM1J92Kn8iE l9O04NqmBfDnz+admJTSy9oid9hJC6hVjonU0s7Q6NrgQv0dzn6WhMqnw5Ennym8 /+0uNP1GKu9OVnzo3CKX7VMJW7p74PJPpVmVQc2zci5cb3pKFUMrIsvUPyB88/p8 2x4PSnNx6dXdRraeHRMegHGZ3/VQfjOB0jV1JF6PmFqokkX0tNiIprFkBun7+WVI 9pbDH55GEgF+WjBTXTQcFeIS8vGLlfCU+K3jkw== -----END CERTIFICATE-----"
-          }
-,         {
-              "id"           : "intermediate_cert_fingerprintSHA256 <#1> <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "AEC863898F284D6CD4C6A3F6C3E6523480A359C33DAF66FAD3381849B8BB018B"
-          }
-,         {
-              "id"           : "intermediate_cert_notBefore <#1> <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2020-01-27 12:46"
-          }
-,         {
-              "id"           : "intermediate_cert_notAfter <#1> <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "2024-12-31 23:59"
-          }
-,         {
-              "id"           : "intermediate_cert_expiration <#1> <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "ok > 40 days"
-          }
-,         {
-              "id"           : "intermediate_cert_chain <#1> <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Cloudflare Inc RSA CA-2 <-- Baltimore CyberTrust Root"
-          }
-,         {
-              "id"           : "intermediate_cert_badOCSP <hostCert#1>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "intermediate certificate(s) is/are ok"
-          }
-,         {
-              "id"           : "cert_signatureAlgorithm <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "ECDSA with SHA256"
-          }
-,         {
-              "id"           : "cert_keySize <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "EC 256 bits (curve P-256)"
-          }
-,         {
-              "id"           : "cert_keyUsage <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Digital Signature"
-          }
-,         {
-              "id"           : "cert_extKeyUsage <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
-          }
-,         {
-              "id"           : "cert_serialNumber <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0BE4A6AA60889A5005D4D8E78DD6BC2A"
-          }
-,         {
-              "id"           : "cert_serialNumberLen <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "16"
-          }
-,         {
-              "id"           : "cert_fingerprintSHA1 <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "B3B8A72BFC70FC67494165EF57DEC7B3538CEE3D"
-          }
-,         {
-              "id"           : "cert_fingerprintSHA256 <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "5788E921A5F3AC163674B68069A5651D0B16981C13D796DAC077FB45EE7143A4"
-          }
-,         {
-              "id"           : "cert <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE----- MIIFPzCCBOSgAwIBAgIQC+SmqmCImlAF1Njnjda8KjAKBggqhkjOPQQDAjBKMQsw CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjEwNjI0MDAwMDAwWhcNMjIwNjIz MjM1OTU5WjB1MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEe MBwGA1UEAxMVc25pLmNsb3VkZmxhcmVzc2wuY29tMFkwEwYHKoZIzj0CAQYIKoZI zj0DAQcDQgAECbcnuxO9syDoQfOLyp2Nw2khrC9Ot1odvwmDkh9Ya/Hg2Mho/gqU 2cYXj23SzwoblQLP0Av+eiMv7xLMqR4pZqOCA38wggN7MB8GA1UdIwQYMBaAFKXO N+rrsHUOlGeItEX62SQQh5YfMB0GA1UdDgQWBBSsS1R87FwAxnav8bMIMaHV8PvE KzBGBgNVHREEPzA9ghVzbmkuY2xvdWRmbGFyZXNzbC5jb22CEioubWVsZW5jaG9u MjAyMi5mcoIQbWVsZW5jaG9uMjAyMi5mcjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0l BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHsGA1UdHwR0MHIwN6A1oDOGMWh0dHA6 Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcmwwN6A1 oDOGMWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0Et My5jcmwwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov L3d3dy5kaWdpY2VydC5jb20vQ1BTMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcw AYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEAGCCsGAQUFBzAChjRodHRwOi8v Y2FjZXJ0cy5kaWdpY2VydC5jb20vQ2xvdWRmbGFyZUluY0VDQ0NBLTMuY3J0MAwG A1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2ACl5vvCeOTkh 8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABej6ihusAAAQDAEcwRQIgOzvBJIfJ fwBeswtXWeGcFLg55J1NYzxafH4fxS3Xe7QCIQC2/GsuUzD7W1fzxtDSYA3Ym/r7 XwSGQqu+3vZEZWU+aQB2ACJFRQdZVSRWlj+hL/H3bYbgIyZjrcBLf13Gg1xu4g8C AAABej6ihmwAAAQDAEcwRQIgANMka34481viTgRG8Mm1qxMkRPmqugfETzx8ZdpD mtACIQC38aR3WK715RTo/xrPg00PBNYyzg7uEFXhMD00/q+JKQB1AFGjsPX9AXmc Vm24N3iPDKR6zBsny/eeiEKaDf7UiwXlAAABej6ihrIAAAQDAEYwRAIgN/W27396 ZrDL4Rnpqj4d6IRzy17cTTF6S7K+9mXVo7oCIHRLl8APYVMl/o65WA0KZkpU6HfN zlZpJ8Tj/js9xQpiMAoGCCqGSM49BAMCA0kAMEYCIQCrgyR69Xn8fP0oeg4sBr3Y t7kDCsnOVukFUuieJ1MQ6QIhAP0Z99lCnHAir7PoMU5EB3tCEsoAq/LzRnBDm9HW ZiZK -----END CERTIFICATE-----"
-          }
-,         {
-              "id"           : "cert_commonName <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "sni.cloudflaressl.com"
-          }
-,         {
-              "id"           : "cert_commonName_wo_SNI <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "request w/o SNI didn't succeed, usual for EC certificates"
-          }
-,         {
-              "id"           : "cert_subjectAltName <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "sni.cloudflaressl.com *.melenchon2022.fr melenchon2022.fr"
-          }
-,         {
-              "id"           : "cert_trust <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "Ok via SAN (SNI mandatory)"
-          }
-,         {
-              "id"           : "cert_chain_of_trust <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "passed."
-          }
-,         {
-              "id"           : "cert_certificatePolicies_EV <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no"
-          }
-,         {
-              "id"           : "cert_expirationStatus <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "172 >= 60 days"
-          }
-,         {
-              "id"           : "cert_notBefore <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2021-06-24 00:00"
-          }
-,         {
-              "id"           : "cert_notAfter <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "2022-06-23 23:59"
-          }
-,         {
-              "id"           : "cert_extlifeSpan <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "certificate has no extended life time according to browser forum"
-          }
-,         {
-              "id"           : "cert_eTLS <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "not present"
-          }
-,         {
-              "id"           : "cert_crlDistributionPoints <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "http://crl3.digicert.com/CloudflareIncECCCA-3.crl http://crl4.digicert.com/CloudflareIncECCCA-3.crl"
-          }
-,         {
-              "id"           : "cert_ocspURL <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "http://ocsp.digicert.com"
-          }
-,         {
-              "id"           : "OCSP_stapling <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
-          }
-,         {
-              "id"           : "cert_mustStapleExtension <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "DNS_CAArecord <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "issue=comodoca.com, issue=digicert.com;, issue=letsencrypt.org, issuewild=comodoca.com, issuewild=digicert.com;, issuewild=letsencrypt.org"
-          }
-,         {
-              "id"           : "certificate_transparency <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "yes (certificate extension)"
-          }
-,         {
-              "id"           : "certs_countServer <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2"
-          }
-,         {
-              "id"           : "certs_list_ordering_problem <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no"
-          }
-,         {
-              "id"           : "cert_caIssuers <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Cloudflare Inc ECC CA-3 (Cloudflare, Inc. from US)"
-          }
-,         {
-              "id"           : "intermediate_cert <#1> <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE----- MIIDzTCCArWgAwIBAgIQCjeHZF5ftIwiTv0b7RQMPDANBgkqhkiG9w0BAQsFADBa MQswCQYDVQQGEwJJRTESMBAGA1UEChMJQmFsdGltb3JlMRMwEQYDVQQLEwpDeWJl clRydXN0MSIwIAYDVQQDExlCYWx0aW1vcmUgQ3liZXJUcnVzdCBSb290MB4XDTIw MDEyNzEyNDgwOFoXDTI0MTIzMTIzNTk1OVowSjELMAkGA1UEBhMCVVMxGTAXBgNV BAoTEENsb3VkZmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkZmxhcmUgSW5jIEVD QyBDQS0zMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEua1NZpkUC0bsH4HRKlAe nQMVLzQSfS2WuIg4m4Vfj7+7Te9hRsTJc9QkT+DuHM5ss1FxL2ruTAUJd9NyYqSb 16OCAWgwggFkMB0GA1UdDgQWBBSlzjfq67B1DpRniLRF+tkkEIeWHzAfBgNVHSME GDAWgBTlnVkwgkdYzKz6CFQ2hns6tQRN8DAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0l BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBIGA1UdEwEB/wQIMAYBAf8CAQAwNAYI KwYBBQUHAQEEKDAmMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5j b20wOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL09t bmlyb290MjAyNS5jcmwwbQYDVR0gBGYwZDA3BglghkgBhv1sAQEwKjAoBggrBgEF BQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzALBglghkgBhv1sAQIw CAYGZ4EMAQIBMAgGBmeBDAECAjAIBgZngQwBAgMwDQYJKoZIhvcNAQELBQADggEB AAUkHd0bsCrrmNaF4zlNXmtXnYJX/OvoMaJXkGUFvhZEOFp3ArnPEELG4ZKk40Un +ABHLGioVplTVI+tnkDB0A+21w0LOEhsUCxJkAZbZB2LzEgwLt4I4ptJIsCSDBFe lpKU1fwg3FZs5ZKTv3ocwDfjhUkV+ivhdDkYD7fa86JXWGBPzI6UAPxGezQxPk1H goE6y/SJXQ7vTQ1unBuCJN0yJV0ReFEQPaA1IwQvZW+cwdFD19Ae8zFnWSfda9J1 CZMRJCQUzym+5iPDuI9yP+kHyCREU3qzuWFloUwOxkgAyXVjBYdwRVKD05WdRerw 6DEdfgkfCv4+3ao8XnTSrLE= -----END CERTIFICATE-----"
-          }
-,         {
-              "id"           : "intermediate_cert_fingerprintSHA256 <#1> <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "3ABBE63DAF756C5016B6B85F52015FD8E8ACBE277C5087B127A60563A841ED8A"
-          }
-,         {
-              "id"           : "intermediate_cert_notBefore <#1> <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "2020-01-27 12:48"
-          }
-,         {
-              "id"           : "intermediate_cert_notAfter <#1> <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "2024-12-31 23:59"
-          }
-,         {
-              "id"           : "intermediate_cert_expiration <#1> <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "ok > 40 days"
-          }
-,         {
-              "id"           : "intermediate_cert_chain <#1> <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Cloudflare Inc ECC CA-3 <-- Baltimore CyberTrust Root"
-          }
-,         {
-              "id"           : "intermediate_cert_badOCSP <hostCert#2>",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "intermediate certificate(s) is/are ok"
-          }
-,         {
-              "id"           : "HTTP_status_code",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "200 OK ('/')"
-          }
-,         {
-              "id"           : "HTTP_clock_skew",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
-          }
-,         {
-              "id"           : "HTTP_headerTime",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "1641083046"
-          }
-,         {
-              "id"           : "HSTS_time",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "max-age too short. 1 days (=86400 seconds) < 15552000 seconds"
-          }
-,         {
-              "id"           : "HSTS_subdomains",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "only for this domain"
-          }
-,         {
-              "id"           : "HSTS_preload",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "domain is NOT marked for preloading"
-          }
-,         {
-              "id"           : "HPKP",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No support for HTTP Public Key Pinning"
-          }
-,         {
-              "id"           : "banner_server",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "cloudflare"
-          }
-,         {
-              "id"           : "banner_application",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No application banner found"
-          }
-,         {
-              "id"           : "cookie_count",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "0 at '/'"
-          }
-,         {
-              "id"           : "Expect-CT",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "max-age=604800, report-uri='https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct'"
-          }
-,         {
-              "id"           : "Cache-Control",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "no-cache"
-          }
-,         {
-              "id"           : "banner_reverseproxy",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cwe"          : "CWE-200",
-              "finding"      : "--"
-          }
-,         {
-              "id"           : "heartbleed",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-0160",
-              "cwe"          : "CWE-119",
-              "finding"      : "not vulnerable, no heartbeat extension"
-          }
-,         {
-              "id"           : "CCS",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-0224",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "ticketbleed",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2016-9244",
-              "cwe"          : "CWE-200",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "ROBOT",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
-              "cwe"          : "CWE-203",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "secure_renego",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "WARN",
-              "cwe"          : "CWE-310",
-              "finding"      : "OpenSSL handshake didn't succeed"
-          }
-,         {
-              "id"           : "secure_client_renego",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2011-1473",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "CRIME_TLS",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2012-4929",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "BREACH",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "cve"          : "CVE-2013-3587",
-              "cwe"          : "CWE-310",
-              "finding"      : "potentially VULNERABLE, br gzip HTTP compression detected  - only supplied '/' tested"
-          }
-,         {
-              "id"           : "POODLE_SSL",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-3566",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable, no SSLv3"
-          }
-,         {
-              "id"           : "fallback_SCSV",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "supported"
-          }
-,         {
-              "id"           : "SWEET32",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "cve"          : "CVE-2016-2183 CVE-2016-6329",
-              "cwe"          : "CWE-327",
-              "finding"      : "uses 64 bit block ciphers"
-          }
-,         {
-              "id"           : "FREAK",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2015-0204",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "DROWN",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2016-0800 CVE-2016-0703",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable on this host and port"
-          }
-,         {
-              "id"           : "DROWN_hint",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "cve"          : "CVE-2016-0800 CVE-2016-0703",
-              "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
-          }
-,         {
-              "id"           : "LOGJAM",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2015-4000",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable, no DH EXPORT ciphers,"
-          }
-,         {
-              "id"           : "LOGJAM-common_primes",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2015-4000",
-              "cwe"          : "CWE-310",
-              "finding"      : "no DH key with <= TLS 1.2"
-          }
-,         {
-              "id"           : "BEAST_CBC_TLS1",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "cve"          : "CVE-2011-3389",
-              "cwe"          : "CWE-20",
-              "finding"      : "ECDHE-RSA-AES128-SHA AES128-SHA ECDHE-RSA-AES256-SHA AES256-SHA DES-CBC3-SHA"
-          }
-,         {
-              "id"           : "BEAST",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "cve"          : "CVE-2011-3389",
-              "cwe"          : "CWE-20",
-              "finding"      : "VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)"
-          }
-,         {
-              "id"           : "LUCKY13",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "cve"          : "CVE-2013-0169",
-              "cwe"          : "CWE-310",
-              "finding"      : "potentially vulnerable, uses TLS CBC ciphers"
-          }
-,         {
-              "id"           : "winshock",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2014-6321",
-              "cwe"          : "CWE-94",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "RC4",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "OK",
-              "cve"          : "CVE-2013-2566 CVE-2015-2808",
-              "cwe"          : "CWE-310",
-              "finding"      : "not vulnerable"
-          }
-,         {
-              "id"           : "clientsimulation-android_442",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-android_500",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
-          }
-,         {
-              "id"           : "clientsimulation-android_60",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
-          }
-,         {
-              "id"           : "clientsimulation-android_70",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-android_81",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-android_90",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-android_X",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-chrome_74_win10",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-chrome_79_win10",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-firefox_66_win81",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-firefox_71_win10",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-ie_6_xp",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_8_win7",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-ie_8_xp",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win7",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win81",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_winphone81",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-ie_11_win10",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-edge_15_win10",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-edge_17_win10",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-opera_66_win10",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-safari_9_ios9",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-safari_9_osx1011",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-safari_10_osx1012",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-safari_121_ios_122",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-safari_130_osx_10146",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-apple_ats_9_ios9",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-java_6u45",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
-          }
-,         {
-              "id"           : "clientsimulation-java_7u25",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-java_8u161",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-java1102",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-java1201",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_102e",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_110l",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305"
-          }
-,         {
-              "id"           : "clientsimulation-openssl_111d",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
-          }
-,         {
-              "id"           : "clientsimulation-thunderbird_68_3_1",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "rating_spec",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
-          }
-,         {
-              "id"           : "rating_doc",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
-          }
-,         {
-              "id"           : "protocol_support_score",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "95"
-          }
-,         {
-              "id"           : "protocol_support_score_weighted",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "28"
-          }
-,         {
-              "id"           : "key_exchange_score",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "90"
-          }
-,         {
-              "id"           : "key_exchange_score_weighted",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "27"
-          }
-,         {
-              "id"           : "cipher_strength_score",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "60"
-          }
-,         {
-              "id"           : "cipher_strength_score_weighted",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "24"
-          }
-,         {
-              "id"           : "final_score",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "79"
-          }
-,         {
-              "id"           : "overall_grade",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "B"
-          }
-,         {
-              "id"           : "grade_cap_reason_1",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to B. TLS 1.1 offered"
-          }
-,         {
-              "id"           : "grade_cap_reason_2",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to B. TLS 1.0 offered"
-          }
-,         {
-              "id"           : "grade_cap_reason_3",
-              "ip"           : "melenchon2022.fr/172.67.68.169",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "Grade capped to A. HSTS max-age is too short"
-          }
-,         {
-              "id"           : "service",
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "INFO",
@@ -1617,14 +220,14 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1764,7 +367,7 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "172 >= 60 days"
+              "finding"      : "165 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -2023,7 +626,7 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "172 >= 60 days"
+              "finding"      : "165 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2191,7 +794,7 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1641083122"
+              "finding"      : "1641687810"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -2795,6 +1398,1403 @@
           }
 ,         {
               "id"           : "service",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "HTTP"
+          }
+,         {
+              "id"           : "pre_128cipher",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No 128 cipher limit bug"
+          }
+,         {
+              "id"           : "SSLv2",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "SSLv3",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "TLS1",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "offered (deprecated)"
+          }
+,         {
+              "id"           : "TLS1_1",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "offered (deprecated)"
+          }
+,         {
+              "id"           : "TLS1_2",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "TLS1_3",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered with final"
+          }
+,         {
+              "id"           : "ALPN_HTTP2",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "h2"
+          }
+,         {
+              "id"           : "ALPN",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "http/1.1"
+          }
+,         {
+              "id"           : "cipherlist_NULL",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_aNULL",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_EXPORT",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_LOW",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cwe"          : "CWE-327",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_3DES_IDEA",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cwe"          : "CWE-310",
+              "finding"      : "not offered"
+          }
+,         {
+              "id"           : "cipherlist_AVERAGE",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "cwe"          : "CWE-310",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cipherlist_GOOD",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cipherlist_STRONG",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cipher_order",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "server -- TLS 1.3 client determined"
+          }
+,         {
+              "id"           : "protocol_negotiated",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "Default protocol TLS1.3"
+          }
+,         {
+              "id"           : "cipher_negotiated",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "TLS_AES_256_GCM_SHA384, 253 bit ECDH (X25519)"
+          }
+,         {
+              "id"           : "cipherorder_TLSv1",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "ECDHE-RSA-AES128-SHA"
+          }
+,         {
+              "id"           : "cipherorder_TLSv1_1",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "ECDHE-RSA-AES128-SHA"
+          }
+,         {
+              "id"           : "cipherorder_TLSv1_2",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "FS",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "FS_ciphers",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "ECDHE-ECDSA-AES128-GCM-SHA256 ECDHE-ECDSA-AES128-SHA256 ECDHE-ECDSA-AES128-SHA ECDHE-ECDSA-AES256-GCM-SHA384 ECDHE-ECDSA-AES256-SHA384 ECDHE-ECDSA-AES256-SHA ECDHE-ECDSA-CHACHA20-POLY1305-OLD ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA ECDHE-RSA-CHACHA20-POLY1305-OLD"
+          }
+,         {
+              "id"           : "FS_ECDHE_curves",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "prime256v1"
+          }
+,         {
+              "id"           : "TLS_extensions",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+          }
+,         {
+              "id"           : "TLS_session_ticket",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "valid for 64800 seconds only (<daily)"
+          }
+,         {
+              "id"           : "SSL_sessionID_support",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "yes"
+          }
+,         {
+              "id"           : "sessionresumption_ticket",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "supported"
+          }
+,         {
+              "id"           : "sessionresumption_ID",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not supported"
+          }
+,         {
+              "id"           : "TLS_timestamp",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "off by 0 seconds from your localtime"
+          }
+,         {
+              "id"           : "certificate_compression",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0002/Brotli"
+          }
+,         {
+              "id"           : "clientAuth",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "none"
+          }
+,         {
+              "id"           : "cert_numbers",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2"
+          }
+,         {
+              "id"           : "cert_signatureAlgorithm <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "SHA256 with RSA"
+          }
+,         {
+              "id"           : "cert_keySize <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "RSA 2048 bits (exponent is 65537)"
+          }
+,         {
+              "id"           : "cert_keyUsage <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Digital Signature, Key Encipherment"
+          }
+,         {
+              "id"           : "cert_extKeyUsage <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
+          }
+,         {
+              "id"           : "cert_serialNumber <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0B0F4EE3DE8E928DCD825FFE5CCC4CA2"
+          }
+,         {
+              "id"           : "cert_serialNumberLen <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "16"
+          }
+,         {
+              "id"           : "cert_fingerprintSHA1 <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "28F73921FFA430ACB6EA615C0883E33E63BB2C78"
+          }
+,         {
+              "id"           : "cert_fingerprintSHA256 <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
+          }
+,         {
+              "id"           : "cert <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "-----BEGIN CERTIFICATE----- MIIGyzCCBbOgAwIBAgIQCw9O496Oko3Ngl/+XMxMojANBgkqhkiG9w0BAQsFADBK MQswCQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UE AxMXQ2xvdWRmbGFyZSBJbmMgUlNBIENBLTIwHhcNMjEwNjI0MDAwMDAwWhcNMjIw NjIzMjM1OTU5WjB1MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEW MBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5j LjEeMBwGA1UEAxMVc25pLmNsb3VkZmxhcmVzc2wuY29tMIIBIjANBgkqhkiG9w0B AQEFAAOCAQ8AMIIBCgKCAQEAuhj/m/0CvobnPNS7vSfVaWfgRUAuEbCK/JbRJuka bNS5WeSczhR+bZV5FKQkRm9rgh7eQV9AfvvS1PYrl4MV3ddEVjuNc4gS2P+ukpU1 Uio0lMWJhrfqxnbSGxpak/F3xu7XiTPdRT26YMrQJYNPnpT7zIApiUXKv9U+9phS 1lXHK7EpFAtir/TOFjLF4sJe/ifKuSCXEK+nIkcqYRQLezy9aCmeH6ej5TttHn/m UHeZlEfAQ9QxTc4c1+v8hyAPqkp0xEVu5xZJUEe5wv7m6v1GRVcthJ+rkZo4hGQI yKzAS8+lZXVslC2pbH+7qUoQrDJ7tCvb/MP6l+GANNhYeQIDAQABo4IDgDCCA3ww HwYDVR0jBBgwFoAUGKka/LJFScFvMDQIK9mHnLAlV3owHQYDVR0OBBYEFLvUdsyV O3+jvHeUNkBgw5dsx7v4MEYGA1UdEQQ/MD2CFXNuaS5jbG91ZGZsYXJlc3NsLmNv bYISKi5tZWxlbmNob24yMDIyLmZyghBtZWxlbmNob24yMDIyLmZyMA4GA1UdDwEB /wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwewYDVR0fBHQw cjA3oDWgM4YxaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNS U0FDQS0yLmNybDA3oDWgM4YxaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0Nsb3Vk ZmxhcmVJbmNSU0FDQS0yLmNybDA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsG AQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwdgYIKwYBBQUHAQEE ajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYB BQUHMAKGNGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5j UlNBQ0EtMi5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIB agFoAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF6PqKCNAAA BAMARzBFAiEAmgh6gdLZWPoJJqARYfhvy5n8ckxgzMjIS7zjw46ZceACIG3Y6628 PWLGkysmLkWAqwj4FikPuKVWkRO2A3YboWL0AHYAIkVFB1lVJFaWP6Ev8fdthuAj JmOtwEt/XcaDXG7iDwIAAAF6PqKB2QAABAMARzBFAiAtF5APuhlqS6KQXdCLDubE RqzNVLX5lFhF8ADN0A4L4AIhAMR9AYjsvktTdljkKsgvfdw4fnI6/gh/resbAAht SaU2AHYAUaOw9f0BeZxWbbg3eI8MpHrMGyfL956IQpoN/tSLBeUAAAF6PqKCDAAA BAMARzBFAiAleusQX7Yk18Vis30u/Ed40gulBtLWdV8/Wc5S2b9BSQIhAJ6iwW8g HF2BHmNGAlUqlAS8cViAL6jOY/HFYHwPdw4GMA0GCSqGSIb3DQEBCwUAA4IBAQBQ nK0OTDkbHohvsjpZQdFupLfkIEi/X4KLvyx8r45KZYIGLxhfrkrsMHaKuBp5iNld iNl/uquEOdbqjtR8IMaJMGtpPiNbSMJKiY+2wM7k50AB7exgdIghcmlUw3UHmz4x jPeeWVgsAXfTecSINO/biJQ7AkUGTkwqdf4FT3ZdZLRXy2mszcrqqaghXnh9A+eP KvUYorlK+8YPZuF1s1ny/DDNGqjDTRiXUyJEIZ9Go2S+ql4hGc/P90IIw8b7fsbM znngeeTC7x9uHLT13J6+RcRtrPWHd4q/7pCVjYrJE+sVzN000DGPpJ8o5PBlEeRK h4MaUIugPDihDpk5oHbD -----END CERTIFICATE-----"
+          }
+,         {
+              "id"           : "cert_commonName <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "sni.cloudflaressl.com"
+          }
+,         {
+              "id"           : "cert_commonName_wo_SNI <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "request w/o SNI didn't succeed"
+          }
+,         {
+              "id"           : "cert_subjectAltName <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "sni.cloudflaressl.com *.melenchon2022.fr melenchon2022.fr"
+          }
+,         {
+              "id"           : "cert_trust <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "Ok via SAN (SNI mandatory)"
+          }
+,         {
+              "id"           : "cert_chain_of_trust <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "passed."
+          }
+,         {
+              "id"           : "cert_certificatePolicies_EV <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no"
+          }
+,         {
+              "id"           : "cert_expirationStatus <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "165 >= 60 days"
+          }
+,         {
+              "id"           : "cert_notBefore <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2021-06-24 00:00"
+          }
+,         {
+              "id"           : "cert_notAfter <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "2022-06-23 23:59"
+          }
+,         {
+              "id"           : "cert_extlifeSpan <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "certificate has no extended life time according to browser forum"
+          }
+,         {
+              "id"           : "cert_eTLS <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not present"
+          }
+,         {
+              "id"           : "cert_crlDistributionPoints <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "http://crl3.digicert.com/CloudflareIncRSACA-2.crl http://crl4.digicert.com/CloudflareIncRSACA-2.crl"
+          }
+,         {
+              "id"           : "cert_ocspURL <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "http://ocsp.digicert.com"
+          }
+,         {
+              "id"           : "OCSP_stapling <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
+          }
+,         {
+              "id"           : "cert_mustStapleExtension <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "DNS_CAArecord <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "issue=comodoca.com, issue=digicert.com;, issue=letsencrypt.org, issuewild=comodoca.com, issuewild=digicert.com;, issuewild=letsencrypt.org"
+          }
+,         {
+              "id"           : "certificate_transparency <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "yes (certificate extension)"
+          }
+,         {
+              "id"           : "certs_countServer <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2"
+          }
+,         {
+              "id"           : "certs_list_ordering_problem <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no"
+          }
+,         {
+              "id"           : "cert_caIssuers <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Cloudflare Inc RSA CA-2 (Cloudflare, Inc. from US)"
+          }
+,         {
+              "id"           : "intermediate_cert <#1> <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "-----BEGIN CERTIFICATE----- MIIEmDCCA4CgAwIBAgIQAtiaFXPzs7jaFFtYOJgpBzANBgkqhkiG9w0BAQsFADBa MQswCQYDVQQGEwJJRTESMBAGA1UEChMJQmFsdGltb3JlMRMwEQYDVQQLEwpDeWJl clRydXN0MSIwIAYDVQQDExlCYWx0aW1vcmUgQ3liZXJUcnVzdCBSb290MB4XDTIw MDEyNzEyNDYzOVoXDTI0MTIzMTIzNTk1OVowSjELMAkGA1UEBhMCVVMxGTAXBgNV BAoTEENsb3VkZmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkZmxhcmUgSW5jIFJT QSBDQS0yMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtV0myAmrsTNd DLKWBcIxA05+X4cCxm+AJO3arhy+552A98XPVAFmOCjo5mm7nfiBMWpW9ejBpehZ 6LPgOgFhCCiwfs2g/c43AMPpqY0LyXjKpmBGgK90BS1P2ugJUsibWjLPISFHj1wa iqoXwBhwsQHx3t8thamV7FtXOTm+hcLv17YsSj/R1rMhopdPJSxCI33XsxnWEmmF AAKv1aoS2Ghkf+OtGJ1SL8Xl9JGv5QnZi0bnzzIVIvA3xP2L5uIdFsw6SNeBYYK/ PXLZcF7sCmkk4jxI4/7T5VHUK8ASoU+TcJm/t9KDbmktyM2iYhhMQzdfFjp2k1r6 bmldmsWIwQIDAQABo4IBaDCCAWQwHQYDVR0OBBYEFBipGvyyRUnBbzA0CCvZh5yw JVd6MB8GA1UdIwQYMBaAFOWdWTCCR1jMrPoIVDaGezq1BE3wMA4GA1UdDwEB/wQE AwIBhjAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwEgYDVR0TAQH/BAgw BgEB/wIBADA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw LmRpZ2ljZXJ0LmNvbTA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vY3JsMy5kaWdp Y2VydC5jb20vT21uaXJvb3QyMDI1LmNybDBtBgNVHSAEZjBkMDcGCWCGSAGG/WwB ATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAsG CWCGSAGG/WwBAjAIBgZngQwBAgEwCAYGZ4EMAQICMAgGBmeBDAECAzANBgkqhkiG 9w0BAQsFAAOCAQEAfLCdjh6mZHIQ4WHd83Q9UKca58JOFwwVJisXj0HnkPCw8/LS 51CA0gfGqX+6k+u+wcGG+E+EvAV85nIv6bbGdmnd8mpHa5NUGKQNgAM1J92Kn8iE l9O04NqmBfDnz+admJTSy9oid9hJC6hVjonU0s7Q6NrgQv0dzn6WhMqnw5Ennym8 /+0uNP1GKu9OVnzo3CKX7VMJW7p74PJPpVmVQc2zci5cb3pKFUMrIsvUPyB88/p8 2x4PSnNx6dXdRraeHRMegHGZ3/VQfjOB0jV1JF6PmFqokkX0tNiIprFkBun7+WVI 9pbDH55GEgF+WjBTXTQcFeIS8vGLlfCU+K3jkw== -----END CERTIFICATE-----"
+          }
+,         {
+              "id"           : "intermediate_cert_fingerprintSHA256 <#1> <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "AEC863898F284D6CD4C6A3F6C3E6523480A359C33DAF66FAD3381849B8BB018B"
+          }
+,         {
+              "id"           : "intermediate_cert_notBefore <#1> <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2020-01-27 12:46"
+          }
+,         {
+              "id"           : "intermediate_cert_notAfter <#1> <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "2024-12-31 23:59"
+          }
+,         {
+              "id"           : "intermediate_cert_expiration <#1> <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "ok > 40 days"
+          }
+,         {
+              "id"           : "intermediate_cert_chain <#1> <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Cloudflare Inc RSA CA-2 <-- Baltimore CyberTrust Root"
+          }
+,         {
+              "id"           : "intermediate_cert_badOCSP <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "intermediate certificate(s) is/are ok"
+          }
+,         {
+              "id"           : "cert_signatureAlgorithm <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "ECDSA with SHA256"
+          }
+,         {
+              "id"           : "cert_keySize <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "EC 256 bits (curve P-256)"
+          }
+,         {
+              "id"           : "cert_keyUsage <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Digital Signature"
+          }
+,         {
+              "id"           : "cert_extKeyUsage <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
+          }
+,         {
+              "id"           : "cert_serialNumber <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0BE4A6AA60889A5005D4D8E78DD6BC2A"
+          }
+,         {
+              "id"           : "cert_serialNumberLen <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "16"
+          }
+,         {
+              "id"           : "cert_fingerprintSHA1 <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "B3B8A72BFC70FC67494165EF57DEC7B3538CEE3D"
+          }
+,         {
+              "id"           : "cert_fingerprintSHA256 <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "5788E921A5F3AC163674B68069A5651D0B16981C13D796DAC077FB45EE7143A4"
+          }
+,         {
+              "id"           : "cert <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "-----BEGIN CERTIFICATE----- MIIFPzCCBOSgAwIBAgIQC+SmqmCImlAF1Njnjda8KjAKBggqhkjOPQQDAjBKMQsw CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjEwNjI0MDAwMDAwWhcNMjIwNjIz MjM1OTU5WjB1MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEe MBwGA1UEAxMVc25pLmNsb3VkZmxhcmVzc2wuY29tMFkwEwYHKoZIzj0CAQYIKoZI zj0DAQcDQgAECbcnuxO9syDoQfOLyp2Nw2khrC9Ot1odvwmDkh9Ya/Hg2Mho/gqU 2cYXj23SzwoblQLP0Av+eiMv7xLMqR4pZqOCA38wggN7MB8GA1UdIwQYMBaAFKXO N+rrsHUOlGeItEX62SQQh5YfMB0GA1UdDgQWBBSsS1R87FwAxnav8bMIMaHV8PvE KzBGBgNVHREEPzA9ghVzbmkuY2xvdWRmbGFyZXNzbC5jb22CEioubWVsZW5jaG9u MjAyMi5mcoIQbWVsZW5jaG9uMjAyMi5mcjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0l BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMHsGA1UdHwR0MHIwN6A1oDOGMWh0dHA6 Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcmwwN6A1 oDOGMWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0Et My5jcmwwPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDov L3d3dy5kaWdpY2VydC5jb20vQ1BTMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcw AYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEAGCCsGAQUFBzAChjRodHRwOi8v Y2FjZXJ0cy5kaWdpY2VydC5jb20vQ2xvdWRmbGFyZUluY0VDQ0NBLTMuY3J0MAwG A1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2ACl5vvCeOTkh 8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABej6ihusAAAQDAEcwRQIgOzvBJIfJ fwBeswtXWeGcFLg55J1NYzxafH4fxS3Xe7QCIQC2/GsuUzD7W1fzxtDSYA3Ym/r7 XwSGQqu+3vZEZWU+aQB2ACJFRQdZVSRWlj+hL/H3bYbgIyZjrcBLf13Gg1xu4g8C AAABej6ihmwAAAQDAEcwRQIgANMka34481viTgRG8Mm1qxMkRPmqugfETzx8ZdpD mtACIQC38aR3WK715RTo/xrPg00PBNYyzg7uEFXhMD00/q+JKQB1AFGjsPX9AXmc Vm24N3iPDKR6zBsny/eeiEKaDf7UiwXlAAABej6ihrIAAAQDAEYwRAIgN/W27396 ZrDL4Rnpqj4d6IRzy17cTTF6S7K+9mXVo7oCIHRLl8APYVMl/o65WA0KZkpU6HfN zlZpJ8Tj/js9xQpiMAoGCCqGSM49BAMCA0kAMEYCIQCrgyR69Xn8fP0oeg4sBr3Y t7kDCsnOVukFUuieJ1MQ6QIhAP0Z99lCnHAir7PoMU5EB3tCEsoAq/LzRnBDm9HW ZiZK -----END CERTIFICATE-----"
+          }
+,         {
+              "id"           : "cert_commonName <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "sni.cloudflaressl.com"
+          }
+,         {
+              "id"           : "cert_commonName_wo_SNI <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "request w/o SNI didn't succeed, usual for EC certificates"
+          }
+,         {
+              "id"           : "cert_subjectAltName <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "sni.cloudflaressl.com *.melenchon2022.fr melenchon2022.fr"
+          }
+,         {
+              "id"           : "cert_trust <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "Ok via SAN (SNI mandatory)"
+          }
+,         {
+              "id"           : "cert_chain_of_trust <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "passed."
+          }
+,         {
+              "id"           : "cert_certificatePolicies_EV <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no"
+          }
+,         {
+              "id"           : "cert_expirationStatus <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "165 >= 60 days"
+          }
+,         {
+              "id"           : "cert_notBefore <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2021-06-24 00:00"
+          }
+,         {
+              "id"           : "cert_notAfter <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "2022-06-23 23:59"
+          }
+,         {
+              "id"           : "cert_extlifeSpan <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "certificate has no extended life time according to browser forum"
+          }
+,         {
+              "id"           : "cert_eTLS <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "not present"
+          }
+,         {
+              "id"           : "cert_crlDistributionPoints <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "http://crl3.digicert.com/CloudflareIncECCCA-3.crl http://crl4.digicert.com/CloudflareIncECCCA-3.crl"
+          }
+,         {
+              "id"           : "cert_ocspURL <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "http://ocsp.digicert.com"
+          }
+,         {
+              "id"           : "OCSP_stapling <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
+          }
+,         {
+              "id"           : "cert_mustStapleExtension <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "DNS_CAArecord <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "issue=comodoca.com, issue=digicert.com;, issue=letsencrypt.org, issuewild=comodoca.com, issuewild=digicert.com;, issuewild=letsencrypt.org"
+          }
+,         {
+              "id"           : "certificate_transparency <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "yes (certificate extension)"
+          }
+,         {
+              "id"           : "certs_countServer <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2"
+          }
+,         {
+              "id"           : "certs_list_ordering_problem <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no"
+          }
+,         {
+              "id"           : "cert_caIssuers <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Cloudflare Inc ECC CA-3 (Cloudflare, Inc. from US)"
+          }
+,         {
+              "id"           : "intermediate_cert <#1> <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "-----BEGIN CERTIFICATE----- MIIDzTCCArWgAwIBAgIQCjeHZF5ftIwiTv0b7RQMPDANBgkqhkiG9w0BAQsFADBa MQswCQYDVQQGEwJJRTESMBAGA1UEChMJQmFsdGltb3JlMRMwEQYDVQQLEwpDeWJl clRydXN0MSIwIAYDVQQDExlCYWx0aW1vcmUgQ3liZXJUcnVzdCBSb290MB4XDTIw MDEyNzEyNDgwOFoXDTI0MTIzMTIzNTk1OVowSjELMAkGA1UEBhMCVVMxGTAXBgNV BAoTEENsb3VkZmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkZmxhcmUgSW5jIEVD QyBDQS0zMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEua1NZpkUC0bsH4HRKlAe nQMVLzQSfS2WuIg4m4Vfj7+7Te9hRsTJc9QkT+DuHM5ss1FxL2ruTAUJd9NyYqSb 16OCAWgwggFkMB0GA1UdDgQWBBSlzjfq67B1DpRniLRF+tkkEIeWHzAfBgNVHSME GDAWgBTlnVkwgkdYzKz6CFQ2hns6tQRN8DAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0l BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBIGA1UdEwEB/wQIMAYBAf8CAQAwNAYI KwYBBQUHAQEEKDAmMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5j b20wOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL09t bmlyb290MjAyNS5jcmwwbQYDVR0gBGYwZDA3BglghkgBhv1sAQEwKjAoBggrBgEF BQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzALBglghkgBhv1sAQIw CAYGZ4EMAQIBMAgGBmeBDAECAjAIBgZngQwBAgMwDQYJKoZIhvcNAQELBQADggEB AAUkHd0bsCrrmNaF4zlNXmtXnYJX/OvoMaJXkGUFvhZEOFp3ArnPEELG4ZKk40Un +ABHLGioVplTVI+tnkDB0A+21w0LOEhsUCxJkAZbZB2LzEgwLt4I4ptJIsCSDBFe lpKU1fwg3FZs5ZKTv3ocwDfjhUkV+ivhdDkYD7fa86JXWGBPzI6UAPxGezQxPk1H goE6y/SJXQ7vTQ1unBuCJN0yJV0ReFEQPaA1IwQvZW+cwdFD19Ae8zFnWSfda9J1 CZMRJCQUzym+5iPDuI9yP+kHyCREU3qzuWFloUwOxkgAyXVjBYdwRVKD05WdRerw 6DEdfgkfCv4+3ao8XnTSrLE= -----END CERTIFICATE-----"
+          }
+,         {
+              "id"           : "intermediate_cert_fingerprintSHA256 <#1> <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "3ABBE63DAF756C5016B6B85F52015FD8E8ACBE277C5087B127A60563A841ED8A"
+          }
+,         {
+              "id"           : "intermediate_cert_notBefore <#1> <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "2020-01-27 12:48"
+          }
+,         {
+              "id"           : "intermediate_cert_notAfter <#1> <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "2024-12-31 23:59"
+          }
+,         {
+              "id"           : "intermediate_cert_expiration <#1> <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "ok > 40 days"
+          }
+,         {
+              "id"           : "intermediate_cert_chain <#1> <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Cloudflare Inc ECC CA-3 <-- Baltimore CyberTrust Root"
+          }
+,         {
+              "id"           : "intermediate_cert_badOCSP <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "intermediate certificate(s) is/are ok"
+          }
+,         {
+              "id"           : "HTTP_status_code",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "200 OK ('/')"
+          }
+,         {
+              "id"           : "HTTP_clock_skew",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0 seconds from localtime"
+          }
+,         {
+              "id"           : "HTTP_headerTime",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "1641687879"
+          }
+,         {
+              "id"           : "HSTS_time",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "MEDIUM",
+              "finding"      : "max-age too short. 1 days (=86400 seconds) < 15552000 seconds"
+          }
+,         {
+              "id"           : "HSTS_subdomains",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "only for this domain"
+          }
+,         {
+              "id"           : "HSTS_preload",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "domain is NOT marked for preloading"
+          }
+,         {
+              "id"           : "HPKP",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No support for HTTP Public Key Pinning"
+          }
+,         {
+              "id"           : "banner_server",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "cloudflare"
+          }
+,         {
+              "id"           : "banner_application",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No application banner found"
+          }
+,         {
+              "id"           : "cookie_count",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "0 at '/'"
+          }
+,         {
+              "id"           : "Expect-CT",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "max-age=604800, report-uri='https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct'"
+          }
+,         {
+              "id"           : "Cache-Control",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "no-cache"
+          }
+,         {
+              "id"           : "banner_reverseproxy",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cwe"          : "CWE-200",
+              "finding"      : "--"
+          }
+,         {
+              "id"           : "heartbleed",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-0160",
+              "cwe"          : "CWE-119",
+              "finding"      : "not vulnerable, no heartbeat extension"
+          }
+,         {
+              "id"           : "CCS",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-0224",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "ticketbleed",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2016-9244",
+              "cwe"          : "CWE-200",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "ROBOT",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
+              "cwe"          : "CWE-203",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "secure_renego",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "WARN",
+              "cwe"          : "CWE-310",
+              "finding"      : "OpenSSL handshake didn't succeed"
+          }
+,         {
+              "id"           : "secure_client_renego",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2011-1473",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "CRIME_TLS",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2012-4929",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "BREACH",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "MEDIUM",
+              "cve"          : "CVE-2013-3587",
+              "cwe"          : "CWE-310",
+              "finding"      : "potentially VULNERABLE, br gzip HTTP compression detected  - only supplied '/' tested"
+          }
+,         {
+              "id"           : "POODLE_SSL",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-3566",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable, no SSLv3"
+          }
+,         {
+              "id"           : "fallback_SCSV",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "supported"
+          }
+,         {
+              "id"           : "SWEET32",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "cve"          : "CVE-2016-2183 CVE-2016-6329",
+              "cwe"          : "CWE-327",
+              "finding"      : "uses 64 bit block ciphers"
+          }
+,         {
+              "id"           : "FREAK",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2015-0204",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "DROWN",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2016-0800 CVE-2016-0703",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable on this host and port"
+          }
+,         {
+              "id"           : "DROWN_hint",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "cve"          : "CVE-2016-0800 CVE-2016-0703",
+              "cwe"          : "CWE-310",
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
+          }
+,         {
+              "id"           : "LOGJAM",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2015-4000",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable, no DH EXPORT ciphers,"
+          }
+,         {
+              "id"           : "LOGJAM-common_primes",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2015-4000",
+              "cwe"          : "CWE-310",
+              "finding"      : "no DH key with <= TLS 1.2"
+          }
+,         {
+              "id"           : "BEAST_CBC_TLS1",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "MEDIUM",
+              "cve"          : "CVE-2011-3389",
+              "cwe"          : "CWE-20",
+              "finding"      : "ECDHE-RSA-AES128-SHA AES128-SHA ECDHE-RSA-AES256-SHA AES256-SHA DES-CBC3-SHA"
+          }
+,         {
+              "id"           : "BEAST",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "cve"          : "CVE-2011-3389",
+              "cwe"          : "CWE-20",
+              "finding"      : "VULNERABLE -- but also supports higher protocols  TLSv1.1 TLSv1.2 (likely mitigated)"
+          }
+,         {
+              "id"           : "LUCKY13",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "cve"          : "CVE-2013-0169",
+              "cwe"          : "CWE-310",
+              "finding"      : "potentially vulnerable, uses TLS CBC ciphers"
+          }
+,         {
+              "id"           : "winshock",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2014-6321",
+              "cwe"          : "CWE-94",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "RC4",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "cve"          : "CVE-2013-2566 CVE-2015-2808",
+              "cwe"          : "CWE-310",
+              "finding"      : "not vulnerable"
+          }
+,         {
+              "id"           : "clientsimulation-android_442",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-android_500",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
+          }
+,         {
+              "id"           : "clientsimulation-android_60",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305-OLD"
+          }
+,         {
+              "id"           : "clientsimulation-android_70",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-android_81",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-android_90",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-android_X",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-chrome_74_win10",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-chrome_79_win10",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-firefox_66_win81",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-firefox_71_win10",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-ie_6_xp",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-ie_8_win7",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
+          }
+,         {
+              "id"           : "clientsimulation-ie_8_xp",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_win7",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_win81",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_winphone81",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-ie_11_win10",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-edge_15_win10",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-edge_17_win10",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-opera_66_win10",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-safari_9_ios9",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-safari_9_osx1011",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-safari_10_osx1012",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-safari_121_ios_122",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-safari_130_osx_10146",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-apple_ats_9_ios9",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-java_6u45",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "No connection"
+          }
+,         {
+              "id"           : "clientsimulation-java_7u25",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
+          }
+,         {
+              "id"           : "clientsimulation-java_8u161",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-java1102",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-java1201",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-openssl_102e",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-AES128-GCM-SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-openssl_110l",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 ECDHE-ECDSA-CHACHA20-POLY1305"
+          }
+,         {
+              "id"           : "clientsimulation-openssl_111d",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-thunderbird_68_3_1",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "rating_spec",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
+          }
+,         {
+              "id"           : "rating_doc",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
+          }
+,         {
+              "id"           : "protocol_support_score",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "95"
+          }
+,         {
+              "id"           : "protocol_support_score_weighted",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "28"
+          }
+,         {
+              "id"           : "key_exchange_score",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "90"
+          }
+,         {
+              "id"           : "key_exchange_score_weighted",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "27"
+          }
+,         {
+              "id"           : "cipher_strength_score",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "60"
+          }
+,         {
+              "id"           : "cipher_strength_score_weighted",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "24"
+          }
+,         {
+              "id"           : "final_score",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "79"
+          }
+,         {
+              "id"           : "overall_grade",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "MEDIUM",
+              "finding"      : "B"
+          }
+,         {
+              "id"           : "grade_cap_reason_1",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Grade capped to B. TLS 1.1 offered"
+          }
+,         {
+              "id"           : "grade_cap_reason_2",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Grade capped to B. TLS 1.0 offered"
+          }
+,         {
+              "id"           : "grade_cap_reason_3",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "Grade capped to A. HSTS max-age is too short"
+          }
+,         {
+              "id"           : "service",
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "INFO",
@@ -3014,14 +3014,14 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -3161,7 +3161,7 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "172 >= 60 days"
+              "finding"      : "165 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -3420,7 +3420,7 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "172 >= 60 days"
+              "finding"      : "165 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -3588,7 +3588,7 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1641083201"
+              "finding"      : "1641687951"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -4195,6 +4195,6 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "234"
+              "finding"      : "212"
           }
 ]
