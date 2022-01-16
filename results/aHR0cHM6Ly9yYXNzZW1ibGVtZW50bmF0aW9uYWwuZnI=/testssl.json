@@ -353,7 +353,7 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "220 >= 60 days"
+              "finding"      : "213 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,14 +507,14 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1641687555"
+              "finding"      : "1642292373"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1119,6 +1119,6 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "195"
+              "finding"      : "200"
           }
 ]
