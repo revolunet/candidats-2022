@@ -2,11 +2,11 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641894170/mobile/bootstrap.css"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901642614587/default/bootstrap.css"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641894170/mobile/theme.scss"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901642614587/default/theme.scss"
     },
     {
       "type": "unknown",
@@ -38,11 +38,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641894170/mobile/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901642614587/default/bootstrap.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641894170/mobile/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901642614587/default/theme.js"
     },
     {
       "type": "google tag manager",
@@ -130,30 +130,6 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Semibold.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/France22-Bold_V2.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Regular.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
       "url": "https://df8xkop7ho1no.cloudfront.net/prio/prio-1-530.jpg",
       "details": {
         "id": "cloudfront",
@@ -194,7 +170,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1636657857/default_single_bg.jpg?1636657857",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/488/attachments/original/1642444742/bg-mineurs.jpg?1642444742",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -202,7 +178,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/471/attachments/original/1641814222/bg-dp-eure-et-loire.jpg?1641814222",
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/487/attachments/original/1642444748/bg-messiha.jpg?1642444748",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -218,7 +194,39 @@
     },
     {
       "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Semibold.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/France22-Bold_V2.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Regular.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
       "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Extrabold.otf",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -269,6 +277,22 @@
       }
     },
     {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-12-06_14-42-22.jpg",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "cloudfront",
+      "url": "https://df8xkop7ho1no.cloudfront.net/ez_2022_logo_fond_bleu.svg",
+      "details": {
+        "id": "cloudfront",
+        "message": "Host files locally"
+      }
+    },
+    {
       "type": "twitter",
       "url": "https://platform.twitter.com/widgets.js",
       "details": {
@@ -286,7 +310,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.e37c957bd3ae00473b95800b99e19cff.html?origin=https%3A%2F%2Fwww.zemmour2022.fr",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.8f764d5bd2778f88121d31d7d8d8e1e3.html?origin=https%3A%2F%2Fwww.zemmour2022.fr",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -302,11 +326,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641894170/mobile/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901642614587/default/bootstrap.min.js"
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=4f3816e2d08cb984b392bb73f77ce4b957e9f08b",
+      "url": "https://syndication.twitter.com/settings?session_id=4e14e5515a447938027afda9d86c7a768d3ad2dd",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -314,7 +338,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901641894170/mobile/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901642614587/default/theme.js"
     },
     {
       "type": "unknown",
@@ -324,11 +348,11 @@
   "cookies": [
     {
       "name": "_nbuild_token",
-      "value": "XzSVPuZfWFXfar4fBIHNTyq9tY4dEjUQinwp6Bx7a9I%3D",
+      "value": "78eplRxSXJ%2B04WxleYSAIvzjD9vZhL1fycQY%2FkPW1Os%3D",
       "domain": "www.zemmour2022.fr",
       "path": "/",
       "expires": -1,
-      "size": 59,
+      "size": 63,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -338,53 +362,52 @@
     }
   ],
   "headers": {
-    "date": "Sun, 16 Jan 2022 00:29:14 GMT",
+    "date": "Sun, 23 Jan 2022 00:28:48 GMT",
     "content-type": "text/html; charset=utf-8",
     "x-rack-cache": "fresh",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "48",
+    "age": "40",
     "x-nb-cached-page": "yes",
-    "x-request-id": "b193a6d1-27b5-4898-82d7-2a1055fc3632",
-    "x-served-by": "app12",
-    "x-middleware-start": "t=1642292954265776",
-    "x-content-digest": "083b210d09b9c496606389e7374466a075866258",
+    "x-request-id": "1805b2af-2a7e-4a98-8971-215ac7c4f944",
+    "x-served-by": "app14",
+    "x-middleware-start": "t=1642897728678249",
+    "x-content-digest": "017b30fccc0c899b6df6dc4d13703f664cd8329e",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.057529",
+    "x-runtime": "0.053598",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=XzSVPuZfWFXfar4fBIHNTyq9tY4dEjUQinwp6Bx7a9I%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=78eplRxSXJ%2B04WxleYSAIvzjD9vZhL1fycQY%2FkPW1Os%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "x-nationbuilder": "true",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6ce33a73fc986fce-IAD",
+    "cf-ray": "6d1ce7741bf058cc-IAD",
     "content-encoding": "br",
-    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-27=\":443\"; ma=86400"
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "ez.nationbuilder.com",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "consent.cookiebot.com",
-      "ip": "23.12.144.194",
+      "ip": "23.216.132.61",
       "geoip": {
         "city": {
-          "geoname_id": 4787534,
+          "geoname_id": 5102713,
           "names": {
-            "en": "Sterling",
-            "ru": "Стерлинг"
+            "en": "Piscataway"
           }
         },
         "continent": {
@@ -416,14 +439,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 39.0064,
-          "longitude": -77.4199,
-          "metro_code": 511,
+          "accuracy_radius": 200,
+          "latitude": 40.5511,
+          "longitude": -74.4606,
+          "metro_code": 501,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "20163"
+          "code": "08854"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -441,15 +464,16 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5101760,
+            "iso_code": "NJ",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "en": "New Jersey",
+              "es": "Nueva Jersey",
+              "fr": "New Jersey",
+              "ja": "ニュージャージー州",
+              "pt-BR": "Nova Jérsia",
+              "ru": "Нью-Джерси",
+              "zh-CN": "新泽西州"
             }
           }
         ]
@@ -457,7 +481,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.250.188.202",
+      "ip": "142.251.45.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -565,7 +589,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.65.72",
+      "ip": "142.250.81.200",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -619,41 +643,58 @@
     },
     {
       "hostname": "df8xkop7ho1no.cloudfront.net",
-      "ip": "13.32.192.72",
+      "ip": "54.239.153.223",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
+        "city": {
+          "geoname_id": 2867714,
           "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
+            "de": "München",
+            "en": "Munich",
+            "es": "Múnich",
+            "fr": "Munich",
+            "ja": "ミュンヘン",
+            "pt-BR": "Munique",
+            "ru": "Мюнхен",
+            "zh-CN": "慕尼黑"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
           }
         },
         "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 2921044,
+          "is_in_european_union": true,
+          "iso_code": "DE",
           "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Deutschland",
+            "en": "Germany",
+            "es": "Alemania",
+            "fr": "Allemagne",
+            "ja": "ドイツ連邦共和国",
+            "pt-BR": "Alemanha",
+            "ru": "Германия",
+            "zh-CN": "德国"
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 100,
+          "latitude": 48.1336,
+          "longitude": 11.5658,
+          "time_zone": "Europe/Berlin"
+        },
+        "postal": {
+          "code": "80331"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -668,12 +709,28 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 2951839,
+            "iso_code": "BY",
+            "names": {
+              "de": "Bayern",
+              "en": "Bavaria",
+              "es": "Baviera",
+              "fr": "Bavière",
+              "ja": "バイエルン州",
+              "pt-BR": "Baviera",
+              "ru": "Бавария",
+              "zh-CN": "巴伐利亚"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "consentcdn.cookiebot.com",
-      "ip": "104.108.101.241",
+      "ip": "104.106.162.18",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -752,7 +809,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "192.229.163.25",
+      "ip": "72.21.91.66",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -784,8 +841,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
+          "latitude": 37.751,
+          "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -801,26 +858,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
-            "names": {
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "ru": "Техас",
-              "zh-CN": "德克萨斯州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.136",
+      "ip": "104.244.42.72",
       "geoip": {
         "continent": {
           "code": "NA",
