@@ -1,0 +1,818 @@
+{
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/load.js?locale=fr&iswordpress=true&domain=www.avectaubira.fr&uuid=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/sva6ljo.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-api.sharethis.com/js/sharethis.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://rum-static.pingdom.net/pa-61e3f9279034fb0011000611.js"
+    },
+    {
+      "type": "google tag manager",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-TE72TC6Z7S",
+      "details": {
+        "id": "google tag manager",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://p.typekit.net/p.css?s=1&k=sva6ljo&ht=tk&f=44068.44070.44073.44075.44077.44086.44087.44093.44094.44109.44111&a=84284592&app=typekit&e=css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://buttons-config.sharethis.com/js/61e83a4996a4850019cacc4f.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://l.sharethis.com/pview?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/fd9c2d/00000000000000007735c9d9/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/e19c14/00000000000000007735ca09/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/a5eab3/00000000000000007735c9f0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/96eaf8/00000000000000007735ca0a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/4e95da/00000000000000007735ca07/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/5bb57c/00000000000000007735c9e3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/d412af/00000000000000007735ca0f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/2ae5d7/00000000000000007735c9fc/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/af/1fba48/00000000000000007735ca0b/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://l.sharethis.com/sc?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-cdn.sharethis.com/img/facebook.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-cdn.sharethis.com/img/twitter.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-cdn.sharethis.com/img/email.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-cdn.sharethis.com/img/whatsapp.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-cdn.sharethis.com/img/messenger.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-cdn.sharethis.com/img/arrow_left.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://platform-cdn.sharethis.com/img/arrow_right.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/cache/css/tarteaucitron.css?v=20210509"
+    },
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/cache/lang/tarteaucitron.fr.js?v=20210509"
+    },
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/cache/tarteaucitron.services.js?v=20210509"
+    },
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1643135744787"
+    },
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1643135745957"
+    }
+  ],
+  "cookies": [
+    {
+      "name": "fpestid",
+      "value": "ulC-q7kfTu8tEo9oeTZrMcPmxZF6qhqamR_Hhf9poS0aVNIxiTD1ACsOLiuQTlqV8XZgtw",
+      "domain": ".avectaubira.fr",
+      "path": "/",
+      "expires": 1674671743.542295,
+      "size": 77,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "z_Mcdfu",
+      "value": "Dm.%5BXSQpIcjJi",
+      "domain": "www.avectaubira.fr",
+      "path": "/",
+      "expires": 1643222142.632911,
+      "size": 22,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "PxitJoHQpUmYdVeG",
+      "value": "3tWJmoxEFyKUTlj",
+      "domain": "www.avectaubira.fr",
+      "path": "/",
+      "expires": 1643222142.632794,
+      "size": 31,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
+  "headers": {
+    "server": "nginx",
+    "date": "Tue, 25 Jan 2022 18:35:42 GMT",
+    "content-type": "text/html; charset=UTF-8",
+    "vary": "Accept-Encoding",
+    "set-cookie": "PxitJoHQpUmYdVeG=3tWJmoxEFyKUTlj; expires=Wed, 26-Jan-2022 18:35:27 GMT; Max-Age=86400; path=/; secure\nz_Mcdfu=Dm.%5BXSQpIcjJi; expires=Wed, 26-Jan-2022 18:35:27 GMT; Max-Age=86400; path=/; secure",
+    "link": "<https://www.avectaubira.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.avectaubira.fr/wp-json/wp/v2/pages/435>; rel=\"alternate\"; type=\"application/json\"\n<https://www.avectaubira.fr/>; rel=shortlink",
+    "fastcgi-cache": "HIT",
+    "strict-transport-security": "max-age=31536000; includeSubDomains;",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-ua-compatible": "IE=Edge",
+    "content-security-policy": "frame-ancestors 'self'",
+    "x-frame-options": "SAMEORIGIN",
+    "content-encoding": "gzip"
+  },
+  "endpoints": [
+    {
+      "hostname": "www.avectaubira.fr",
+      "ip": "51.158.73.110",
+      "geoip": {
+        "city": {
+          "geoname_id": 2988507,
+          "names": {
+            "de": "Paris",
+            "en": "Paris",
+            "es": "París",
+            "fr": "Paris",
+            "ja": "パリ",
+            "pt-BR": "Paris",
+            "ru": "Париж",
+            "zh-CN": "巴黎"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8323,
+          "longitude": 2.4075,
+          "time_zone": "Europe/Paris"
+        },
+        "postal": {
+          "code": "75001"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 3012874,
+            "iso_code": "IDF",
+            "names": {
+              "de": "Île-de-France",
+              "en": "Île-de-France",
+              "es": "Isla de Francia",
+              "fr": "Île-de-France",
+              "pt-BR": "Ilha de França"
+            }
+          },
+          {
+            "geoname_id": 2968815,
+            "iso_code": "75",
+            "names": {
+              "de": "Paris",
+              "en": "Paris",
+              "es": "Paris",
+              "fr": "Paris"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "tarteaucitron.io",
+      "ip": "51.178.43.183",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "use.typekit.net",
+      "ip": "23.59.190.121",
+      "geoip": {
+        "city": {
+          "geoname_id": 5809844,
+          "names": {
+            "de": "Seattle",
+            "en": "Seattle",
+            "es": "Seattle",
+            "fr": "Seattle",
+            "ja": "シアトル",
+            "pt-BR": "Seattle",
+            "ru": "Сиэтл"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 47.6034,
+          "longitude": -122.3414,
+          "metro_code": 819,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "98111"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5815135,
+            "iso_code": "WA",
+            "names": {
+              "en": "Washington",
+              "es": "Washington",
+              "fr": "Washington",
+              "ja": "ワシントン州",
+              "ru": "Вашингтон",
+              "zh-CN": "华盛顿州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "platform-api.sharethis.com",
+      "ip": "13.33.164.94",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "rum-static.pingdom.net",
+      "ip": "104.22.55.104",
+      "geoip": null
+    },
+    {
+      "hostname": "www.googletagmanager.com",
+      "ip": "142.251.45.104",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "p.typekit.net",
+      "ip": "184.86.17.131",
+      "geoip": {
+        "city": {
+          "geoname_id": 4887398,
+          "names": {
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
+        },
+        "postal": {
+          "code": "60602"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4896861,
+            "iso_code": "IL",
+            "names": {
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "buttons-config.sharethis.com",
+      "ip": "99.86.57.24",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "l.sharethis.com",
+      "ip": "3.15.117.250",
+      "geoip": {
+        "city": {
+          "geoname_id": 4509177,
+          "names": {
+            "de": "Columbus",
+            "en": "Columbus",
+            "es": "Columbus",
+            "fr": "Columbus",
+            "ja": "コロンバス",
+            "pt-BR": "Columbus",
+            "ru": "Колумбус",
+            "zh-CN": "哥伦布"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 39.9625,
+          "longitude": -83.0061,
+          "metro_code": 535,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "43215"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5165418,
+            "iso_code": "OH",
+            "names": {
+              "en": "Ohio",
+              "es": "Ohio",
+              "fr": "Ohio",
+              "ja": "オハイオ州",
+              "ru": "Огайо",
+              "zh-CN": "俄亥俄州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "platform-cdn.sharethis.com",
+      "ip": "13.226.131.22",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    }
+  ]
+}
