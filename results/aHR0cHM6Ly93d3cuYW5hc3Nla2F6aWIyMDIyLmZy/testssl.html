@@ -21,11 +21,11 @@
 ###########################################################</span>
 
  Using &quot;OpenSSL 1.0.2-chacha (1.0.2k-dev)&quot; [~183 ciphers]
- on fv-az180-983:/home/testssl/bin/openssl.Linux.x86_64
+ on fv-az183-194:/home/testssl/bin/openssl.Linux.x86_64
  (built: &quot;Jan 18 17:12:17 2019&quot;, platform: &quot;linux-x86_64&quot;)
 
 
-<span style="color:white;background-color:black;"> Start 2022-01-23 00:24:09        --&gt;&gt; 51.91.236.255:443 (www.anassekazib2022.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2022-01-30 00:21:42        --&gt;&gt; 51.91.236.255:443 (www.anassekazib2022.fr) &lt;&lt;--</span>
 
  Further IP addresses:   2001:41d0:301::29 
  rDNS (51.91.236.255):   cluster029.hosting.ovh.net.
@@ -98,7 +98,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;extended master secret/#23&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>no -- no lifetime advertised
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: yes
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets no, ID: no
 <span style="font-weight:bold;"> TLS clock skew</span>               Random values, no fingerprinting possible 
 <span style="font-weight:bold;"> Certificate Compression      </span>none
 <span style="font-weight:bold;"> Client Authentication        </span>none
@@ -106,15 +106,15 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Server key size              </span>RSA 2048 bits (exponent is 65537)
 <span style="font-weight:bold;"> Server key usage             </span>Digital Signature, Key Encipherment
 <span style="font-weight:bold;"> Server extended key usage    </span>TLS Web Server Authentication, TLS Web Client Authentication
-<span style="font-weight:bold;"> Serial                       </span>04FC93161E4DBBE89DCCE0B500BA12CE6A98 (OK: length 18)
-<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 E9264E3D9E900E9480B2B4913A3C565E7C928D10
-                              SHA256 09B53222B7401D7FAFF8C8A48ADC8D2BBFEEDB8120F87DE813CD7964BB8423A0
+<span style="font-weight:bold;"> Serial                       </span>04FCB555320D8D3CF824633997906F4A61B3 (OK: length 18)
+<span style="font-weight:bold;"> Fingerprints                 </span>SHA1 41DDB2B4A2E6BD9916C349EDE845FF7EE84EB402
+                              SHA256 B38588E5B8A2100233F062B4DB1C21C6CE7DC5A3888E65AC309035EFEABA83BC
 <span style="font-weight:bold;"> Common Name (CN)             </span><i>anassekazib2022.fr </i> (CN in response to request w/o SNI: <i>cluster029.hosting.ovh.net </i>)
 <span style="font-weight:bold;"> subjectAltName (SAN)         </span><i>anassekazib2022.fr www.anassekazib2022.fr </i>
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN</span> (SNI mandatory)
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#e52207;">expires &lt; 15 days (11)</span> (2021-11-05 21:28 --&gt; 2022-02-03 21:28)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">84 &gt;= 30 days</span> (2022-01-24 21:33 --&gt; 2022-04-24 21:33)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>--
 <span style="font-weight:bold;"> OCSP URI                     </span>http://r3.o.lencr.org
@@ -159,7 +159,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> FREAK</span> (CVE-2015-0204)                     <span style="color:#008817;font-weight:bold;">not vulnerable (OK)</span>
 <span style="font-weight:bold;"> DROWN</span> (CVE-2016-0800, CVE-2016-0703)      <span style="color:#008817;font-weight:bold;">not vulnerable on this host and port (OK)</span>
                                            make sure you don&apos;t use this certificate elsewhere with SSLv2 enabled services
-                                           <a href="https://censys.io/ipv4?q=09B53222B7401D7FAFF8C8A48ADC8D2BBFEEDB8120F87DE813CD7964BB8423A0" style="color:black;text-decoration:none;">https://censys.io/ipv4?q=09B53222B7401D7FAFF8C8A48ADC8D2BBFEEDB8120F87DE813CD7964BB8423A0</a> could help you to find out
+                                           <a href="https://censys.io/ipv4?q=B38588E5B8A2100233F062B4DB1C21C6CE7DC5A3888E65AC309035EFEABA83BC" style="color:black;text-decoration:none;">https://censys.io/ipv4?q=B38588E5B8A2100233F062B4DB1C21C6CE7DC5A3888E65AC309035EFEABA83BC</a> could help you to find out
 <span style="font-weight:bold;"> LOGJAM</span> (CVE-2015-4000), experimental      common prime with 2048 bits detected: <i>HAProxy</i> (<span style="color:#008817;">2048 bits</span>),
                                            but no DH EXPORT ciphers
 <span style="font-weight:bold;"> BEAST</span> (CVE-2011-3389)                     TLS1: <span style="color:#a86437;">ECDHE-RSA-AES128-SHA
@@ -228,7 +228,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               Grade capped to B. TLS 1.0 offered
                               Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2022-01-23 00:26:30 [ 144s] --&gt;&gt; 51.91.236.255:443 (www.anassekazib2022.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2022-01-30 00:24:18 [ 159s] --&gt;&gt; 51.91.236.255:443 (www.anassekazib2022.fr) &lt;&lt;--</span>
 
 
 </pre>

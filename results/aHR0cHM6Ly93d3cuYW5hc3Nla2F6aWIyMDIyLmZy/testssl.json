@@ -220,7 +220,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -283,7 +283,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "04FC93161E4DBBE89DCCE0B500BA12CE6A98"
+              "finding"      : "04FCB555320D8D3CF824633997906F4A61B3"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -297,21 +297,21 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "E9264E3D9E900E9480B2B4913A3C565E7C928D10"
+              "finding"      : "41DDB2B4A2E6BD9916C349EDE845FF7EE84EB402"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "09B53222B7401D7FAFF8C8A48ADC8D2BBFEEDB8120F87DE813CD7964BB8423A0"
+              "finding"      : "B38588E5B8A2100233F062B4DB1C21C6CE7DC5A3888E65AC309035EFEABA83BC"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE----- MIIFRDCCBCygAwIBAgISBPyTFh5Nu+idzOC1ALoSzmqYMA0GCSqGSIb3DQEBCwUA MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD EwJSMzAeFw0yMTExMDUyMTI4MDlaFw0yMjAyMDMyMTI4MDhaMB0xGzAZBgNVBAMT EmFuYXNzZWthemliMjAyMi5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC ggEBAP3krU2eUtL6ZnfBQwT5aFvXRWOCNEttS8THDlHVLjAgfIM2cIx23nhIN9DS P5kZ0YQJeWce1Wy4F7xt5M7b8oxnvdpKjadSSO/ip00KEYRN1kWtufVw1Tz2+xRj y5FcxNl/qucUNvYJLrZTatXqAyEcLej5IuAZ9OMNFN/76CHx9+Uw691qBIe6Hz/p 8sqNLxVP7UoDpJLX9cLHaHRVv9xSBWigxdqdMxnIBplBfIq35jrNS+s0C8r3VmQ4 Iwo3+CApr1RGRvF0T6DVIdiz4uL2KWODvqg5gpAx5+w+g5RUXyOsfepDiYMSVxGQ N/Y9QG5+DXoWvzM2VUduq8DUZ+kCAwEAAaOCAmcwggJjMA4GA1UdDwEB/wQEAwIF oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd BgNVHQ4EFgQUqUaLqDeiIotyAw9mD1hXGtH+MuYwHwYDVR0jBBgwFoAUFC6zF7dY VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy Lm9yZy8wNQYDVR0RBC4wLIISYW5hc3Nla2F6aWIyMDIyLmZyghZ3d3cuYW5hc3Nl a2F6aWIyMDIyLmZyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYK KwYBBAHWeQIEAgSB9wSB9ADyAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw kGKWBvYAAAF88jdngwAABAMASDBGAiEAnLJoj5Rq41Rpa1DyItl1GY+k2stVsQAd h4kE/+p7onICIQCmvIESR+YyMHUYSfypYz4jN31jGieUBq1AuzcZDdgBMQB3ACl5 vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfPI3Z1UAAAQDAEgwRgIh AOY/EzlEPfCzrHUmuabHKAs3Zcif7XpKZk3kcs7/sokiAiEAuFoFR0ZwCuR0y2op hzetHBCBqeAcZ4C/beJz0Rs+eZswDQYJKoZIhvcNAQELBQADggEBAHMNNtTyon1y JcJW/kzXMvVFngFcTVEfwKkLfw3xPdI6FxZ9qiYGZfToNETR5DgPsNzO+ctUNp9o PeuSTJrPkGSVLmJh/HJ9wG5UVJeYtuEbKFv/cIo+TJsODuSYqHkr7L7v5SDTnQru fE8CXcn0J+cYxp7cShHTX6e52PwTrK7p8+Vv5Gd+w4+l6KyW2xvFGEsCUM4mz+57 nTAVbpB1Eilbmg6MbXGcmErje+Q/z6TIrdIVI8S1fWd5Q1EWyv8BQguX2MpNHYre O13bzf3hc++M5L/ix2EgQ47YlxPDAU4SQO5sA5aIw5zjHvP7rtBQN3y4KS5b0o+5 BNak9du+vro= -----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE----- MIIFQjCCBCqgAwIBAgISBPy1VTINjTz4JGM5l5BvSmGzMA0GCSqGSIb3DQEBCwUA MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD EwJSMzAeFw0yMjAxMjQyMTMzMzBaFw0yMjA0MjQyMTMzMjlaMB0xGzAZBgNVBAMT EmFuYXNzZWthemliMjAyMi5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC ggEBAMcXVEkt849rwd+CRtjvxPjlumsKTe8+ARDNNw59gFXzqWqtjVzvD5iFHA6Q IriJyT+noIOOtK0vVaS4Aquu10mWvq218em+soum9QEusytuE/SytVkdzi3Bys+p /uslDC2NORRPa2OQq8IK8ZlM5nv7xciIXilpD01HWXVHtrMMXrXG68J3xS+kqLGN gy/IZzCjSSBf8ZDkFGIBGrUBx8Tm1dPayRxlVYEZZPtbsAJgo9wLvsWhFvdUieYw YTBYXC+rSpxpQ6Qft8DRx1Sr7nSFSI0LrtuKBqfu5ZGv571PNMbBPKldLfbE5aeA /qkLKkX9XHPaTDqpQtqCd26NoaUCAwEAAaOCAmUwggJhMA4GA1UdDwEB/wQEAwIF oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd BgNVHQ4EFgQUsxmxUngj800kBvUOP2vkcJ6/j5QwHwYDVR0jBBgwFoAUFC6zF7dY VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy Lm9yZy8wNQYDVR0RBC4wLIISYW5hc3Nla2F6aWIyMDIyLmZyghZ3d3cuYW5hc3Nl a2F6aWIyMDIyLmZyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYK KwYBBAHWeQIEAgSB9QSB8gDwAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw kGKWBvYAAAF+jjkOjgAABAMASDBGAiEAyn0OgVzDawU4oEdcDXzu7GdwdTQZOWYB f+rpwifmAyoCIQDKz6BON647EH1WAJrtVMRoDUTb1qTxrFDhIx9TWL1QnQB1AEal Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfo45DqgAAAQDAEYwRAIg VhQ1Ar7uaN0886BoDzO0Wodt8uZd7pDwRGcwnzz0bdgCIBM8zyh0rUcypLtDcFzq ubs418k+6YzDOqTskHgHPBEiMA0GCSqGSIb3DQEBCwUAA4IBAQB16zi4eg4+7Uea jlhqWTBSHnwmB8tXWHca0HZg4O8wXXwFjqgHAqvcTXDoB0dEI/gXv2SZwGAvEAWv hlnNAiqpAcESpj1rK0Cwhd/LTG4H38g7D8wfrpe+9XbSoJIq5eWX4Wzc0sInVKkl 1JLS/8MBwH9sX4j40+axZcGyNJYGtJKkXO4EfG4r2h8CQ/1G5+GZ02vU0JjxG21p qFcIKpegAr3m3b5BdHJjhAe8+Hx5eZ8VWIuKrpLT+/kCQs6sfcdEO5sC+ZrIbAxK tKDQM+0vs3CYq+DIZ9yeLY+Gf31hPtjPuFkSSFMc5VBUvjZ9dwl2L77h5gUN8Hr6 7MEYpNc5 -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -359,22 +359,22 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "expires < 15 days (11)"
+              "severity"     : "OK",
+              "finding"      : "84 >= 30 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2021-11-05 21:28"
+              "finding"      : "2022-01-24 21:33"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "2022-02-03 21:28"
+              "severity"     : "OK",
+              "finding"      : "2022-04-24 21:33"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
@@ -563,7 +563,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1642897507"
+              "finding"      : "1643502161"
           }
 ,         {
               "id"           : "HSTS",
@@ -736,7 +736,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=09B53222B7401D7FAFF8C8A48ADC8D2BBFEEDB8120F87DE813CD7964BB8423A0"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=B38588E5B8A2100233F062B4DB1C21C6CE7DC5A3888E65AC309035EFEABA83BC"
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
@@ -1149,6 +1149,6 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "144"
+              "finding"      : "159"
           }
 ]
