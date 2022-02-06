@@ -34,7 +34,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://l.sharethis.com/pview?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira-%20Site%20officiel%20Taubira%202022&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
+      "url": "https://l.sharethis.com/pview?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira%20-%20Site%20officiel%20Taubira%202022&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
     },
     {
       "type": "unknown",
@@ -74,15 +74,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://l.sharethis.com/sc?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira-%20Site%20officiel%20Taubira%202022&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
-    },
-    {
-      "type": "unknown",
-      "url": "https://tarteaucitron.io/cache/css/tarteaucitron.css?v=20210509"
-    },
-    {
-      "type": "unknown",
-      "url": "https://tarteaucitron.io/cache/lang/tarteaucitron.fr.js?v=20210509"
+      "url": "https://l.sharethis.com/sc?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira%20-%20Site%20officiel%20Taubira%202022&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
     },
     {
       "type": "unknown",
@@ -114,20 +106,32 @@
     },
     {
       "type": "unknown",
+      "url": "https://tarteaucitron.io/cache/css/tarteaucitron.css?v=20210509"
+    },
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/cache/lang/tarteaucitron.fr.js?v=20210509"
+    },
+    {
+      "type": "unknown",
       "url": "https://tarteaucitron.io/cache/tarteaucitron.services.js?v=20210509"
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1643502744618"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1644113818402"
+    },
+    {
+      "type": "unknown",
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1644113819796"
     }
   ],
   "cookies": [
     {
       "name": "fpestid",
-      "value": "nh7j6M1oO_lyqlgkatm9bzZKCDEiM9HxwkVRFKsa4v4BeyP8qEmU-sV7Df9FSXvjJPyfIg",
+      "value": "MS9YqjHYj3eRiAEe55sQlGvgJmHQzZ69S1GPw0b3PUCyss5SMu9upLR4E35mm0DzJDgn-A",
       "domain": ".avectaubira.fr",
       "path": "/",
-      "expires": 1675038742.76472,
+      "expires": 1675649817.341782,
       "size": 77,
       "httpOnly": false,
       "secure": true,
@@ -142,7 +146,7 @@
       "value": "Dm.%5BXSQpIcjJi",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1643589143.348953,
+      "expires": 1644200216.52786,
       "size": 22,
       "httpOnly": false,
       "secure": true,
@@ -156,7 +160,7 @@
       "value": "3tWJmoxEFyKUTlj",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1643589143.34888,
+      "expires": 1644200216.527769,
       "size": 31,
       "httpOnly": false,
       "secure": true,
@@ -168,10 +172,10 @@
   ],
   "headers": {
     "server": "nginx",
-    "date": "Sun, 30 Jan 2022 00:32:21 GMT",
+    "date": "Sun, 06 Feb 2022 02:16:56 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
-    "set-cookie": "PxitJoHQpUmYdVeG=3tWJmoxEFyKUTlj; expires=Mon, 31-Jan-2022 00:31:46 GMT; Max-Age=86400; path=/; secure\nz_Mcdfu=Dm.%5BXSQpIcjJi; expires=Mon, 31-Jan-2022 00:31:46 GMT; Max-Age=86400; path=/; secure",
+    "set-cookie": "PxitJoHQpUmYdVeG=3tWJmoxEFyKUTlj; expires=Mon, 07-Feb-2022 02:16:22 GMT; Max-Age=86400; path=/; secure\nz_Mcdfu=Dm.%5BXSQpIcjJi; expires=Mon, 07-Feb-2022 02:16:22 GMT; Max-Age=86400; path=/; secure",
     "link": "<https://www.avectaubira.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.avectaubira.fr/wp-json/wp/v2/pages/435>; rel=\"alternate\"; type=\"application/json\"\n<https://www.avectaubira.fr/>; rel=shortlink",
     "fastcgi-cache": "STALE",
     "strict-transport-security": "max-age=31536000; includeSubDomains;",
@@ -415,7 +419,7 @@
     },
     {
       "hostname": "platform-api.sharethis.com",
-      "ip": "13.32.204.13",
+      "ip": "13.33.46.35",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -469,12 +473,12 @@
     },
     {
       "hostname": "rum-static.pingdom.net",
-      "ip": "104.22.54.104",
+      "ip": "104.22.55.104",
       "geoip": null
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.250.188.200",
+      "ip": "142.251.45.8",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -528,13 +532,12 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.221.75.177",
+      "ip": "23.78.0.228",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5102713,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "en": "Piscataway"
           }
         },
         "continent": {
@@ -567,13 +570,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
+          "latitude": 40.5511,
+          "longitude": -74.4606,
+          "metro_code": 501,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "20149"
+          "code": "08854"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -591,15 +594,16 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5101760,
+            "iso_code": "NJ",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "en": "New Jersey",
+              "es": "Nueva Jersey",
+              "fr": "New Jersey",
+              "ja": "ニュージャージー州",
+              "pt-BR": "Nova Jérsia",
+              "ru": "Нью-Джерси",
+              "zh-CN": "新泽西州"
             }
           }
         ]
@@ -607,7 +611,7 @@
     },
     {
       "hostname": "buttons-config.sharethis.com",
-      "ip": "13.227.33.15",
+      "ip": "13.225.230.33",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -661,7 +665,7 @@
     },
     {
       "hostname": "l.sharethis.com",
-      "ip": "3.15.117.250",
+      "ip": "3.129.242.122",
       "geoip": {
         "city": {
           "geoname_id": 4509177,
