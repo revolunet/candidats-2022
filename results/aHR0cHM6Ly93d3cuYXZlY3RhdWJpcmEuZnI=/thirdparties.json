@@ -54,11 +54,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/4e95da/00000000000000007735ca07/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
+      "url": "https://use.typekit.net/af/5bb57c/00000000000000007735c9e3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/5bb57c/00000000000000007735c9e3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+      "url": "https://use.typekit.net/af/4e95da/00000000000000007735ca07/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
     },
     {
       "type": "unknown",
@@ -106,32 +106,32 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/cache/css/tarteaucitron.css?v=20210509"
+      "url": "https://tarteaucitron.io/cache/css/tarteaucitron.css?v=20220207"
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/cache/lang/tarteaucitron.fr.js?v=20210509"
+      "url": "https://tarteaucitron.io/cache/lang/tarteaucitron.fr.js?v=20220207"
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/cache/tarteaucitron.services.js?v=20210509"
+      "url": "https://tarteaucitron.io/cache/tarteaucitron.services.js?v=20220207"
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1644113818402"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1644712465003"
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1644113819796"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1644712466205"
     }
   ],
   "cookies": [
     {
       "name": "fpestid",
-      "value": "MS9YqjHYj3eRiAEe55sQlGvgJmHQzZ69S1GPw0b3PUCyss5SMu9upLR4E35mm0DzJDgn-A",
+      "value": "3SfvzY6AYRiq8rt4Uqjkm7X0IS2wNq6QHtrEEK_Ibh-_UzPmJaIuQXfkz2KYoK7LcXoHjg",
       "domain": ".avectaubira.fr",
       "path": "/",
-      "expires": 1675649817.341782,
+      "expires": 1676248463.871563,
       "size": 77,
       "httpOnly": false,
       "secure": true,
@@ -142,12 +142,12 @@
       "sourcePort": 443
     },
     {
-      "name": "z_Mcdfu",
-      "value": "Dm.%5BXSQpIcjJi",
+      "name": "XsiLQOH_CvPrJZYT",
+      "value": "ujfv.lpH%5BSQiZFmt",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1644200216.52786,
-      "size": 22,
+      "expires": 1644798862.914432,
+      "size": 34,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -156,12 +156,12 @@
       "sourcePort": 443
     },
     {
-      "name": "PxitJoHQpUmYdVeG",
-      "value": "3tWJmoxEFyKUTlj",
+      "name": "cdjsXWwqHT",
+      "value": "oRLm49gbiU",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1644200216.527769,
-      "size": 31,
+      "expires": 1644798862.914325,
+      "size": 20,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -172,10 +172,10 @@
   ],
   "headers": {
     "server": "nginx",
-    "date": "Sun, 06 Feb 2022 02:16:56 GMT",
+    "date": "Sun, 13 Feb 2022 00:34:22 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
-    "set-cookie": "PxitJoHQpUmYdVeG=3tWJmoxEFyKUTlj; expires=Mon, 07-Feb-2022 02:16:22 GMT; Max-Age=86400; path=/; secure\nz_Mcdfu=Dm.%5BXSQpIcjJi; expires=Mon, 07-Feb-2022 02:16:22 GMT; Max-Age=86400; path=/; secure",
+    "set-cookie": "cdjsXWwqHT=oRLm49gbiU; expires=Mon, 14-Feb-2022 00:33:46 GMT; Max-Age=86400; path=/; secure\nXsiLQOH_CvPrJZYT=ujfv.lpH%5BSQiZFmt; expires=Mon, 14-Feb-2022 00:33:46 GMT; Max-Age=86400; path=/; secure",
     "link": "<https://www.avectaubira.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.avectaubira.fr/wp-json/wp/v2/pages/435>; rel=\"alternate\"; type=\"application/json\"\n<https://www.avectaubira.fr/>; rel=shortlink",
     "fastcgi-cache": "STALE",
     "strict-transport-security": "max-age=31536000; includeSubDomains;",
@@ -340,7 +340,7 @@
     },
     {
       "hostname": "use.typekit.net",
-      "ip": "23.199.55.63",
+      "ip": "23.221.75.154",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -419,7 +419,7 @@
     },
     {
       "hostname": "platform-api.sharethis.com",
-      "ip": "13.33.46.35",
+      "ip": "13.32.208.24",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -473,12 +473,61 @@
     },
     {
       "hostname": "rum-static.pingdom.net",
-      "ip": "104.22.55.104",
-      "geoip": null
+      "ip": "172.67.5.216",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.45.8",
+      "ip": "142.250.188.200",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -532,12 +581,13 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.78.0.228",
+      "ip": "23.222.5.79",
       "geoip": {
         "city": {
-          "geoname_id": 5102713,
+          "geoname_id": 4744870,
           "names": {
-            "en": "Piscataway"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -570,13 +620,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.5511,
-          "longitude": -74.4606,
-          "metro_code": 501,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "08854"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -594,16 +644,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5101760,
-            "iso_code": "NJ",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "New Jersey",
-              "es": "Nueva Jersey",
-              "fr": "New Jersey",
-              "ja": "ニュージャージー州",
-              "pt-BR": "Nova Jérsia",
-              "ru": "Нью-Джерси",
-              "zh-CN": "新泽西州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -611,7 +660,7 @@
     },
     {
       "hostname": "buttons-config.sharethis.com",
-      "ip": "13.225.230.33",
+      "ip": "13.227.33.38",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -750,7 +799,7 @@
     },
     {
       "hostname": "platform-cdn.sharethis.com",
-      "ip": "99.84.191.128",
+      "ip": "99.84.208.66",
       "geoip": {
         "continent": {
           "code": "NA",
