@@ -57,19 +57,19 @@
       }
     },
     {
-      "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=85ea7a5e2001921c2d1f5d5defca355c",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1087410202&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=726674663&gjid=1048677290&cid=1364531645.1644112793&tid=UA-69556209-1&_gid=482034844.1644112793&_r=1&_slc=1&z=722611477",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1421974520&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1780858904&gjid=939014930&cid=513365993.1644711518&tid=UA-69556209-1&_gid=906306751.1644711518&_r=1&_slc=1&z=227592654",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "facebook",
+      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=6ee7ad8f17193ddf8a83a52186544c89",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=72f069efc06c4da24133bf20611e2859141d115b",
+      "url": "https://syndication.twitter.com/settings?session_id=cf1ef432d69f7a64020dd598d1855c06cd6cda35",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -109,7 +109,7 @@
       "value": "1",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1644112852,
+      "expires": 1644711578,
       "size": 5,
       "httpOnly": false,
       "secure": false,
@@ -120,10 +120,10 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.482034844.1644112793",
+      "value": "GA1.2.906306751.1644711518",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1644199192,
+      "expires": 1644797918,
       "size": 30,
       "httpOnly": false,
       "secure": false,
@@ -134,11 +134,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.1364531645.1644112793",
+      "value": "GA1.2.513365993.1644711518",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1707184792,
-      "size": 30,
+      "expires": 1707783518,
+      "size": 29,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -162,16 +162,16 @@
     }
   ],
   "headers": {
-    "date": "Sun, 06 Feb 2022 01:59:50 GMT",
+    "date": "Sun, 13 Feb 2022 00:18:36 GMT",
     "server": "Apache/2.4.10 (Debian)",
     "x-drupal-cache": "HIT",
-    "etag": "\"1644112072-1\"",
+    "etag": "\"1644707096-1\"",
     "content-language": "fr",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 7 (http://drupal.org)",
     "link": "<http://www.debout-la-france.fr/>; rel=\"canonical\",<http://www.debout-la-france.fr/>; rel=\"shortlink\"",
     "cache-control": "public, max-age=300",
-    "last-modified": "Sun, 06 Feb 2022 01:47:52 GMT",
+    "last-modified": "Sat, 12 Feb 2022 23:04:56 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "vary": "Cookie,Accept-Encoding",
     "content-encoding": "gzip",
@@ -185,13 +185,6 @@
       "hostname": "www.debout-la-france.fr",
       "ip": "212.129.44.164",
       "geoip": {
-        "city": {
-          "geoname_id": 3013263,
-          "names": {
-            "en": "Hirel",
-            "fr": "Hirel"
-          }
-        },
         "continent": {
           "code": "EU",
           "geoname_id": 6255148,
@@ -222,13 +215,10 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 48.6091,
-          "longitude": -1.8021,
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
           "time_zone": "Europe/Paris"
-        },
-        "postal": {
-          "code": "35120"
         },
         "registered_country": {
           "geoname_id": 3017382,
@@ -244,38 +234,12 @@
             "ru": "Франция",
             "zh-CN": "法国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 3030293,
-            "iso_code": "BRE",
-            "names": {
-              "de": "Bretagne",
-              "en": "Brittany",
-              "es": "Bretaña",
-              "fr": "Bretagne",
-              "ja": "ブルターニュ",
-              "pt-BR": "Bretanha",
-              "ru": "Бретань",
-              "zh-CN": "布列塔尼半岛"
-            }
-          },
-          {
-            "geoname_id": 3012849,
-            "iso_code": "35",
-            "names": {
-              "de": "Ille-et-Vilaine",
-              "en": "Ille-et-Vilaine",
-              "es": "Ille y Vilaine",
-              "fr": "Ille-et-Vilaine"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.16.18.94",
+      "ip": "104.16.19.94",
       "geoip": null
     },
     {
@@ -407,7 +371,7 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "31.13.66.19",
+      "ip": "157.240.229.1",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -445,7 +409,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 200,
+          "accuracy_radius": 1000,
           "latitude": 39.0469,
           "longitude": -77.4903,
           "metro_code": 511,
@@ -455,18 +419,17 @@
           "code": "20149"
         },
         "registered_country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "subdivisions": [
@@ -487,7 +450,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.8",
+      "ip": "104.244.42.136",
       "geoip": {
         "continent": {
           "code": "NA",
