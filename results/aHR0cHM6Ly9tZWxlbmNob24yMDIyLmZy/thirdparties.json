@@ -22,70 +22,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/61b4ba/00000000000000007735a167/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
-    },
-    {
-      "type": "unknown",
       "url": "https://use.typekit.net/af/5e6988/00000000000000007735a163/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
     },
     {
       "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/matomo.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/matomo.php?action_name=M%C3%A9lenchon%202022%20-%20L%27union%20populaire%20pour%20l%27avenir%20en%20commun&idsite=12&rec=1&r=714398&h=0&m=23&s=14&url=https%3A%2F%2Fmelenchon2022.fr%2F&_id=fc072f175226bdf5&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=6z00Bx&pf_net=28&pf_srv=164&pf_tfr=59&pf_dm1=601"
-    },
-    {
-      "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/plugins/HeatmapSessionRecording/configs.php?idsite=12&trackerid=QeF3i0&url=https%3A%2F%2Fmelenchon2022.fr%2F"
+      "url": "https://use.typekit.net/af/61b4ba/00000000000000007735a167/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
     }
   ],
-  "cookies": [
-    {
-      "name": "_pk_ses.12.0314",
-      "value": "1",
-      "domain": "melenchon2022.fr",
-      "path": "/",
-      "expires": 1644713594,
-      "size": 16,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    },
-    {
-      "name": "_pk_id.12.0314",
-      "value": "fc072f175226bdf5.1644711795.",
-      "domain": "melenchon2022.fr",
-      "path": "/",
-      "expires": 1678666995,
-      "size": 42,
-      "httpOnly": false,
-      "secure": false,
-      "session": false,
-      "sameSite": "Lax",
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
-    }
-  ],
+  "cookies": [],
   "headers": {
-    "date": "Sun, 13 Feb 2022 00:23:13 GMT",
+    "date": "Sun, 20 Feb 2022 00:26:50 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "cf-ray": "6dc9e825ccf17007-IAD",
+    "cf-ray": "6e039b0ddbc356f8-IAD",
     "cache-control": "no-cache",
-    "expires": "Sun, 13 Feb 2022 00:23:12 GMT",
+    "expires": "Sun, 20 Feb 2022 00:26:48 GMT",
     "link": "<https://melenchon2022.fr/wp-json/>; rel=\"https://api.w.org/\", <https://melenchon2022.fr/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://melenchon2022.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=86400;",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
-    "fastcgi-cache": "STALE",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ROUyK%2ByRLqrkd7FLY%2FVIReqBWC1jJB3LDP3UulZwMPnpOdDL4tSaAFbOWmyIr5v2eC42wzBUrYip9ltbsBOQnZNwj4pvX7LnEKBvGEDYR9G1FNwfpK54bKYV4qFVhOH%2FxPk%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "fastcgi-cache": "HIT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=K1QG2zC%2BBhWWuNo%2BPIevXYUmw5qYzt8HAof66eX8RwHZBHAsRWhp%2F9FS3RzSCxCYON73sLNfW3bz77Lrit1UbxwYQ93EjF5WRyWUOhw1tFel5pvOqiySzU2cci46%2Bx97qjE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "content-encoding": "br"
@@ -93,7 +50,7 @@
   "endpoints": [
     {
       "hostname": "melenchon2022.fr",
-      "ip": "104.26.9.197",
+      "ip": "104.26.8.197",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -147,7 +104,7 @@
     },
     {
       "hostname": "use.typekit.net",
-      "ip": "23.221.75.154",
+      "ip": "23.221.75.176",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -226,7 +183,7 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.221.75.192",
+      "ip": "23.199.55.39",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -301,62 +258,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "matomo.lafranceinsoumise.fr",
-      "ip": "51.15.136.110",
-      "geoip": {
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        },
-        "country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 500,
-          "latitude": 48.8582,
-          "longitude": 2.3387,
-          "time_zone": "Europe/Paris"
-        },
-        "registered_country": {
-          "geoname_id": 3017382,
-          "is_in_european_union": true,
-          "iso_code": "FR",
-          "names": {
-            "de": "Frankreich",
-            "en": "France",
-            "es": "Francia",
-            "fr": "France",
-            "ja": "フランス共和国",
-            "pt-BR": "França",
-            "ru": "Франция",
-            "zh-CN": "法国"
-          }
-        }
       }
     }
   ]
