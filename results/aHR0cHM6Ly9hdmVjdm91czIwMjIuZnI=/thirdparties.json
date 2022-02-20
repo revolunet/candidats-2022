@@ -14,27 +14,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/twentytwenty/style.css?ver=1644602350"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/twentytwenty/style.css?ver=1645204361"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/larem/style.css?ver=1644602350"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/larem/style.css?ver=1645204361"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1644602314"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1645176527"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-5.css?ver=1644602350"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-5.css?ver=1645204362"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1644602314"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1645176527"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1644602350"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1645204363"
     },
     {
       "type": "unknown",
@@ -42,7 +42,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-7.css?ver=1644602774"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-7.css?ver=1645204423"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-6231.css?ver=1645204362"
     },
     {
       "type": "unknown",
@@ -70,7 +74,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css?ver=1644602585"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css?ver=1645204365"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/print.css?ver=1.1"
     },
     {
       "type": "unknown",
@@ -78,15 +86,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/forms/end-form/build/sib-styles.css?ver=1644602585"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/forms/end-form/build/sib-styles.css?ver=1645204365"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-610.css?ver=1644602585"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1645197247"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-738.css?ver=1644602351"
+      "url": "https://avecvous.fr/wp-content/uploads/2022/01/notre-demarche.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-610.css?ver=1645204362"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-738.css?ver=1645204362"
     },
     {
       "type": "unknown",
@@ -95,10 +115,6 @@
     {
       "type": "unknown",
       "url": "https://avecvous.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/01/notre-demarche.jpg"
     },
     {
       "type": "unknown",
@@ -112,7 +128,7 @@
   "cookies": [
     {
       "name": "SERVERID194310",
-      "value": "91d434b1|YghST|YghST",
+      "value": "91d434b1|YhGNu|YhGNu",
       "domain": "avecvous.fr",
       "path": "/",
       "expires": -1,
@@ -126,34 +142,30 @@
     }
   ],
   "headers": {
-    "date": "Sun, 13 Feb 2022 00:35:22 GMT",
+    "date": "Sun, 20 Feb 2022 00:39:17 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
     "link": "<https://avecvous.fr/>; rel=shortlink",
     "x-server-id": "lrem-front-03",
-    "x-varnish": "2272051 2032979",
-    "age": "1645",
+    "x-varnish": "2393549 2032330",
+    "age": "548",
     "via": "1.1 varnish (Varnish/6.6)",
     "x-cache": "HIT",
-    "x-cache-hits": "48",
+    "x-cache-hits": "7",
     "x-cache-varnishserver": "lrem-cache-01",
-    "x-iplb-request-id": "6CA2F6B8:8F0E_894A7FBF:01BB_6208524A_48C83:2C588",
+    "x-iplb-request-id": "AC468609:AD66_894A7FBF:01BB_62118DB5_69FFA:2C589",
     "x-iplb-instance": "43351",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6dc9f9ef8e3a5fb6-SEA",
+    "cf-ray": "6e03ad4f1dab81b2-IAD",
     "content-encoding": "br"
   },
   "endpoints": [
     {
       "hostname": "avecvous2022.fr",
-      "ip": "104.22.8.6",
-      "geoip": null
-    },
-    {
-      "hostname": "avecvous.fr",
-      "ip": "172.67.10.90",
+      "ip": "172.67.20.73",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -204,6 +216,11 @@
           }
         }
       }
+    },
+    {
+      "hostname": "avecvous.fr",
+      "ip": "104.22.66.69",
+      "geoip": null
     },
     {
       "hostname": "fabernovel.ecritel.net",
