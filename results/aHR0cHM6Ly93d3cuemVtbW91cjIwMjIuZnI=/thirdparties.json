@@ -2,11 +2,11 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/default/bootstrap.css"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/mobile/bootstrap.css"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/default/theme.scss"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/mobile/theme.scss"
     },
     {
       "type": "unknown",
@@ -21,28 +21,20 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid/v3/main-5c3aced637d54a6ea9c73f20ce4bdc9bdc1991e1a33ab6d8d3f489a734ae06f5.js",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/assets/liquid/v3/main-338e0c7ee440859323ff017922881148a330e2c27049de01eff260434445e1bb.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/default/bootstrap.min.js"
+      "url": "https://assets.nationbuilder.com/assets/liquid-ada556af148724507cc363e99930b674fcfd432393a759d631128c9597d7e6fa.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/default/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/mobile/bootstrap.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/mobile/theme.js"
     },
     {
       "type": "google tag manager",
@@ -61,28 +53,16 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/830/attachments/original/1644672795/bg-photo_2022-02-12_10-55-05.jpg?1644672795",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/844/attachments/original/1645272193/bg-msm.jpeg?1645272193"
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/811/attachments/original/1644152941/bg-lille.jpeg?1644152941",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/830/attachments/original/1644672795/bg-photo_2022-02-12_10-55-05.jpg?1644672795"
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/768/attachments/original/1643615944/bg-chaumont.jpeg?1643615944",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/811/attachments/original/1644152941/bg-lille.jpeg?1644152941"
     },
     {
       "type": "cloudfront",
@@ -105,16 +85,16 @@
       "url": "https://consentcdn.cookiebot.com/consentconfig/2d37563b-7703-4bd8-b38a-5f11dbe4840b/zemmour2022.fr/configuration.js"
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1641378268/ez-home.jpg?1641378268",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1641378268/ez-home.jpg?1641378268"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1641379655/degrade-bleu.svg?1641379655"
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/themes/618af67dc294806597a08463/attachments/original/1641379655/degrade-bleu.svg?1641379655",
+      "url": "https://df8xkop7ho1no.cloudfront.net/prio/prio-1-530.jpg",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -146,7 +126,7 @@
     },
     {
       "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/prio/prio-1-530.jpg",
+      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -185,20 +165,12 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/826/attachments/original/1644576808/bg-nucleaire.jpg?1644576808",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/836/attachments/original/1645000438/bg-trump.jpg?1645000438"
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/807/attachments/original/1644342799/bg-maxette.jpeg?1644342799",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1636657857/default_single_bg.jpg?1636657857"
     },
     {
       "type": "cloudfront",
@@ -209,24 +181,12 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://df8xkop7ho1no.cloudfront.net/font/ProximaNova-Bold.otf",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
       "type": "unknown",
       "url": "https://consentcdn.cookiebot.com/sdk/bc-v3.min.html"
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid/v3/main-5c3aced637d54a6ea9c73f20ce4bdc9bdc1991e1a33ab6d8d3f489a734ae06f5.js",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/assets/liquid/v3/main-338e0c7ee440859323ff017922881148a330e2c27049de01eff260434445e1bb.js"
     },
     {
       "type": "cloudfront",
@@ -237,24 +197,20 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/830/attachments/original/1644672795/bg-photo_2022-02-12_10-55-05.jpg?1644672795",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/844/attachments/original/1645272193/bg-msm.jpeg?1645272193"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/830/attachments/original/1644672795/bg-photo_2022-02-12_10-55-05.jpg?1644672795"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/811/attachments/original/1644152941/bg-lille.jpeg?1644152941"
     },
     {
       "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/811/attachments/original/1644152941/bg-lille.jpeg?1644152941",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/ez/pages/768/attachments/original/1643615944/bg-chaumont.jpeg?1643615944",
+      "url": "https://df8xkop7ho1no.cloudfront.net/photo_2021-12-06_14-42-22.jpg",
       "details": {
         "id": "cloudfront",
         "message": "Host files locally"
@@ -278,7 +234,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.4e067713e19d4fff483536ddc4df18b9.html?origin=https%3A%2F%2Fwww.zemmour2022.fr",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.a58e82e150afc25eb5372dd55a98b778.html?origin=https%3A%2F%2Fwww.zemmour2022.fr",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -293,20 +249,12 @@
       }
     },
     {
-      "type": "cloudfront",
-      "url": "https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js",
-      "details": {
-        "id": "cloudfront",
-        "message": "Host files locally"
-      }
-    },
-    {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/default/bootstrap.min.js"
+      "url": "https://assets.nationbuilder.com/assets/liquid-ada556af148724507cc363e99930b674fcfd432393a759d631128c9597d7e6fa.js"
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=24dcbe05900e1d6150467c87e6ece1b3",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=d4c1c4d63a0054fbac912d1943a70329",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -314,7 +262,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=d23f9d50e8d0d89b5b3988f8149f7f3df27781d0",
+      "url": "https://syndication.twitter.com/settings?session_id=069dec8f80f7ca92c52c73bc7e42126f154a7c91",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -322,7 +270,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/default/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/mobile/bootstrap.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.zemmour2022.fr&dnt=false&forceshow=false"
+    },
+    {
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901644407619/mobile/theme.js"
     },
     {
       "type": "facebook",
@@ -331,20 +287,16 @@
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.zemmour2022.fr&dnt=false&forceshow=false"
     }
   ],
   "cookies": [
     {
       "name": "_nbuild_token",
-      "value": "Ebr5XUXKBieAvtk9iUUw7NBtayUgo6hLAUO%2F0UREUMU%3D",
+      "value": "iRAl56vctPzQiv%2FRjwgGXzF%2FYSul7nm1c4nJ93W4sg0%3D",
       "domain": "www.zemmour2022.fr",
       "path": "/",
       "expires": -1,
-      "size": 61,
+      "size": 63,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -354,47 +306,47 @@
     }
   ],
   "headers": {
-    "date": "Sun, 13 Feb 2022 00:29:56 GMT",
+    "date": "Sun, 20 Feb 2022 00:34:12 GMT",
     "content-type": "text/html; charset=utf-8",
     "x-rack-cache": "fresh",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "54",
+    "age": "42",
     "x-nb-cached-page": "yes",
-    "x-request-id": "0808b924-7ad7-4fbb-9f89-f7ad13160da8",
-    "x-served-by": "app10",
-    "x-middleware-start": "t=1644712196661951",
-    "x-content-digest": "4cb7d56b89207504fb70598f236bf4b9adced3e8",
+    "x-request-id": "feef4783-a258-4f21-93bd-210123cb06c5",
+    "x-served-by": "app14",
+    "x-middleware-start": "t=1645317252648414",
+    "x-content-digest": "bda59f133a54745e412ba0026d05c108617a5ffc",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.055870",
+    "x-runtime": "0.060468",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=Ebr5XUXKBieAvtk9iUUw7NBtayUgo6hLAUO%2F0UREUMU%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=iRAl56vctPzQiv%2FRjwgGXzF%2FYSul7nm1c4nJ93W4sg0%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "x-nationbuilder": "true",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6dc9f1fce8fb593d-IAD",
+    "cf-ray": "6e03a5dcd8827ff9-IAD",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "ez.nationbuilder.com",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "consent.cookiebot.com",
-      "ip": "23.73.207.75",
+      "ip": "23.205.107.72",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -526,62 +478,13 @@
       }
     },
     {
-      "hostname": "d3n8a8pro7vhmx.cloudfront.net",
-      "ip": "99.84.185.30",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
+      "hostname": "assets.nationbuilder.com",
+      "ip": "162.159.128.45",
+      "geoip": null
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.12.232",
+      "ip": "142.251.45.104",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -635,7 +538,7 @@
     },
     {
       "hostname": "df8xkop7ho1no.cloudfront.net",
-      "ip": "13.32.192.135",
+      "ip": "13.32.192.72",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -689,7 +592,7 @@
     },
     {
       "hostname": "consentcdn.cookiebot.com",
-      "ip": "104.106.162.18",
+      "ip": "104.108.101.241",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -768,7 +671,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "72.21.91.66",
+      "ip": "192.229.163.25",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -800,8 +703,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
+          "latitude": 32.7797,
+          "longitude": -96.8022,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -817,7 +720,21 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4736286,
+            "iso_code": "TX",
+            "names": {
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
+            }
+          }
+        ]
       }
     },
     {
@@ -956,13 +873,19 @@
     },
     {
       "hostname": "www.facebook.com",
-      "ip": "31.13.66.35",
+      "ip": "157.240.22.35",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5393015,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
           }
         },
         "continent": {
@@ -994,41 +917,42 @@
           }
         },
         "location": {
-          "accuracy_radius": 200,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "accuracy_radius": 1000,
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "20149"
+          "code": "95052"
         },
         "registered_country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
