@@ -14,6 +14,10 @@
     },
     {
       "type": "unknown",
+      "url": "https://p.typekit.net/p.css?s=1&k=sva6ljo&ht=tk&f=44068.44070.44073.44075.44077.44086.44087.44093.44094.44109.44111&a=84284592&app=typekit&e=css"
+    },
+    {
+      "type": "unknown",
       "url": "https://rum-static.pingdom.net/pa-61e3f9279034fb0011000611.js"
     },
     {
@@ -23,10 +27,6 @@
         "id": "google tag manager",
         "message": "Use hosted Matomo instance"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://p.typekit.net/p.css?s=1&k=sva6ljo&ht=tk&f=44068.44070.44073.44075.44077.44086.44087.44093.44094.44109.44111&a=84284592&app=typekit&e=css"
     },
     {
       "type": "unknown",
@@ -118,20 +118,20 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1644712465003"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1645317548564"
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1644712466205"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1645317549795"
     }
   ],
   "cookies": [
     {
       "name": "fpestid",
-      "value": "3SfvzY6AYRiq8rt4Uqjkm7X0IS2wNq6QHtrEEK_Ibh-_UzPmJaIuQXfkz2KYoK7LcXoHjg",
+      "value": "QQglqX-69Mp-QIgN1aj0zQ39CLvsI6Tjm8Xj1kaCwVLH8gsUrmFv8FAJTWyU25RI-cPp5g",
       "domain": ".avectaubira.fr",
       "path": "/",
-      "expires": 1676248463.871563,
+      "expires": 1676853547.416716,
       "size": 77,
       "httpOnly": false,
       "secure": true,
@@ -146,7 +146,7 @@
       "value": "ujfv.lpH%5BSQiZFmt",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1644798862.914432,
+      "expires": 1645403946.527619,
       "size": 34,
       "httpOnly": false,
       "secure": true,
@@ -160,7 +160,7 @@
       "value": "oRLm49gbiU",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1644798862.914325,
+      "expires": 1645403946.527468,
       "size": 20,
       "httpOnly": false,
       "secure": true,
@@ -172,10 +172,10 @@
   ],
   "headers": {
     "server": "nginx",
-    "date": "Sun, 13 Feb 2022 00:34:22 GMT",
+    "date": "Sun, 20 Feb 2022 00:39:06 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
-    "set-cookie": "cdjsXWwqHT=oRLm49gbiU; expires=Mon, 14-Feb-2022 00:33:46 GMT; Max-Age=86400; path=/; secure\nXsiLQOH_CvPrJZYT=ujfv.lpH%5BSQiZFmt; expires=Mon, 14-Feb-2022 00:33:46 GMT; Max-Age=86400; path=/; secure",
+    "set-cookie": "cdjsXWwqHT=oRLm49gbiU; expires=Mon, 21-Feb-2022 00:38:20 GMT; Max-Age=86400; path=/; secure\nXsiLQOH_CvPrJZYT=ujfv.lpH%5BSQiZFmt; expires=Mon, 21-Feb-2022 00:38:20 GMT; Max-Age=86400; path=/; secure",
     "link": "<https://www.avectaubira.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.avectaubira.fr/wp-json/wp/v2/pages/435>; rel=\"alternate\"; type=\"application/json\"\n<https://www.avectaubira.fr/>; rel=shortlink",
     "fastcgi-cache": "STALE",
     "strict-transport-security": "max-age=31536000; includeSubDomains;",
@@ -419,115 +419,7 @@
     },
     {
       "hostname": "platform-api.sharethis.com",
-      "ip": "13.32.208.24",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "rum-static.pingdom.net",
-      "ip": "172.67.5.216",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "www.googletagmanager.com",
-      "ip": "142.250.188.200",
+      "ip": "99.84.110.102",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -581,7 +473,7 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.222.5.79",
+      "ip": "23.221.75.192",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -659,8 +551,116 @@
       }
     },
     {
+      "hostname": "rum-static.pingdom.net",
+      "ip": "172.67.5.216",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.googletagmanager.com",
+      "ip": "172.217.0.40",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "buttons-config.sharethis.com",
-      "ip": "13.227.33.38",
+      "ip": "54.192.192.80",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -714,7 +714,7 @@
     },
     {
       "hostname": "l.sharethis.com",
-      "ip": "3.129.242.122",
+      "ip": "18.190.45.198",
       "geoip": {
         "city": {
           "geoname_id": 4509177,
@@ -799,7 +799,7 @@
     },
     {
       "hostname": "platform-cdn.sharethis.com",
-      "ip": "99.84.208.66",
+      "ip": "13.225.71.125",
       "geoip": {
         "continent": {
           "code": "NA",
