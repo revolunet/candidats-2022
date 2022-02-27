@@ -353,7 +353,7 @@
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "HIGH",
-              "finding"      : "expires < 30 days (29)"
+              "finding"      : "expires < 30 days (22)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -507,21 +507,21 @@
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+12085 seconds from localtime"
+              "finding"      : "+33471 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1645316641"
+              "finding"      : "1645921348"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "12085 seconds"
+              "finding"      : "33471 seconds"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1105,6 +1105,6 @@
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "104"
+              "finding"      : "72"
           }
 ]
