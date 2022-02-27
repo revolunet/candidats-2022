@@ -118,20 +118,20 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1645317548564"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse&_time=1645922203562"
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1645317549795"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!youtube%3Dfalse&_time=1645922204758"
     }
   ],
   "cookies": [
     {
       "name": "fpestid",
-      "value": "QQglqX-69Mp-QIgN1aj0zQ39CLvsI6Tjm8Xj1kaCwVLH8gsUrmFv8FAJTWyU25RI-cPp5g",
+      "value": "x_gTCm9QfQC7L369-Kno-LsYPP1OmVpdGqTA0ZmsJZog_4BdXSbqXRcCtU4LkkIYOnM2ow",
       "domain": ".avectaubira.fr",
       "path": "/",
-      "expires": 1676853547.416716,
+      "expires": 1677458202.445771,
       "size": 77,
       "httpOnly": false,
       "secure": true,
@@ -146,7 +146,7 @@
       "value": "ujfv.lpH%5BSQiZFmt",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1645403946.527619,
+      "expires": 1646008601.494278,
       "size": 34,
       "httpOnly": false,
       "secure": true,
@@ -160,7 +160,7 @@
       "value": "oRLm49gbiU",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1645403946.527468,
+      "expires": 1646008601.49412,
       "size": 20,
       "httpOnly": false,
       "secure": true,
@@ -172,10 +172,10 @@
   ],
   "headers": {
     "server": "nginx",
-    "date": "Sun, 20 Feb 2022 00:39:06 GMT",
+    "date": "Sun, 27 Feb 2022 00:36:41 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
-    "set-cookie": "cdjsXWwqHT=oRLm49gbiU; expires=Mon, 21-Feb-2022 00:38:20 GMT; Max-Age=86400; path=/; secure\nXsiLQOH_CvPrJZYT=ujfv.lpH%5BSQiZFmt; expires=Mon, 21-Feb-2022 00:38:20 GMT; Max-Age=86400; path=/; secure",
+    "set-cookie": "cdjsXWwqHT=oRLm49gbiU; expires=Mon, 28-Feb-2022 00:35:51 GMT; Max-Age=86400; path=/; secure\nXsiLQOH_CvPrJZYT=ujfv.lpH%5BSQiZFmt; expires=Mon, 28-Feb-2022 00:35:51 GMT; Max-Age=86400; path=/; secure",
     "link": "<https://www.avectaubira.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.avectaubira.fr/wp-json/wp/v2/pages/435>; rel=\"alternate\"; type=\"application/json\"\n<https://www.avectaubira.fr/>; rel=shortlink",
     "fastcgi-cache": "STALE",
     "strict-transport-security": "max-age=31536000; includeSubDomains;",
@@ -340,7 +340,7 @@
     },
     {
       "hostname": "use.typekit.net",
-      "ip": "23.221.75.154",
+      "ip": "23.218.216.6",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -473,7 +473,7 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.221.75.192",
+      "ip": "23.218.216.23",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -606,7 +606,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.0.40",
+      "ip": "142.250.65.72",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -660,7 +660,7 @@
     },
     {
       "hostname": "buttons-config.sharethis.com",
-      "ip": "54.192.192.80",
+      "ip": "54.192.192.6",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -714,7 +714,7 @@
     },
     {
       "hostname": "l.sharethis.com",
-      "ip": "18.190.45.198",
+      "ip": "3.129.242.122",
       "geoip": {
         "city": {
           "geoname_id": 4509177,
@@ -799,7 +799,7 @@
     },
     {
       "hostname": "platform-cdn.sharethis.com",
-      "ip": "13.225.71.125",
+      "ip": "99.84.208.66",
       "geoip": {
         "continent": {
           "code": "NA",
