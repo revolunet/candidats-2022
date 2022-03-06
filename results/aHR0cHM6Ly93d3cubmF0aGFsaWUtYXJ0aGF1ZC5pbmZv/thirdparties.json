@@ -46,7 +46,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://cdn.lutte-ouvriere.org/matomo.php?action_name=Accueil%20%7C%20Le%20site%20de%20Nathalie%20Arthaud&idsite=5&rec=1&r=914097&h=0&m=25&s=34&url=https%3A%2F%2Fwww.nathalie-arthaud.info%2F&_id=0e0ccc72f91f1632&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=f7Bg4k&pf_net=208&pf_srv=89&pf_tfr=3&pf_dm1=506"
+      "url": "https://cdn.lutte-ouvriere.org/matomo.php?action_name=Accueil%20%7C%20Le%20site%20de%20Nathalie%20Arthaud&idsite=5&rec=1&r=349064&h=0&m=23&s=56&url=https%3A%2F%2Fwww.nathalie-arthaud.info%2F&_id=f997983337734ac0&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=5MZPts&pf_net=211&pf_srv=88&pf_tfr=2&pf_dm1=485"
     }
   ],
   "cookies": [
@@ -55,7 +55,7 @@
       "value": "1",
       "domain": "www.nathalie-arthaud.info",
       "path": "/",
-      "expires": 1645923334,
+      "expires": 1646528036,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -67,10 +67,10 @@
     },
     {
       "name": "_pk_id.5.b5e5",
-      "value": "0e0ccc72f91f1632.1645921535.",
+      "value": "f997983337734ac0.1646526237.",
       "domain": "www.nathalie-arthaud.info",
       "path": "/",
-      "expires": 1679876735,
+      "expires": 1680481437,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -79,34 +79,21 @@
       "sameParty": false,
       "sourceScheme": "Secure",
       "sourcePort": 443
-    },
-    {
-      "name": "has_js",
-      "value": "1",
-      "domain": "www.nathalie-arthaud.info",
-      "path": "/",
-      "expires": -1,
-      "size": 7,
-      "httpOnly": false,
-      "secure": false,
-      "session": true,
-      "sameParty": false,
-      "sourceScheme": "Secure",
-      "sourcePort": 443
     }
   ],
   "headers": {
-    "date": "Sun, 27 Feb 2022 00:25:33 GMT",
+    "date": "Sun, 06 Mar 2022 00:23:55 GMT",
     "server": "Apache",
     "strict-transport-security": "max-age=15552000; includeSubdomains;",
     "x-content-type-options": "nosniff",
     "x-drupal-cache": "HIT",
-    "etag": "\"1645919997-1\"",
+    "etag": "\"1646526143-1\"",
     "content-language": "fr",
     "x-frame-options": "SAMEORIGIN",
+    "permissions-policy": "interest-cohort=()",
     "x-generator": "Drupal 7 (http://drupal.org)",
     "cache-control": "public, max-age=3600",
-    "last-modified": "Sat, 26 Feb 2022 23:59:57 GMT",
+    "last-modified": "Sun, 06 Mar 2022 00:22:23 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "vary": "Cookie,Accept-Encoding",
     "content-encoding": "gzip",
@@ -174,7 +161,7 @@
     },
     {
       "hostname": "ka-f.fontawesome.com",
-      "ip": "172.67.161.47",
+      "ip": "172.67.150.137",
       "geoip": {
         "continent": {
           "code": "NA",
