@@ -1,22 +1,6 @@
 {
   "trackers": [
     {
-      "type": "FontAwesome",
-      "url": "https://kit.fontawesome.com/acd0307bf4.js",
-      "details": {
-        "id": "FontAwesome",
-        "message": "Host fonts directly"
-      }
-    },
-    {
-      "type": "google fonts",
-      "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "jQuery",
       "url": "https://code.jquery.com/jquery-3.3.1.min.js",
       "details": {
@@ -30,6 +14,22 @@
       "details": {
         "id": "cloudflare",
         "message": "Host files locally"
+      }
+    },
+    {
+      "type": "FontAwesome",
+      "url": "https://kit.fontawesome.com/acd0307bf4.js",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
       }
     },
     {
@@ -150,7 +150,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1164906973&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=913144555&gjid=756780220&cid=586165427.1645921583&tid=UA-64609674-1&_gid=144628620.1645921583&_r=1&gtm=2wg2n0P52GNT2&z=1641933254",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1986995017&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=411184792&gjid=1301768774&cid=2119175517.1646526428&tid=UA-64609674-1&_gid=751394915.1646526428&_r=1&gtm=2wg320P52GNT2&z=815829240",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -158,7 +158,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/signals/config/1102115630176382?v=2.9.52&r=stable",
+      "url": "https://connect.facebook.net/signals/config/1102115630176382?v=2.9.55&r=stable",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -166,15 +166,23 @@
     },
     {
       "type": "google analytics",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=586165427.1645921583&jid=913144555&gjid=756780220&_gid=144628620.1645921583&_u=YEBAAEAAAAAAAC~&z=836550997",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=2119175517.1646526428&jid=411184792&gjid=1301768774&_gid=751394915.1646526428&_u=YEBAAEAAAAAAAC~&z=1815599217",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
       }
     },
     {
+      "type": "facebook",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1646526427674&sw=800&sh=600&v=2.9.55&r=stable&ec=0&o=158&fbp=fb.1.1646526427672.94826778&it=1646526427600&coo=false&rqm=GET",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
+      }
+    },
+    {
       "type": "google",
-      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=586165427.1645921583&jid=913144555&_u=YEBAAEAAAAAAAC~&z=1191354039",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=2119175517.1646526428&jid=411184792&_u=YEBAAEAAAAAAAC~&z=1304002776",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -182,15 +190,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1645921583022&sw=800&sh=600&v=2.9.52&r=stable&ec=0&o=158&fbp=fb.1.1645921583018.1609211350&it=1645921582791&coo=false&exp=p1&rqm=GET",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1645921583527&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.52&r=stable&ec=1&o=158&fbp=fb.1.1645921583018.1609211350&it=1645921582791&coo=false&es=automatic&tm=3&exp=p1&rqm=GET",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1646526428178&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.55&r=stable&ec=1&o=158&fbp=fb.1.1646526427672.94826778&it=1646526427600&coo=false&es=automatic&tm=3&rqm=GET",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -203,7 +203,7 @@
       "value": "1",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1645921642,
+      "expires": 1646526487,
       "size": 19,
       "httpOnly": false,
       "secure": false,
@@ -214,11 +214,11 @@
     },
     {
       "name": "_fbp",
-      "value": "fb.1.1645921583018.1609211350",
+      "value": "fb.1.1646526427672.94826778",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1653697583,
-      "size": 33,
+      "expires": 1654302427,
+      "size": 31,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -228,10 +228,10 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.144628620.1645921583",
+      "value": "GA1.2.751394915.1646526428",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1646007982,
+      "expires": 1646612827,
       "size": 30,
       "httpOnly": false,
       "secure": false,
@@ -242,11 +242,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.586165427.1645921583",
+      "value": "GA1.2.2119175517.1646526428",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1708993582,
-      "size": 29,
+      "expires": 1709598427,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -256,7 +256,7 @@
     }
   ],
   "headers": {
-    "date": "Sun, 27 Feb 2022 00:26:22 GMT",
+    "date": "Sun, 06 Mar 2022 00:27:06 GMT",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "x-powered-by": "PHP/7.4",
@@ -321,67 +321,8 @@
       }
     },
     {
-      "hostname": "kit.fontawesome.com",
-      "ip": "104.18.22.52",
-      "geoip": null
-    },
-    {
-      "hostname": "fonts.googleapis.com",
-      "ip": "142.250.81.202",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "code.jquery.com",
-      "ip": "69.16.175.42",
+      "ip": "69.16.175.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -439,13 +380,72 @@
       "geoip": null
     },
     {
+      "hostname": "kit.fontawesome.com",
+      "ip": "104.18.22.52",
+      "geoip": null
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "ip": "142.251.45.106",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "stackpath.bootstrapcdn.com",
-      "ip": "104.18.10.207",
+      "ip": "104.18.11.207",
       "geoip": null
     },
     {
       "hostname": "ka-f.fontawesome.com",
-      "ip": "172.67.161.47",
+      "ip": "172.67.150.137",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -637,7 +637,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.251.45.99",
+      "ip": "172.217.1.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -691,7 +691,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.250.65.78",
+      "ip": "172.217.12.238",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -745,19 +745,13 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.18.19",
+      "ip": "31.13.66.19",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -789,41 +783,41 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "accuracy_radius": 200,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60602"
+          "code": "20149"
         },
         "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 2963597,
+          "is_in_european_union": true,
+          "iso_code": "IE",
           "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Irland",
+            "en": "Ireland",
+            "es": "Irlanda",
+            "fr": "Irlande",
+            "ja": "アイルランド",
+            "pt-BR": "Irlanda",
+            "ru": "Ирландия",
+            "zh-CN": "爱尔兰"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -831,61 +825,7 @@
     },
     {
       "hostname": "stats.g.doubleclick.net",
-      "ip": "173.194.204.155",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "www.google.com",
-      "ip": "142.251.16.105",
+      "ip": "173.194.66.156",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -939,7 +879,7 @@
     },
     {
       "hostname": "www.facebook.com",
-      "ip": "157.240.229.35",
+      "ip": "31.13.66.35",
       "geoip": {
         "city": {
           "geoname_id": 4744870,
@@ -977,7 +917,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 200,
           "latitude": 39.0469,
           "longitude": -77.4903,
           "metro_code": 511,
@@ -987,17 +927,18 @@
           "code": "20149"
         },
         "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 2963597,
+          "is_in_european_union": true,
+          "iso_code": "IE",
           "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Irland",
+            "en": "Ireland",
+            "es": "Irlanda",
+            "fr": "Irlande",
+            "ja": "アイルランド",
+            "pt-BR": "Irlanda",
+            "ru": "Ирландия",
+            "zh-CN": "爱尔兰"
           }
         },
         "subdivisions": [
@@ -1014,6 +955,60 @@
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "www.google.com",
+      "ip": "142.250.31.104",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     }
   ]
