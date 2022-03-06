@@ -2,51 +2,47 @@
   "trackers": [
     {
       "type": "unknown",
-      "url": "https://avecvous.fr//"
-    },
-    {
-      "type": "unknown",
       "url": "https://avecvous.fr/"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-includes/css/dist/block-library/style.min.css?ver=d1485eb011b0d754547d0b0d30f06e2b"
+      "url": "https://avecvous.fr/wp-includes/css/dist/block-library/style.min.css?ver=903dd08eb9819aee5bb99ae1b666588a"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/twentytwenty/style.css?ver=1645204361"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/twentytwenty/style.css?ver=1646432369"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/larem/style.css?ver=1645204361"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/larem/style.css?ver=1646432369"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1645176527"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1646431259"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-5.css?ver=1645204362"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-5.css?ver=1646432369"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1645176527"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1646431259"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1645204363"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/global.css?ver=1646432369"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.5"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-5669.css?ver=1646432457"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-7.css?ver=1645204423"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-6647.css?ver=1646432372"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-6231.css?ver=1645204362"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-7722.css?ver=1646432369"
     },
     {
       "type": "unknown",
@@ -54,15 +50,79 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Light-205TF-1.woff"
+      "url": "https://avecvous.fr/wp-includes/js/jquery/jquery.min.js?ver=3.6.0"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Medium-205TF-1.woff"
+      "url": "https://avecvous.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Bold-205TF-1.woff"
+      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Black-205TF.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Bold-Italic-205TF.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Bold-205TF.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Medium-205TF.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Italic-205TF.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Regular-205TF.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2021/12/Maax-Light-205TF.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1646431259"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/cache/min/1/forms/end-form/build/sib-styles.css?ver=1646432376"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-all.min.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-v4-shims.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/print.css?ver=1.2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2022/03/emmanuel-macron-avec-vous.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2022/02/Frame-1-1.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF-1.woff"
+    },
+    {
+      "type": "unknown",
+      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Bold-205TF-1.woff"
     },
     {
       "type": "unknown",
@@ -70,47 +130,35 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2"
+      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Light-205TF-1.woff"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css?ver=1645204365"
+      "url": "https://avecvous.fr/wp-content/uploads/2022/03/Decla_banner_desktop-scaled.jpg"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/print.css?ver=1.1"
+      "url": "https://avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/01/image-video.jpg"
+      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF.woff"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/forms/end-form/build/sib-styles.css?ver=1645204365"
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fa-brands-400.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1645197247"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-610.css?ver=1646432457"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/01/notre-demarche.jpg"
+      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-7330.css?ver=1646432369"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-610.css?ver=1645204362"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/uploads/elementor/css/post-738.css?ver=1645204362"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.6"
     },
     {
       "type": "unknown",
@@ -118,17 +166,69 @@
     },
     {
       "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.6"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.6"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.6"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.3"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.3"
+    },
+    {
+      "type": "unknown",
       "url": "https://avecvous.fr/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/01/avecvous-768x328.png"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/animated-headline.2084307f107ab81be69e.bundle.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/nav-menu.3de49ba5ef86f9a22ff5.bundle.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/text-editor.289ae80d76f0c5abea44.bundle.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com/2624188/wp-content/uploads/2022/01/avecvous.png?size=580x248&lossy=1&strip=1&webp=1"
     }
   ],
   "cookies": [
     {
       "name": "SERVERID194310",
-      "value": "91d434b1|YhGNu|YhGNu",
+      "value": "91d434b1|YiQCL|YiQCL",
       "domain": "avecvous.fr",
       "path": "/",
       "expires": -1,
@@ -142,24 +242,25 @@
     }
   ],
   "headers": {
-    "date": "Sun, 20 Feb 2022 00:39:17 GMT",
+    "date": "Sun, 06 Mar 2022 00:36:57 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
-    "strict-transport-security": "max-age=31536000",
-    "link": "<https://avecvous.fr/>; rel=shortlink",
-    "x-server-id": "lrem-front-03",
-    "x-varnish": "2393549 2032330",
-    "age": "548",
+    "x-server-id": "lrem-front-04",
+    "x-frame-options": "SAMEORIGIN",
+    "x-varnish": "397872 136438",
+    "age": "818",
     "via": "1.1 varnish (Varnish/6.6)",
     "x-cache": "HIT",
-    "x-cache-hits": "7",
+    "x-cache-hits": "24",
     "x-cache-varnishserver": "lrem-cache-01",
-    "x-iplb-request-id": "AC468609:AD66_894A7FBF:01BB_62118DB5_69FFA:2C589",
-    "x-iplb-instance": "43351",
+    "x-iplb-request-id": "AC468625:A6E0_894A7FBF:01BB_62240229_B1093:24E9D",
+    "x-iplb-instance": "43352",
+    "set-cookie": "SERVERID194310=91d434b1|YiQCL|YiQCL; path=/; HttpOnly",
+    "cache-control": "private",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6e03ad4f1dab81b2-IAD",
+    "cf-ray": "6e770521ad4f8029-IAD",
     "content-encoding": "br"
   },
   "endpoints": [
@@ -274,6 +375,116 @@
             "pt-BR": "França",
             "ru": "Франция",
             "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "testfaber.ecritel.net",
+      "ip": "54.38.236.206",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com",
+      "ip": "151.139.243.13",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         }
       }
