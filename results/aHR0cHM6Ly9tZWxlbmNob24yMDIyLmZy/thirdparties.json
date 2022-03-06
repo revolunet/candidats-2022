@@ -22,11 +22,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/61b4ba/00000000000000007735a167/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
+      "url": "https://use.typekit.net/af/5e6988/00000000000000007735a163/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/5e6988/00000000000000007735a163/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+      "url": "https://use.typekit.net/af/61b4ba/00000000000000007735a167/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
     },
     {
       "type": "unknown",
@@ -34,27 +34,31 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/matomo.php?action_name=M%C3%A9lenchon%202022%20-%20L%27union%20populaire%20pour%20l%27avenir%20en%20commun&idsite=12&rec=1&r=569366&h=0&m=25&s=36&url=https%3A%2F%2Fmelenchon2022.fr%2F&_id=&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=5I0mFa&pf_net=34&pf_srv=188&pf_tfr=145&pf_dm1=523"
+      "url": "https://matomo.lafranceinsoumise.fr/matomo.php?action_name=M%C3%A9lenchon%202022%20-%20L%27union%20populaire%20pour%20l%27avenir%20en%20commun&idsite=12&rec=1&r=922727&h=0&m=24&s=13&url=https%3A%2F%2Fmelenchon2022.fr%2F&_id=&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=J7ya7u&pf_net=31&pf_srv=225&pf_tfr=294&pf_dm1=706"
     },
     {
       "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/plugins/HeatmapSessionRecording/configs.php?idsite=12&trackerid=khNx3a&url=https%3A%2F%2Fmelenchon2022.fr%2F"
+      "url": "https://matomo.lafranceinsoumise.fr/plugins/HeatmapSessionRecording/configs.php?idsite=12&trackerid=PWAXtA&url=https%3A%2F%2Fmelenchon2022.fr%2F"
+    },
+    {
+      "type": "unknown",
+      "url": "https://use.typekit.net/mfk3kao.css"
     }
   ],
   "cookies": [],
   "headers": {
-    "date": "Sun, 27 Feb 2022 00:25:35 GMT",
+    "date": "Sun, 06 Mar 2022 00:24:12 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "cf-ray": "6e3d46dc2c335c5e-IAD",
+    "cf-ray": "6e76f2743c2a9800-SJC",
     "cache-control": "no-cache",
-    "expires": "Sun, 27 Feb 2022 00:25:34 GMT",
+    "expires": "Sun, 06 Mar 2022 00:24:11 GMT",
     "link": "<https://melenchon2022.fr/wp-json/>; rel=\"https://api.w.org/\", <https://melenchon2022.fr/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://melenchon2022.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=86400;",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "fastcgi-cache": "HIT",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=jT0F1s8pqwRDclLLbvdXbTMCE%2BTcHmiAZvuT5nZ4%2B4%2FuEAScF1gpj%2B%2FSpsGq4Nom4oyUOnh8ARlfAStNSgviV3RJIw0e2ZwY%2BUcEQr923OlnS6u2%2Fq7wkKOrmo1%2B7YbYBGA%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=S4v9sCj9dxslC1je2m3bFe6OuWl8IKuj0Gma5QcJTUJETnh2Y9rw%2F5X0D33Yncg6%2FMUhaJfipTSi%2FyOwmhHO12ft3gJXAHvOLyOwpy4LYKCpK6Y%2BBKxGw79SD0FjOop%2Bji0%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "content-encoding": "br"
@@ -62,7 +66,7 @@
   "endpoints": [
     {
       "hostname": "melenchon2022.fr",
-      "ip": "104.26.9.197",
+      "ip": "172.67.68.169",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -116,16 +120,18 @@
     },
     {
       "hostname": "use.typekit.net",
-      "ip": "23.204.152.140",
+      "ip": "23.214.112.168",
       "geoip": {
         "city": {
-          "geoname_id": 5097529,
+          "geoname_id": 5392171,
           "names": {
-            "de": "Edison",
-            "en": "Edison",
-            "ja": "エジソン",
-            "ru": "Эдисон",
-            "zh-CN": "爱迪生"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -158,13 +164,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.5209,
-          "longitude": -74.4272,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 37.3388,
+          "longitude": -121.8916,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "08899"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -182,16 +188,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5101760,
-            "iso_code": "NJ",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "New Jersey",
-              "es": "Nueva Jersey",
-              "fr": "New Jersey",
-              "ja": "ニュージャージー州",
-              "pt-BR": "Nova Jérsia",
-              "ru": "Нью-Джерси",
-              "zh-CN": "新泽西州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -199,16 +206,18 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.204.152.149",
+      "ip": "23.214.112.163",
       "geoip": {
         "city": {
-          "geoname_id": 5097529,
+          "geoname_id": 5392171,
           "names": {
-            "de": "Edison",
-            "en": "Edison",
-            "ja": "エジソン",
-            "ru": "Эдисон",
-            "zh-CN": "爱迪生"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -241,13 +250,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 40.5209,
-          "longitude": -74.4272,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 37.3388,
+          "longitude": -121.8916,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "08899"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -265,16 +274,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5101760,
-            "iso_code": "NJ",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "New Jersey",
-              "es": "Nueva Jersey",
-              "fr": "New Jersey",
-              "ja": "ニュージャージー州",
-              "pt-BR": "Nova Jérsia",
-              "ru": "Нью-Джерси",
-              "zh-CN": "新泽西州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
