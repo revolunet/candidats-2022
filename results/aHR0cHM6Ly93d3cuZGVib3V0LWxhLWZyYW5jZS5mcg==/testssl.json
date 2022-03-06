@@ -654,7 +654,7 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "282 >= 60 days"
+              "finding"      : "275 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -773,7 +773,7 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1645921381"
+              "finding"      : "1646526150"
           }
 ,         {
               "id"           : "HSTS",
@@ -1373,6 +1373,6 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "146"
+              "finding"      : "224"
           }
 ]
