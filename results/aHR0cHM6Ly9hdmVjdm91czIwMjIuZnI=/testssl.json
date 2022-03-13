@@ -199,7 +199,7 @@
               "ip"           : "avecvous2022.fr/172.67.20.73",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -367,7 +367,7 @@
               "ip"           : "avecvous2022.fr/172.67.20.73",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "357 >= 60 days"
+              "finding"      : "350 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -415,15 +415,8 @@
               "id"           : "OCSP_stapling",
               "ip"           : "avecvous2022.fr/172.67.20.73",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked",
-              "ip"           : "avecvous2022.fr/172.67.20.73",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
@@ -577,7 +570,7 @@
               "ip"           : "avecvous2022.fr/172.67.20.73",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1646527056"
+              "finding"      : "1647132044"
           }
 ,         {
               "id"           : "HTTP_headerAge",
@@ -655,7 +648,7 @@
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-200",
-              "finding"      : "X-Varnish: 397878Via: 1.1 varnish (Varnish/6.6)X-Cache: MISSX-Cache-VarnishServer: lrem-cache-01"
+              "finding"      : "X-Varnish: 1521049 514226Via: 1.1 varnish (Varnish/6.6)X-Cache: HITX-Cache-Hits: 1X-Cache-VarnishServer: lrem-cache-02"
           }
 ,         {
               "id"           : "heartbleed",
@@ -1386,7 +1379,7 @@
               "ip"           : "avecvous2022.fr/104.22.9.6",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -1554,7 +1547,7 @@
               "ip"           : "avecvous2022.fr/104.22.9.6",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "357 >= 60 days"
+              "finding"      : "350 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1602,15 +1595,8 @@
               "id"           : "OCSP_stapling",
               "ip"           : "avecvous2022.fr/104.22.9.6",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked",
-              "ip"           : "avecvous2022.fr/104.22.9.6",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
@@ -1757,21 +1743,21 @@
               "ip"           : "avecvous2022.fr/104.22.9.6",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "avecvous2022.fr/104.22.9.6",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1646527123"
+              "finding"      : "1647132119"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "avecvous2022.fr/104.22.9.6",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1 seconds"
+              "finding"      : "0 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1842,7 +1828,7 @@
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-200",
-              "finding"      : "X-Varnish: 1576644 1837772Via: 1.1 varnish (Varnish/6.6)X-Cache: HITX-Cache-Hits: 1X-Cache-VarnishServer: lrem-cache-02"
+              "finding"      : "X-Varnish: 514258Via: 1.1 varnish (Varnish/6.6)X-Cache: MISSX-Cache-VarnishServer: lrem-cache-02"
           }
 ,         {
               "id"           : "heartbleed",
@@ -2573,7 +2559,7 @@
               "ip"           : "avecvous2022.fr/104.22.8.6",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -2741,7 +2727,7 @@
               "ip"           : "avecvous2022.fr/104.22.8.6",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "357 >= 60 days"
+              "finding"      : "350 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -2789,15 +2775,8 @@
               "id"           : "OCSP_stapling",
               "ip"           : "avecvous2022.fr/104.22.8.6",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "offered"
-          }
-,         {
-              "id"           : "cert_ocspRevoked",
-              "ip"           : "avecvous2022.fr/104.22.8.6",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "not revoked"
+              "severity"     : "LOW",
+              "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
@@ -2951,7 +2930,7 @@
               "ip"           : "avecvous2022.fr/104.22.8.6",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1646527193"
+              "finding"      : "1647132195"
           }
 ,         {
               "id"           : "HTTP_headerAge",
@@ -3029,7 +3008,7 @@
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-200",
-              "finding"      : "X-Varnish: 397925Via: 1.1 varnish (Varnish/6.6)X-Cache: MISSX-Cache-VarnishServer: lrem-cache-01"
+              "finding"      : "X-Varnish: 2468677Via: 1.1 varnish (Varnish/6.6)X-Cache: MISSX-Cache-VarnishServer: lrem-cache-02"
           }
 ,         {
               "id"           : "heartbleed",
@@ -3565,6 +3544,6 @@
               "ip"           : "avecvous2022.fr/104.22.8.6",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "209"
+              "finding"      : "232"
           }
 ]
