@@ -192,7 +192,7 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "valid for 300 seconds only (<daily)"
+              "finding"      : "valid for 3600 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
@@ -353,7 +353,7 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "164 >= 60 days"
+              "finding"      : "157 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1646526051"
+              "finding"      : "1647130911"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1119,6 +1119,6 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "57"
+              "finding"      : "86"
           }
 ]
