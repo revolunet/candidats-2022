@@ -22,11 +22,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/5e6988/00000000000000007735a163/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+      "url": "https://use.typekit.net/af/61b4ba/00000000000000007735a167/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/61b4ba/00000000000000007735a167/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
+      "url": "https://use.typekit.net/af/5e6988/00000000000000007735a163/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
     },
     {
       "type": "unknown",
@@ -34,11 +34,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/matomo.php?action_name=M%C3%A9lenchon%202022%20-%20L%27union%20populaire%20pour%20l%27avenir%20en%20commun&idsite=12&rec=1&r=922727&h=0&m=24&s=13&url=https%3A%2F%2Fmelenchon2022.fr%2F&_id=&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=J7ya7u&pf_net=31&pf_srv=225&pf_tfr=294&pf_dm1=706"
+      "url": "https://matomo.lafranceinsoumise.fr/matomo.php?action_name=M%C3%A9lenchon%202022%20-%20L%27union%20populaire%20pour%20l%27avenir%20en%20commun&idsite=12&rec=1&r=059666&h=0&m=28&s=9&url=https%3A%2F%2Fmelenchon2022.fr%2F&_id=&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=PE8tgI&pf_net=28&pf_srv=155&pf_tfr=75&pf_dm1=414"
     },
     {
       "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/plugins/HeatmapSessionRecording/configs.php?idsite=12&trackerid=PWAXtA&url=https%3A%2F%2Fmelenchon2022.fr%2F"
+      "url": "https://matomo.lafranceinsoumise.fr/plugins/HeatmapSessionRecording/configs.php?idsite=12&trackerid=OqljpO&url=https%3A%2F%2Fmelenchon2022.fr%2F"
     },
     {
       "type": "unknown",
@@ -47,18 +47,18 @@
   ],
   "cookies": [],
   "headers": {
-    "date": "Sun, 06 Mar 2022 00:24:12 GMT",
+    "date": "Sun, 13 Mar 2022 00:28:08 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "cf-ray": "6e76f2743c2a9800-SJC",
+    "cf-ray": "6eb0a5d6adc381c3-IAD",
     "cache-control": "no-cache",
-    "expires": "Sun, 06 Mar 2022 00:24:11 GMT",
+    "expires": "Sun, 13 Mar 2022 00:28:07 GMT",
     "link": "<https://melenchon2022.fr/wp-json/>; rel=\"https://api.w.org/\", <https://melenchon2022.fr/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://melenchon2022.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=86400;",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "fastcgi-cache": "HIT",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=S4v9sCj9dxslC1je2m3bFe6OuWl8IKuj0Gma5QcJTUJETnh2Y9rw%2F5X0D33Yncg6%2FMUhaJfipTSi%2FyOwmhHO12ft3gJXAHvOLyOwpy4LYKCpK6Y%2BBKxGw79SD0FjOop%2Bji0%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=7x%2BgsmoadaMcLg6g75iFnsKlFhHRVYP4hkC3p1qKHxv7vMN4%2FeQ%2B5xQ3CBP35AkOjjr%2FWfpuNg6hEO4DJrHJ8iTOS2RuMzVaBNjE4rPnlgu10H1Grqhr7vhW3eKd4QZk%2B%2BY%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "content-encoding": "br"
@@ -66,7 +66,7 @@
   "endpoints": [
     {
       "hostname": "melenchon2022.fr",
-      "ip": "172.67.68.169",
+      "ip": "104.26.9.197",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -120,18 +120,13 @@
     },
     {
       "hostname": "use.typekit.net",
-      "ip": "23.214.112.168",
+      "ip": "23.222.5.90",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4744870,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -164,13 +159,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.3388,
-          "longitude": -121.8916,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -188,17 +183,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -206,18 +199,13 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.214.112.163",
+      "ip": "23.222.5.79",
       "geoip": {
         "city": {
-          "geoname_id": 5392171,
+          "geoname_id": 4744870,
           "names": {
-            "de": "San José",
-            "en": "San Jose",
-            "es": "San José",
-            "fr": "San José",
-            "ja": "サンノゼ",
-            "pt-BR": "San José",
-            "ru": "Сан-Хосе"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -250,13 +238,13 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.3388,
-          "longitude": -121.8916,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95141"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -274,17 +262,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
