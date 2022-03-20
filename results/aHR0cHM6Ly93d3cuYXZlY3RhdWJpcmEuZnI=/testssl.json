@@ -394,8 +394,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "33 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (26)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -408,7 +408,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2022-04-15 06:53"
           }
 ,         {
@@ -598,14 +598,14 @@
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-1 seconds from localtime"
+              "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1647132065"
+              "finding"      : "1647736745"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1217,6 +1217,6 @@
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "99"
+              "finding"      : "108"
           }
 ]
