@@ -150,7 +150,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=814294784&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=617651040&gjid=36152365&cid=450200714.1647735987&tid=UA-64609674-1&_gid=710876711.1647735987&_r=1&gtm=2wg3e0P52GNT2&z=1154383350",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=73754205&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=290599300&gjid=1994495431&cid=1891635192.1648341020&tid=UA-64609674-1&_gid=1526138561.1648341020&_r=1&gtm=2wg3e0P52GNT2&z=1718298274",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -166,7 +166,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=450200714.1647735987&jid=617651040&gjid=36152365&_gid=710876711.1647735987&_u=YEBAAEAAAAAAAC~&z=2020700860",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=1891635192.1648341020&jid=290599300&gjid=1994495431&_gid=1526138561.1648341020&_u=YEBAAEAAAAAAAC~&z=1180797251",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -174,7 +174,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1647735986704&sw=800&sh=600&v=2.9.57&r=stable&ec=0&o=158&fbp=fb.1.1647735986703.552828693&it=1647735986640&coo=false&exp=p1&rqm=GET",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1648341020342&sw=800&sh=600&v=2.9.57&r=stable&ec=0&o=158&fbp=fb.1.1648341020340.133936019&it=1648341020254&coo=false&rqm=GET",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -182,7 +182,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=450200714.1647735987&jid=617651040&_u=YEBAAEAAAAAAAC~&z=1628815414",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=1891635192.1648341020&jid=290599300&_u=YEBAAEAAAAAAAC~&z=1581496029",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -190,7 +190,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1647735987209&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.57&r=stable&ec=1&o=158&fbp=fb.1.1647735986703.552828693&it=1647735986640&coo=false&es=automatic&tm=3&exp=p1&rqm=GET",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1648341020847&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.57&r=stable&ec=1&o=158&fbp=fb.1.1648341020340.133936019&it=1648341020254&coo=false&es=automatic&tm=3&rqm=GET",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -203,7 +203,7 @@
       "value": "1",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1647736046,
+      "expires": 1648341080,
       "size": 19,
       "httpOnly": false,
       "secure": false,
@@ -214,10 +214,10 @@
     },
     {
       "name": "_fbp",
-      "value": "fb.1.1647735986703.552828693",
+      "value": "fb.1.1648341020340.133936019",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1655511986,
+      "expires": 1656117020,
       "size": 32,
       "httpOnly": false,
       "secure": false,
@@ -228,11 +228,11 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.710876711.1647735987",
+      "value": "GA1.2.1526138561.1648341020",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1647822386,
-      "size": 30,
+      "expires": 1648427420,
+      "size": 31,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -242,11 +242,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.450200714.1647735987",
+      "value": "GA1.2.1891635192.1648341020",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1710807986,
-      "size": 29,
+      "expires": 1711413020,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -256,7 +256,7 @@
     }
   ],
   "headers": {
-    "date": "Sun, 20 Mar 2022 00:26:25 GMT",
+    "date": "Sun, 27 Mar 2022 00:30:19 GMT",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "x-powered-by": "PHP/7.4",
@@ -327,7 +327,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.253.115.95",
+      "ip": "172.253.63.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -499,7 +499,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.115.97",
+      "ip": "172.253.63.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -637,7 +637,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.188.35",
+      "ip": "142.250.188.195",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -691,7 +691,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "142.250.188.46",
+      "ip": "172.217.1.206",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -745,13 +745,19 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "31.13.66.19",
+      "ip": "157.240.2.25",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 4887398,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Chicago",
+            "en": "Chicago",
+            "es": "Chicago",
+            "fr": "Chicago",
+            "ja": "シカゴ",
+            "pt-BR": "Chicago",
+            "ru": "Чикаго",
+            "zh-CN": "芝加哥"
           }
         },
         "continent": {
@@ -783,41 +789,41 @@
           }
         },
         "location": {
-          "accuracy_radius": 200,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "accuracy_radius": 1000,
+          "latitude": 41.8874,
+          "longitude": -87.6318,
+          "metro_code": 602,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "20149"
+          "code": "60602"
         },
         "registered_country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 4896861,
+            "iso_code": "IL",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "en": "Illinois",
+              "es": "Illinois",
+              "fr": "Illinois",
+              "ja": "イリノイ州",
+              "pt-BR": "Ilinóis",
+              "ru": "Иллинойс",
+              "zh-CN": "伊利诺伊州"
             }
           }
         ]
@@ -825,7 +831,7 @@
     },
     {
       "hostname": "stats.g.doubleclick.net",
-      "ip": "172.253.115.155",
+      "ip": "142.250.31.157",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -959,7 +965,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.253.63.147",
+      "ip": "142.251.45.4",
       "geoip": {
         "continent": {
           "code": "NA",

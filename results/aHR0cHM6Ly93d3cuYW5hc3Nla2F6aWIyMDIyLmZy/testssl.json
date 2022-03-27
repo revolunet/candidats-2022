@@ -220,7 +220,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -359,8 +359,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "35 >= 30 days"
+              "severity"     : "MEDIUM",
+              "finding"      : "expires < 30 days (28)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -373,7 +373,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
-              "severity"     : "OK",
+              "severity"     : "MEDIUM",
               "finding"      : "2022-04-24 21:33"
           }
 ,         {
@@ -556,14 +556,14 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1647736067"
+              "finding"      : "1648341102"
           }
 ,         {
               "id"           : "HSTS",
@@ -1149,6 +1149,6 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "177"
+              "finding"      : "180"
           }
 ]
