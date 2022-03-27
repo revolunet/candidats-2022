@@ -276,7 +276,7 @@
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "ED0363FA9733F224C13E01402E7B5B3B"
+              "finding"      : "FDE03810B1D56A86AD99E8294FB3BCA2"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
@@ -290,21 +290,21 @@
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0B047083BFCE1A49BFD61742D98A27F671403585"
+              "finding"      : "313A75085B5F173F3A6D3F077CC42120D0830E1B"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "B8534B1CB2AF1D987E5219D59F9F7145C8E6DB5F2DF30D77AA62D9CDD2F2475C"
+              "finding"      : "4EC4972792AA131F65C9779D7C7359A45F70DA854A64BB33EE65FE9AB6A02FE9"
           }
 ,         {
               "id"           : "cert",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "-----BEGIN CERTIFICATE----- MIIGIjCCBQqgAwIBAgIRAO0DY/qXM/IkwT4BQC57WzswDQYJKoZIhvcNAQELBQAw XzELMAkGA1UEBhMCRlIxDjAMBgNVBAgTBVBhcmlzMQ4wDAYDVQQHEwVQYXJpczEO MAwGA1UEChMFR2FuZGkxIDAeBgNVBAMTF0dhbmRpIFN0YW5kYXJkIFNTTCBDQSAy MB4XDTIwMDMwMzAwMDAwMFoXDTIyMDMyMTIzNTk1OVowEzERMA8GA1UEAwwIKi51 cHIuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYaowKxZGy1+iq 9i3L059e9bBT4kubiqaQRiKB9nhl937+0hRoNNcFefEtmWQOsIZvXal8y4feOyYV D2b1cyXcFD+rqsFMPDTN7cOioZzLF0pd2LiGe+TSWOiThAXPKBFhPXIsgVdbGNUQ AWNY9c7UAzgWgnXklTvu/psxYMpAZn76AfeWMTTgf1BIy3qF+QsHWuD7kgKtSnAm Jhn5mmfjmz2q5CaN3ivSP2Vd0BnudidHuW38/Uvxb1wamDSwxsJ2eKdFzTmYkNsh gUZDG4Feq57iw8yzp+m2JLfBlGBivj2GA2B9OLV5RYhm1HWZJtm/kDqmVK/gckve pg6XPLhxAgMBAAGjggMjMIIDHzAfBgNVHSMEGDAWgBSzkKfYya9OzWE8n3ytXX9B /Wkw6jAdBgNVHQ4EFgQUrk5ebmhMoXPpiun4stkrX7Ur4u4wDgYDVR0PAQH/BAQD AgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC MEsGA1UdIAREMEIwNgYLKwYBBAGyMQECAhowJzAlBggrBgEFBQcCARYZaHR0cHM6 Ly9jcHMudXNlcnRydXN0LmNvbTAIBgZngQwBAgEwQQYDVR0fBDowODA2oDSgMoYw aHR0cDovL2NybC51c2VydHJ1c3QuY29tL0dhbmRpU3RhbmRhcmRTU0xDQTIuY3Js MHMGCCsGAQUFBwEBBGcwZTA8BggrBgEFBQcwAoYwaHR0cDovL2NydC51c2VydHJ1 c3QuY29tL0dhbmRpU3RhbmRhcmRTU0xDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRw Oi8vb2NzcC51c2VydHJ1c3QuY29tMBsGA1UdEQQUMBKCCCoudXByLmZyggZ1cHIu ZnIwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB2AEalVet1+pEgMLWiiWn0830R LEF0vv1JuIWr8vxw/m1HAAABcKFPCSsAAAQDAEcwRQIgaWJoL8JUQoK+EPCQVyOx RUs0FSw0/PRVrGu3Eme6mbQCIQCJXQmbA4ymcD1l0NCfaTxJucGXsch3ifXp+PPf QNmh0wB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABcKFPCPIA AAQDAEYwRAIgCuaz4p/9JxPOZxD5wLIvJSh74dZFDWIHMU0fHZxxZvsCIF0Y/UpX ucLvggZ07bJL7yAZOQDxEgYLGZvpaFj+d/oCAHUAQcjKsd8iRkoQxqE6CUKHXk4x ixsD6+tLx2jwkGKWBvYAAAFwoU8JGQAABAMARjBEAiA0wN8D3jmKHYsRFHrJP3cD 4lKkg56vV3Gk8UmiTTBgEAIgJz6q9VAK4q6M9m+nBOsTDqwtuIhmRSRWQ6Y9SqYO xnEwDQYJKoZIhvcNAQELBQADggEBAEnYJANsrAhRJbPB+yCBhBbYtZt9+48Mw1VW gYmFIfn246F53a43nDZOlnB+J8R8ObmiWk5g5zxoihxO2RMHEnb5wcr93cNKoHVs nmfaTr0Sru5Oz7nJbMEWMb55hYWJG+EXkOx3p9SBICHHktBGH1saSSDpOAEFVuJJ EF0Aof+3LW5kxmY9Tv1+K0DDfKzA2/e1XXdhDfU4Wi1wtRzDMUDtJH7svL+jwpyy iqypsYuaACIVoYy31tzJdvF5l8sCvrRgcslfR9TZ+ZO2IIYjyLTEbUaZ65vkthgb +0a4pYcIWUQOg6WWnE2WsRa3PJFvOEKYJYTel3+NTp+7A2lHe/s= -----END CERTIFICATE-----"
+              "finding"      : "-----BEGIN CERTIFICATE----- MIIGIzCCBQugAwIBAgIRAP3gOBCx1WqGrZnoKU+zvKIwDQYJKoZIhvcNAQELBQAw XzELMAkGA1UEBhMCRlIxDjAMBgNVBAgTBVBhcmlzMQ4wDAYDVQQHEwVQYXJpczEO MAwGA1UEChMFR2FuZGkxIDAeBgNVBAMTF0dhbmRpIFN0YW5kYXJkIFNTTCBDQSAy MB4XDTIyMDMyMjAwMDAwMFoXDTIzMDMyMjIzNTk1OVowEzERMA8GA1UEAwwIKi51 cHIuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEY5ZMiZkGpODT fE0QNXyhCfNT3BT6i5BvnUsAXNchWj8pL2yrs56mJSemI49sdQzak0VqpTlShBJG a9ygROhIJR2ci4+u98CfZJ36lHKD6p85H5Gwoq6tDKnA0LtH7YFh2K3ndLQumw/e ORAdX0R4K2l77517L/KPIXTZXQj+4Zlg8msM2IlQCcy8b9f4LaXbfNv+kXWH6JCh bbpgyvuaA3JPl+l75ruwqguvqSLROprA5wTFHLhxUPsxyE99OzhS0YSlO3qaC4vV vh23aVRbZyUUuwfTdHBWJJ6YBSRWAadaZ5F/0l/TBMPCRIvHwt68JF0l9/E9Wk9X LZiRmuu9AgMBAAGjggMkMIIDIDAfBgNVHSMEGDAWgBSzkKfYya9OzWE8n3ytXX9B /Wkw6jAdBgNVHQ4EFgQUFB/xrIazB2z5BMSu6dHQ50BkH8swDgYDVR0PAQH/BAQD AgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC MEsGA1UdIAREMEIwNgYLKwYBBAGyMQECAhowJzAlBggrBgEFBQcCARYZaHR0cHM6 Ly9jcHMudXNlcnRydXN0LmNvbTAIBgZngQwBAgEwQQYDVR0fBDowODA2oDSgMoYw aHR0cDovL2NybC51c2VydHJ1c3QuY29tL0dhbmRpU3RhbmRhcmRTU0xDQTIuY3Js MHMGCCsGAQUFBwEBBGcwZTA8BggrBgEFBQcwAoYwaHR0cDovL2NydC51c2VydHJ1 c3QuY29tL0dhbmRpU3RhbmRhcmRTU0xDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRw Oi8vb2NzcC51c2VydHJ1c3QuY29tMBsGA1UdEQQUMBKCCCoudXByLmZyggZ1cHIu ZnIwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB1AK33vvp8/xDIi509nB4+GGq0 Zyldz7EMJMqFhjTr3IKKAAABf681YFcAAAQDAEYwRAIgBJKwpdmYtshF1adJat7m MlAD7fI/Gvmxnq2I/VGnBcgCIHD28x3uJsoEijDKoQc1G9ZnFPVA/fu8gESbDeNJ hVlSAHYAejKMVNi3LbYg6jjgUh7phBZwMhOFTTvSK8E6V6NS61IAAAF/rzVgKAAA BAMARzBFAiAL9HutL5RJDTYq3RaYv9Rq/3neYFvyUPAA9ywqwjJ5YAIhAPxHIjZJ 3vPEyvzbUinTAB0q2NhZodOkttM2PQpRp4ygAHYA6D7Q2j71BjUy51covIlryQPT y9ERa+zraeF3fW0GvW4AAAF/rzVf/AAABAMARzBFAiEAgkU2XZQhC86cJ6v0h5lm 1nybjIjzG8ne7lrObd6ykLECIBJlvt60OLfOu0cuNSnXslrYVwvncAeCOy6UWv9k aZ1+MA0GCSqGSIb3DQEBCwUAA4IBAQAXBrl5qzd4kmLeTzqCKfkIBkFadiZo3myv RDSzxNSNpkKzJdzpkhu9gxjkEiLsuiVHUxiWU8+0D8Pq7434r3eoWaah4nCFBrAJ nuxqnscRdX5qjJLkq2NnnSvqD2EGxu8RZN5cMIT4OGIzrAzqkvJbhmLPYrxUY2aH 3QsfYp8tKkVYDeDQ8pw0fNe7ef61pRpxVx9MvcVBUpKAQnaYGUzdRnHfbS2MiSmv BbiTD3djAIQDMtJY+d+qcWddxKbGdCIAk/EY2YBms6T666R49Rrfb1jKE9KgPhwF FVoCHyNtp8M1kIuTI9k2GBCS29i3MrD5PnflPqpHV5cMvsx4zh/J -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
@@ -352,29 +352,29 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "expires < 30 days (1)"
+              "severity"     : "OK",
+              "finding"      : "360 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "2020-03-03 00:00"
+              "finding"      : "2022-03-22 00:00"
           }
 ,         {
               "id"           : "cert_notAfter",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "2022-03-21 23:59"
+              "severity"     : "OK",
+              "finding"      : "2023-03-22 23:59"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "748 =< 398 days"
+              "severity"     : "OK",
+              "finding"      : "certificate has no extended life time according to browser forum"
           }
 ,         {
               "id"           : "cert_eTLS",
@@ -507,21 +507,21 @@
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+22445 seconds from localtime"
+              "finding"      : "+19748 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1647735739"
+              "finding"      : "1648340755"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "22446 seconds"
+              "finding"      : "19748 seconds"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -722,7 +722,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=B8534B1CB2AF1D987E5219D59F9F7145C8E6DB5F2DF30D77AA62D9CDD2F2475C"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=4EC4972792AA131F65C9779D7C7359A45F70DA854A64BB33EE65FE9AB6A02FE9"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1105,6 +1105,6 @@
               "ip"           : "www.upr.fr/145.239.192.17",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "63"
+              "finding"      : "66"
           }
 ]
