@@ -132,6 +132,13 @@
               "finding"      : "offered"
           }
 ,         {
+              "id"           : "cipherorder_TLSv1_2",
+              "ip"           : "rassemblementnational.fr/192.124.249.56",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "ECDHE-RSA-AES128-GCM-SHA256"
+          }
+,         {
               "id"           : "cipher_order",
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
@@ -151,13 +158,6 @@
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "TLS_AES_256_GCM_SHA384, 253 bit ECDH (X25519)"
-          }
-,         {
-              "id"           : "cipherorder_TLSv1_2",
-              "ip"           : "rassemblementnational.fr/192.124.249.56",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "FS",
@@ -353,7 +353,7 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "143 >= 60 days"
+              "finding"      : "136 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,7 +514,7 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1648340758"
+              "finding"      : "1648945612"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1119,6 +1119,6 @@
               "ip"           : "rassemblementnational.fr/192.124.249.56",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "62"
+              "finding"      : "71"
           }
 ]
