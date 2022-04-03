@@ -10,43 +10,43 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/twentytwenty/style.css?ver=1648235756"
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/style.css?ver=e69be0db1e8eaa79754a129df870989f"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/themes/larem/style.css?ver=1648235755"
+      "url": "https://avecvous.fr/wp-content/themes/larem/style.css?ver=1.2"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1648142427"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1648807907"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1648142423"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1648807902"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1648142427"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1648807907"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1648142424"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1648902434"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1648239059"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1648808219"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1648142441"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1648915868"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1648142424"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1648807903"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/cache/min/1/wp-content/plugins/mailin/css/mailin-front.css?ver=1648235756"
+      "url": "https://avecvous.fr/wp-content/plugins/mailin/css/mailin-front.css?ver=e69be0db1e8eaa79754a129df870989f"
     },
     {
       "type": "unknown",
@@ -58,7 +58,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1648142427"
+      "url": "https://avecvous.fr/wp-content/plugins/mailin/js/mailin-front.js?ver=1648215454"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1648807907"
     },
     {
       "type": "unknown",
@@ -77,20 +81,12 @@
       "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css"
     },
     {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/friendly-challenge@0.9.1/widget.module.min.js",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1648807911"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1648142425"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1648142423"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1648807904"
     },
     {
       "type": "unknown",
@@ -98,7 +94,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/js/admin/tp-advanced-shadow-layout.js?ver=5.0.8"
+    },
+    {
+      "type": "unknown",
       "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.8"
     },
     {
       "type": "unknown",
@@ -114,11 +118,31 @@
     },
     {
       "type": "unknown",
+      "url": "https://avecvous.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834"
+    },
+    {
+      "type": "unknown",
       "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.4"
     },
     {
       "type": "unknown",
       "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1"
     },
     {
       "type": "unknown",
@@ -131,6 +155,34 @@
     {
       "type": "unknown",
       "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.4"
+    },
+    {
+      "type": "FontAwesome",
+      "url": "https://kit.fontawesome.com/04e89ecb12.js?ver=3.6.4",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
+    },
+    {
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/friendly-challenge@0.9.1/widget.module.min.js",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.2"
+    },
+    {
+      "type": "google tag manager",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WXBXKZ6",
+      "details": {
+        "id": "google tag manager",
+        "message": "Use hosted Matomo instance"
+      }
     },
     {
       "type": "unknown",
@@ -146,19 +198,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Bold-205TF-1.woff"
-    },
-    {
-      "type": "unknown",
       "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF-1.woff"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2"
+      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Bold-205TF-1.woff"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2"
     },
     {
       "type": "unknown",
@@ -170,19 +218,55 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
-    },
-    {
-      "type": "unknown",
       "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF.woff"
     },
     {
       "type": "unknown",
-      "url": "https://static.axept.io/sdk.js"
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fa-brands-400.woff2"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fa-brands-400.woff2"
+      "url": "https://avecvous.fr/wp-content/uploads/2022/02/Google-Play.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2022/02/App-Store.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2022/03/application-je-mengage-768x681.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
+    },
+    {
+      "type": "FontAwesome",
+      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro.min.css?token=04e89ecb12",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
+    },
+    {
+      "type": "FontAwesome",
+      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-shims.min.css?token=04e89ecb12",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
+    },
+    {
+      "type": "FontAwesome",
+      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-font-face.min.css?token=04e89ecb12",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://static.axept.io/sdk.js"
     },
     {
       "type": "unknown",
@@ -206,21 +290,49 @@
     },
     {
       "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/custom-icons/arrows--/font/arrows--.woff2?39029960"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/2022/04/Visuels-sliders_site_LECANDIDAT-5-768x432.jpg"
+    },
+    {
+      "type": "FontAwesome",
+      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-brands-400-5.8.2.woff2",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
+    },
+    {
+      "type": "unknown",
       "url": "https://client.axept.io/61ec63d1cdeb160d144ae9ef.json?r=0"
     },
     {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fa-solid-900.woff2"
+      "type": "FontAwesome",
+      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-brands-400-5.0.0.woff2",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
     },
     {
-      "type": "unknown",
-      "url": "https://axeptio.imgix.net/2020/09/persos_site_suite_05.png?auto=format&fit=crop&w=64&h=64&dpr=1"
+      "type": "FontAwesome",
+      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-solid-900-5.0.0.woff2",
+      "details": {
+        "id": "FontAwesome",
+        "message": "Host fonts directly"
+      }
     }
   ],
   "cookies": [
     {
       "name": "SERVERID194310",
-      "value": "91d434b1|Yj+y5|Yj+y5",
+      "value": "91d434b1|Ykjtk|Ykjtk",
       "domain": "avecvous.fr",
       "path": "/",
       "expires": -1,
@@ -234,36 +346,52 @@
     }
   ],
   "headers": {
-    "date": "Sun, 27 Mar 2022 00:42:10 GMT",
+    "date": "Sun, 03 Apr 2022 00:42:53 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
-    "x-server-id": "lrem-front-01",
+    "link": "<https://avecvous.fr/>; rel=shortlink",
+    "x-server-id": "lrem-front-03",
     "x-frame-options": "SAMEORIGIN",
-    "x-varnish": "4405053 1254526",
-    "age": "128",
+    "x-varnish": "105140658 39176657",
+    "age": "487",
     "via": "1.1 varnish (Varnish/6.6)",
     "x-cache": "HIT",
-    "x-cache-hits": "10",
+    "x-cache-hits": "9",
     "x-cache-varnishserver": "lrem-cache-01",
-    "x-iplb-request-id": "AC46AF98:C78C_894A7FBF:01BB_623FB2E1_16ED01:2C586",
-    "x-iplb-instance": "43351",
-    "set-cookie": "SERVERID194310=91d434b1|Yj+y5|Yj+y5; path=/; HttpOnly",
+    "x-iplb-request-id": "A29E4F52:6500_894A7FBF:01BB_6248ED8D_20E21:1398D",
+    "x-iplb-instance": "43352",
+    "set-cookie": "SERVERID194310=91d434b1|Ykjtk|Ykjtk; path=/; HttpOnly",
     "cache-control": "private",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "6f2415a23d8a6fbf-IAD",
+    "cf-ray": "6f5dc4518caacf38-IAD",
     "content-encoding": "br"
   },
   "endpoints": [
     {
       "hostname": "avecvous2022.fr",
-      "ip": "104.22.9.6",
+      "ip": "104.22.8.6",
       "geoip": null
     },
     {
       "hostname": "avecvous.fr",
-      "ip": "172.67.10.90",
+      "ip": "104.22.66.69",
+      "geoip": null
+    },
+    {
+      "hostname": "kit.fontawesome.com",
+      "ip": "104.18.22.52",
+      "geoip": null
+    },
+    {
+      "hostname": "cdn.jsdelivr.net",
+      "ip": "104.16.89.20",
+      "geoip": null
+    },
+    {
+      "hostname": "www.googletagmanager.com",
+      "ip": "172.253.63.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -314,11 +442,6 @@
           }
         }
       }
-    },
-    {
-      "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.88.20",
-      "geoip": null
     },
     {
       "hostname": "testfaber.ecritel.net",
@@ -377,8 +500,13 @@
       }
     },
     {
+      "hostname": "ka-p.fontawesome.com",
+      "ip": "104.18.23.52",
+      "geoip": null
+    },
+    {
       "hostname": "static.axept.io",
-      "ip": "99.86.231.90",
+      "ip": "13.33.46.51",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -432,7 +560,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "54.192.192.129",
+      "ip": "99.84.118.68",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -482,85 +610,6 @@
             "zh-CN": "美国"
           }
         }
-      }
-    },
-    {
-      "hostname": "axeptio.imgix.net",
-      "ip": "146.75.30.208",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 39.018,
-          "longitude": -77.539,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20147"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
       }
     }
   ]
