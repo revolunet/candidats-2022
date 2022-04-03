@@ -58,23 +58,15 @@
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=1c1099f122a20952b6ecc66c0b9d1144",
+      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=47eba9bf9907d35afe7325970b341cb3",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.a58e82e150afc25eb5372dd55a98b778.html?origin=https%3A%2F%2Fwww.debout-la-france.fr",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=139182523&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=838697644&gjid=739881259&cid=1053458477.1648340710&tid=UA-69556209-1&_gid=1796989770.1648340710&_r=1&_slc=1&z=1386044018",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1308323046&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1018143013&gjid=1271987316&cid=1503164622.1648945552&tid=UA-69556209-1&_gid=1730418704.1648945552&_r=1&_slc=1&z=196729800",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -82,7 +74,15 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=bc59cd48049928344cff4d182bcbef3de984a2bc",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.0af76c3310098d2f8f428367b62351b8.html?origin=https%3A%2F%2Fwww.debout-la-france.fr",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/settings?session_id=fbd9f2282f99a3425550eeeac5d1de9884c98eb6",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -109,7 +109,7 @@
       "value": "1",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1648340770,
+      "expires": 1648945612,
       "size": 5,
       "httpOnly": false,
       "secure": false,
@@ -120,10 +120,10 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.1796989770.1648340710",
+      "value": "GA1.2.1730418704.1648945552",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1648427110,
+      "expires": 1649031952,
       "size": 31,
       "httpOnly": false,
       "secure": false,
@@ -134,10 +134,10 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.1053458477.1648340710",
+      "value": "GA1.2.1503164622.1648945552",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1711412710,
+      "expires": 1712017552,
       "size": 30,
       "httpOnly": false,
       "secure": false,
@@ -162,16 +162,16 @@
     }
   ],
   "headers": {
-    "date": "Sun, 27 Mar 2022 00:25:08 GMT",
+    "date": "Sun, 03 Apr 2022 00:25:49 GMT",
     "server": "Apache/2.4.10 (Debian)",
     "x-drupal-cache": "HIT",
-    "etag": "\"1648333013-1\"",
+    "etag": "\"1648939769-1\"",
     "content-language": "fr",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 7 (http://drupal.org)",
     "link": "<http://www.debout-la-france.fr/>; rel=\"canonical\",<http://www.debout-la-france.fr/>; rel=\"shortlink\"",
     "cache-control": "public, max-age=300",
-    "last-modified": "Sat, 26 Mar 2022 22:16:53 GMT",
+    "last-modified": "Sat, 02 Apr 2022 22:49:29 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "vary": "Cookie,Accept-Encoding",
     "content-encoding": "gzip",
@@ -239,17 +239,17 @@
     },
     {
       "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.16.19.94",
+      "ip": "104.17.24.14",
       "geoip": null
     },
     {
       "hostname": "netdna.bootstrapcdn.com",
-      "ip": "104.18.11.207",
+      "ip": "104.18.10.207",
       "geoip": null
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "172.217.12.238",
+      "ip": "142.250.188.46",
       "geoip": {
         "continent": {
           "code": "NA",

@@ -125,27 +125,6 @@
               "finding"      : "offered"
           }
 ,         {
-              "id"           : "cipher_order",
-              "ip"           : "www.debout-la-france.fr/212.129.44.164",
-              "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "NOT a cipher order configured"
-          }
-,         {
-              "id"           : "protocol_negotiated",
-              "ip"           : "www.debout-la-france.fr/212.129.44.164",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "Default protocol TLS1.2"
-          }
-,         {
-              "id"           : "cipher_negotiated",
-              "ip"           : "www.debout-la-france.fr/212.129.44.164",
-              "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "DHE-RSA-AES256-SHA256, 2048 bit DH (cbc)  (matching cipher in list missing)"
-          }
-,         {
               "id"           : "cipher-tls1_xc014",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
@@ -461,6 +440,27 @@
               "finding"      : "ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA DHE-RSA-AES256-GCM-SHA384 DHE-RSA-AES256-SHA256 DHE-RSA-AES256-SHA DHE-RSA-CAMELLIA256-SHA AES256-GCM-SHA384 AES256-SHA256 AES256-SHA CAMELLIA256-SHA ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA DHE-RSA-AES128-GCM-SHA256 DHE-RSA-AES128-SHA256 DHE-RSA-AES128-SHA DHE-RSA-CAMELLIA128-SHA AES128-GCM-SHA256 AES128-SHA256 AES128-SHA CAMELLIA128-SHA"
           }
 ,         {
+              "id"           : "cipher_order",
+              "ip"           : "www.debout-la-france.fr/212.129.44.164",
+              "port"         : "443",
+              "severity"     : "HIGH",
+              "finding"      : "NOT a cipher order configured"
+          }
+,         {
+              "id"           : "protocol_negotiated",
+              "ip"           : "www.debout-la-france.fr/212.129.44.164",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "Default protocol TLS1.2"
+          }
+,         {
+              "id"           : "cipher_negotiated",
+              "ip"           : "www.debout-la-france.fr/212.129.44.164",
+              "port"         : "443",
+              "severity"     : "LOW",
+              "finding"      : "DHE-RSA-AES256-SHA256, 2048 bit DH (cbc)  (limited sense as client will pick)"
+          }
+,         {
               "id"           : "FS",
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
@@ -654,7 +654,7 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "254 >= 60 days"
+              "finding"      : "247 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -773,7 +773,7 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1648340787"
+              "finding"      : "1648945629"
           }
 ,         {
               "id"           : "HSTS",
@@ -1373,6 +1373,6 @@
               "ip"           : "www.debout-la-france.fr/212.129.44.164",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "156"
+              "finding"      : "158"
           }
 ]
