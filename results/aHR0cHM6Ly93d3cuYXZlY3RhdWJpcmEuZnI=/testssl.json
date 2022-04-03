@@ -132,27 +132,6 @@
               "finding"      : "offered"
           }
 ,         {
-              "id"           : "cipher_order",
-              "ip"           : "www.avectaubira.fr/51.158.73.110",
-              "port"         : "443",
-              "severity"     : "HIGH",
-              "finding"      : "NOT a cipher order configured"
-          }
-,         {
-              "id"           : "protocol_negotiated",
-              "ip"           : "www.avectaubira.fr/51.158.73.110",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "Default protocol TLS1.3"
-          }
-,         {
-              "id"           : "cipher_negotiated",
-              "ip"           : "www.avectaubira.fr/51.158.73.110",
-              "port"         : "443",
-              "severity"     : "OK",
-              "finding"      : "TLS_AES_256_GCM_SHA384, 253 bit ECDH (X25519)  (limited sense as client will pick)"
-          }
-,         {
               "id"           : "cipher-tls1_2_xc030",
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
@@ -200,6 +179,27 @@
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA"
+          }
+,         {
+              "id"           : "cipher_order",
+              "ip"           : "www.avectaubira.fr/51.158.73.110",
+              "port"         : "443",
+              "severity"     : "HIGH",
+              "finding"      : "NOT a cipher order configured"
+          }
+,         {
+              "id"           : "protocol_negotiated",
+              "ip"           : "www.avectaubira.fr/51.158.73.110",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "Default protocol TLS1.3"
+          }
+,         {
+              "id"           : "cipher_negotiated",
+              "ip"           : "www.avectaubira.fr/51.158.73.110",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "TLS_AES_256_GCM_SHA384, 253 bit ECDH (X25519)  (limited sense as client will pick)"
           }
 ,         {
               "id"           : "FS",
@@ -394,8 +394,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (19)"
+              "severity"     : "HIGH",
+              "finding"      : "expires < 15 days (12)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -408,7 +408,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
-              "severity"     : "MEDIUM",
+              "severity"     : "HIGH",
               "finding"      : "2022-04-15 06:53"
           }
 ,         {
@@ -598,14 +598,14 @@
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "-1 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1648341810"
+              "finding"      : "1648946610"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -1217,6 +1217,6 @@
               "ip"           : "www.avectaubira.fr/51.158.73.110",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "98"
+              "finding"      : "107"
           }
 ]
