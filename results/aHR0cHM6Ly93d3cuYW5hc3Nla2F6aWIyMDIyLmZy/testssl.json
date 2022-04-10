@@ -359,8 +359,8 @@
               "id"           : "cert_expirationStatus",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
-              "severity"     : "MEDIUM",
-              "finding"      : "expires < 30 days (21)"
+              "severity"     : "HIGH",
+              "finding"      : "expires < 15 days (14)"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -373,7 +373,7 @@
               "id"           : "cert_notAfter",
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
-              "severity"     : "MEDIUM",
+              "severity"     : "HIGH",
               "finding"      : "2022-04-24 21:33"
           }
 ,         {
@@ -563,7 +563,7 @@
               "ip"           : "www.anassekazib2022.fr/51.91.236.255",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1648945941"
+              "finding"      : "1649550536"
           }
 ,         {
               "id"           : "HSTS",
