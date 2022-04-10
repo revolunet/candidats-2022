@@ -66,15 +66,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://l.sharethis.com/sc?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira%20-%20Site%20officiel%20Taubira%202022&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
+    },
+    {
+      "type": "unknown",
       "url": "https://use.typekit.net/af/2ae5d7/00000000000000007735c9fc/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
     },
     {
       "type": "unknown",
       "url": "https://use.typekit.net/af/1fba48/00000000000000007735ca0b/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3"
-    },
-    {
-      "type": "unknown",
-      "url": "https://l.sharethis.com/sc?event=pview&hostname=www.avectaubira.fr&location=%2F&product=unknown&url=https%3A%2F%2Fwww.avectaubira.fr%2F&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Christiane%20Taubira%202022%20%3A%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira%20-%20Site%20officiel%20Taubira%202022&cms=unknown&publisher=61e83a4996a4850019cacc4f&sop=true&version=st_sop.js&lang=en&description=Soutenez%20la%20candidature%20de%20Christiane%20Taubira%20%C3%A0%20la%20pr%C3%A9sidentielle%20de%202022%20-%20Ce%20qui%20compte%2C%20c%27est%20vous%20!%20-%20Avec%20Taubira"
     },
     {
       "type": "unknown",
@@ -118,16 +118,16 @@
     },
     {
       "type": "unknown",
-      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse!youtube%3Dfalse&_time=1648946533365"
+      "url": "https://tarteaucitron.io/log/?account=a0cad272d9e9cc9a4d2bd6e2d5de3c6421b231cf&domain=www.avectaubira.fr&status=!gtag%3Dfalse!pingdom%3Dfalse!youtube%3Dfalse!youtube%3Dfalse&_time=1649551111425"
     }
   ],
   "cookies": [
     {
       "name": "fpestid",
-      "value": "0BslXpEKvGN1Ag5Q_Lk6h0jDRAizjjVoYpci7va4sUmyyIHeUMTJNm2tyx3W6Kr38pS-_A",
+      "value": "2w9dypipS8riJk3urSuDP1r3sDAmpxR78UriQIvn9PMhg3M3_QCRtV1uOzVb1ed0Dn9XZw",
       "domain": ".avectaubira.fr",
       "path": "/",
-      "expires": 1680482532.257858,
+      "expires": 1681087109.977204,
       "size": 77,
       "httpOnly": false,
       "secure": true,
@@ -142,7 +142,7 @@
       "value": "ujfv.lpH%5BSQiZFmt",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1649032931.406644,
+      "expires": 1649637508.89521,
       "size": 34,
       "httpOnly": false,
       "secure": true,
@@ -156,7 +156,7 @@
       "value": "oRLm49gbiU",
       "domain": "www.avectaubira.fr",
       "path": "/",
-      "expires": 1649032931.4065,
+      "expires": 1649637508.895106,
       "size": 20,
       "httpOnly": false,
       "secure": true,
@@ -168,10 +168,10 @@
   ],
   "headers": {
     "server": "nginx",
-    "date": "Sun, 03 Apr 2022 00:42:11 GMT",
+    "date": "Sun, 10 Apr 2022 00:38:28 GMT",
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding",
-    "set-cookie": "cdjsXWwqHT=oRLm49gbiU; expires=Mon, 04-Apr-2022 00:41:26 GMT; Max-Age=86400; path=/; secure\nXsiLQOH_CvPrJZYT=ujfv.lpH%5BSQiZFmt; expires=Mon, 04-Apr-2022 00:41:26 GMT; Max-Age=86400; path=/; secure",
+    "set-cookie": "cdjsXWwqHT=oRLm49gbiU; expires=Mon, 11-Apr-2022 00:37:54 GMT; Max-Age=86400; path=/; secure\nXsiLQOH_CvPrJZYT=ujfv.lpH%5BSQiZFmt; expires=Mon, 11-Apr-2022 00:37:54 GMT; Max-Age=86400; path=/; secure",
     "link": "<https://www.avectaubira.fr/wp-json/>; rel=\"https://api.w.org/\"\n<https://www.avectaubira.fr/wp-json/wp/v2/pages/435>; rel=\"alternate\"; type=\"application/json\"\n<https://www.avectaubira.fr/>; rel=shortlink",
     "fastcgi-cache": "STALE",
     "strict-transport-security": "max-age=31536000; includeSubDomains;",
@@ -336,7 +336,7 @@
     },
     {
       "hostname": "use.typekit.net",
-      "ip": "23.15.9.58",
+      "ip": "104.79.0.19",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -390,7 +390,7 @@
     },
     {
       "hostname": "platform-api.sharethis.com",
-      "ip": "13.32.207.101",
+      "ip": "108.138.246.3",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -444,86 +444,7 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.222.5.79",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "rum-static.pingdom.net",
-      "ip": "172.67.5.216",
+      "ip": "104.79.0.40",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -576,8 +497,13 @@
       }
     },
     {
+      "hostname": "rum-static.pingdom.net",
+      "ip": "104.22.54.104",
+      "geoip": null
+    },
+    {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.0.40",
+      "ip": "216.58.194.168",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -631,7 +557,7 @@
     },
     {
       "hostname": "buttons-config.sharethis.com",
-      "ip": "13.32.181.88",
+      "ip": "65.8.164.74",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -685,19 +611,18 @@
     },
     {
       "hostname": "l.sharethis.com",
-      "ip": "3.129.242.122",
+      "ip": "52.8.189.56",
       "geoip": {
         "city": {
-          "geoname_id": 4509177,
+          "geoname_id": 5392171,
           "names": {
-            "de": "Columbus",
-            "en": "Columbus",
-            "es": "Columbus",
-            "fr": "Columbus",
-            "ja": "コロンバス",
-            "pt-BR": "Columbus",
-            "ru": "Колумбус",
-            "zh-CN": "哥伦布"
+            "de": "San José",
+            "en": "San Jose",
+            "es": "San José",
+            "fr": "San José",
+            "ja": "サンノゼ",
+            "pt-BR": "San José",
+            "ru": "Сан-Хосе"
           }
         },
         "continent": {
@@ -729,14 +654,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 39.9625,
-          "longitude": -83.0061,
-          "metro_code": 535,
-          "time_zone": "America/New_York"
+          "accuracy_radius": 200,
+          "latitude": 37.3388,
+          "longitude": -121.8916,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "43215"
+          "code": "95141"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -754,15 +679,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5165418,
-            "iso_code": "OH",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Ohio",
-              "es": "Ohio",
-              "fr": "Ohio",
-              "ja": "オハイオ州",
-              "ru": "Огайо",
-              "zh-CN": "俄亥俄州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -770,7 +697,7 @@
     },
     {
       "hostname": "platform-cdn.sharethis.com",
-      "ip": "13.225.223.126",
+      "ip": "108.139.1.3",
       "geoip": {
         "continent": {
           "code": "NA",
