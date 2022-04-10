@@ -21,17 +21,17 @@
 ###########################################################</span>
 
  Using &quot;OpenSSL 1.0.2-chacha (1.0.2k-dev)&quot; [~183 ciphers]
- on fv-az133-597:/home/testssl/bin/openssl.Linux.x86_64
+ on fv-az241-566:/home/testssl/bin/openssl.Linux.x86_64
  (built: &quot;Jan 18 17:12:17 2019&quot;, platform: &quot;linux-x86_64&quot;)
 
 
-<span style="font-weight:bold;">Testing all IPv4 addresses (port 443): </span>162.159.138.44 162.159.128.45
+<span style="font-weight:bold;">Testing all IPv4 addresses (port 443): </span>162.159.128.45 162.159.138.44
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2022-04-03 00:37:03        --&gt;&gt; 162.159.138.44:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2022-04-10 00:33:33        --&gt;&gt; 162.159.128.45:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
 
- Further IP addresses:   162.159.128.45 2606:4700:7::a29f:802d
-                         2606:4700:7::a29f:8a2c 
- rDNS (162.159.138.44):  --
+ Further IP addresses:   162.159.138.44 2606:4700:7::a29f:8a2c
+                         2606:4700:7::a29f:802d 
+ rDNS (162.159.128.45):  --
  Service detected:       HTTP
 
 
@@ -96,7 +96,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                               &quot;compress_certificate/#27&quot;
 <span style="font-weight:bold;"> Session Ticket RFC 5077 hint </span>64800 seconds, session tickets keys seems to be rotated &lt; daily
 <span style="font-weight:bold;"> SSL Session ID support       </span>yes
-<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: yes
+<span style="font-weight:bold;"> Session Resumption           </span>Tickets: yes, ID: no
 <span style="font-weight:bold;"> TLS clock skew</span>               -4 sec from localtime
 <span style="font-weight:bold;"> Certificate Compression      </span>0002/Brotli
 <span style="font-weight:bold;"> Client Authentication        </span>none
@@ -112,7 +112,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">158 &gt;= 60 days</span> (2021-09-09 00:00 --&gt; 2022-09-08 23:59)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">151 &gt;= 60 days</span> (2021-09-09 00:00 --&gt; 2022-09-08 23:59)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncRSACA-2.crl
                               http://crl4.digicert.com/CloudflareIncRSACA-2.crl
@@ -130,8 +130,8 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>+27 sec from localtime
-<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          27
+<span style="font-weight:bold;"> HTTP clock skew              </span>+19 sec from localtime
+<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          19
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>cloudflare
@@ -143,7 +143,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
                                 2022avechidalgo.nationbuilder.com
                               <span style="color:#008817;">Expect-CT</span>: max-age=604800,
                                 report-uri=&quot;https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct&quot;
-                              X-Served-By: app13
+                              X-Served-By: app10
                               Cache-Control: no-cache, no-store, max-age=0,
                                 must-revalidate
 <span style="font-weight:bold;"> Reverse Proxy banner         </span>--
@@ -227,14 +227,14 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2022-04-03 00:38:21 [  81s] --&gt;&gt; 162.159.138.44:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2022-04-10 00:34:40 [  69s] --&gt;&gt; 162.159.128.45:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="color:white;background-color:black;"> Start 2022-04-03 00:38:21        --&gt;&gt; 162.159.128.45:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Start 2022-04-10 00:34:40        --&gt;&gt; 162.159.138.44:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
 
- Further IP addresses:   162.159.138.44 2606:4700:7::a29f:802d
-                         2606:4700:7::a29f:8a2c 
- rDNS (162.159.128.45):  --
+ Further IP addresses:   162.159.128.45 2606:4700:7::a29f:8a2c
+                         2606:4700:7::a29f:802d 
+ rDNS (162.159.138.44):  --
  Service detected:       HTTP
 
 
@@ -315,7 +315,7 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Trust (hostname)             </span><span style="color:#008817;">Ok via SAN and CN</span> (SNI mandatory)
 <span style="font-weight:bold;"> Chain of trust</span>               <span style="color:#008817;">Ok   </span><span style="color:#cd00cd;"></span>
 <span style="font-weight:bold;"> EV cert</span> (experimental)       no 
-<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">158 &gt;= 60 days</span> (2021-09-09 00:00 --&gt; 2022-09-08 23:59)
+<span style="font-weight:bold;"> Certificate Validity (UTC)   </span><span style="color:#008817;">151 &gt;= 60 days</span> (2021-09-09 00:00 --&gt; 2022-09-08 23:59)
 <span style="font-weight:bold;"> ETS/&quot;eTLS&quot;</span>, visibility info  not present
 <span style="font-weight:bold;"> Certificate Revocation List  </span>http://crl3.digicert.com/CloudflareIncRSACA-2.crl
                               http://crl4.digicert.com/CloudflareIncRSACA-2.crl
@@ -333,8 +333,8 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="text-decoration:underline;font-weight:bold;"> Testing HTTP header response @ &quot;/&quot; </span>
 
 <span style="font-weight:bold;"> HTTP Status Code           </span>  200 OK
-<span style="font-weight:bold;"> HTTP clock skew              </span>+19 sec from localtime
-<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          19
+<span style="font-weight:bold;"> HTTP clock skew              </span>+18 sec from localtime
+<span style="font-weight:bold;"> HTTP Age</span> (RFC 7234)          18
 <span style="font-weight:bold;"> Strict Transport Security    </span><span style="color:#a86437;">not offered</span>
 <span style="font-weight:bold;"> Public Key Pinning           </span>--
 <span style="font-weight:bold;"> Server banner                </span>cloudflare
@@ -430,10 +430,10 @@ Hexcode  Cipher Suite Name (OpenSSL)       KeyExch.   Encryption  Bits     Ciphe
 <span style="font-weight:bold;"> Overall Grade                </span><span style="color:#008817;font-weight:bold;">A</span>
 <span style="font-weight:bold;"> Grade cap reasons            </span>Grade capped to A. HSTS is not offered
 
-<span style="color:white;background-color:black;"> Done 2022-04-03 00:39:38 [ 158s] --&gt;&gt; 162.159.128.45:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
+<span style="color:white;background-color:black;"> Done 2022-04-10 00:35:47 [ 136s] --&gt;&gt; 162.159.138.44:443 (www.2022avechidalgo.fr) &lt;&lt;--</span>
 
 -----------------------------------------------------
-<span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>162.159.138.44 162.159.128.45
+<span style="font-weight:bold;">Done testing now all IP addresses (on port 443): </span>162.159.128.45 162.159.138.44
 
 </pre>
 </body>
