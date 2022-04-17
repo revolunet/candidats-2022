@@ -353,7 +353,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "359 >= 60 days"
+              "finding"      : "352 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,21 +514,21 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+49 seconds from localtime"
+              "finding"      : "+17 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1649551471"
+              "finding"      : "1650156324"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "49 seconds"
+              "finding"      : "17 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -612,7 +612,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app12"
+              "finding"      : "app10"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1349,7 +1349,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1489,7 +1489,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "359 >= 60 days"
+              "finding"      : "352 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1650,21 +1650,21 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+48 seconds from localtime"
+              "finding"      : "+17 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1649551542"
+              "finding"      : "1650156387"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "48 seconds"
+              "finding"      : "17 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1748,7 +1748,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app14"
+              "finding"      : "app11"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -2276,6 +2276,6 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "151"
+              "finding"      : "130"
           }
 ]
