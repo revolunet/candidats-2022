@@ -353,7 +353,7 @@
               "ip"           : "www.zemmour2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "229 >= 60 days"
+              "finding"      : "222 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,21 +514,21 @@
               "ip"           : "www.zemmour2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+1 seconds from localtime"
+              "finding"      : "+18 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.zemmour2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1649550914"
+              "finding"      : "1650155909"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.zemmour2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1 seconds"
+              "finding"      : "18 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -598,7 +598,7 @@
               "ip"           : "www.zemmour2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app14"
+              "finding"      : "app10"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1335,7 +1335,7 @@
               "ip"           : "www.zemmour2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -1475,7 +1475,7 @@
               "ip"           : "www.zemmour2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "229 >= 60 days"
+              "finding"      : "222 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1636,14 +1636,21 @@
               "ip"           : "www.zemmour2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "0 seconds from localtime"
+              "finding"      : "+136 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.zemmour2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1649550994"
+              "finding"      : "1650155975"
+          }
+,         {
+              "id"           : "HTTP_headerAge",
+              "ip"           : "www.zemmour2022.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "136 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1713,7 +1720,7 @@
               "ip"           : "www.zemmour2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app14"
+              "finding"      : "app12"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -2241,6 +2248,6 @@
               "ip"           : "www.zemmour2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "170"
+              "finding"      : "134"
           }
 ]
