@@ -18,15 +18,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://use.typekit.net/af/09d302/00000000000000007735a14e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
-    },
-    {
-      "type": "unknown",
       "url": "https://use.typekit.net/af/61b4ba/00000000000000007735a167/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
     },
     {
       "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/matomo.js"
+      "url": "https://use.typekit.net/af/09d302/00000000000000007735a14e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
     },
     {
       "type": "unknown",
@@ -38,23 +34,27 @@
     },
     {
       "type": "unknown",
-      "url": "https://matomo.lafranceinsoumise.fr/matomo.php?action_name=M%C3%A9lenchon%202022%20-%20Un%20autre%20monde%20est%20possible&idsite=12&rec=1&r=397996&h=0&m=30&s=56&url=https%3A%2F%2Fmelenchon2022.fr%2F&_id=&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=qiTq3L&pf_net=31&pf_srv=258&pf_tfr=73&pf_dm1=562"
+      "url": "https://matomo.lafranceinsoumise.fr/matomo.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://matomo.lafranceinsoumise.fr/matomo.php?action_name=M%C3%A9lenchon%202022%20-%20Un%20autre%20monde%20est%20possible&idsite=12&rec=1&r=382736&h=0&m=27&s=49&url=https%3A%2F%2Fmelenchon2022.fr%2F&_id=&_idn=1&_refts=0&send_image=0&cookie=1&res=800x600&pv_id=R4Ot0h&pf_net=28&pf_srv=224&pf_tfr=94&pf_dm1=651"
     }
   ],
   "cookies": [],
   "headers": {
-    "date": "Sun, 17 Apr 2022 00:30:54 GMT",
+    "date": "Sun, 24 Apr 2022 00:27:48 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "cf-ray": "6fd10e0769c657bb-IAD",
+    "cf-ray": "700ab7186ff69876-SJC",
     "cache-control": "no-cache",
-    "expires": "Sun, 17 Apr 2022 00:30:53 GMT",
+    "expires": "Sun, 24 Apr 2022 00:27:47 GMT",
     "link": "<https://melenchon2022.fr/wp-json/>; rel=\"https://api.w.org/\", <https://melenchon2022.fr/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://melenchon2022.fr/>; rel=shortlink",
     "strict-transport-security": "max-age=86400;",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "fastcgi-cache": "HIT",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=JJRNwhMWt6XRrNVMdFswDj99ssWtD2nKG%2FRe8%2BhfBzXb3%2BnJO47YAzdh7%2FnMuL2VjtiNduG%2FuoL9D%2FYNfveYlKIoA8rUHqol5pJA45sQS%2B%2FB7xabdTYHPc9IZNvcmiQE03c%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=gdC6D%2BjxisgyM6f8Ov6fWrzCiJYFbMxhMnxmy4mqbPKafk%2FoifVB3Kj%2F%2Fhb8mdIc0mXXg3BVIbKYVLhEK1vDhyrMQcAGvG4%2BRu3VNFJWmxS6tRPxCTjrhPHmwSqt4F0jP8Q%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "content-encoding": "br"
@@ -116,13 +116,19 @@
     },
     {
       "hostname": "use.typekit.net",
-      "ip": "23.199.55.63",
+      "ip": "23.67.33.233",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5393015,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
           }
         },
         "continent": {
@@ -155,13 +161,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "20149"
+          "code": "95052"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -179,15 +185,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -195,13 +203,19 @@
     },
     {
       "hostname": "p.typekit.net",
-      "ip": "23.221.72.200",
+      "ip": "23.67.33.203",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5393015,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
           }
         },
         "continent": {
@@ -234,13 +248,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "20149"
+          "code": "95052"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -258,15 +272,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
