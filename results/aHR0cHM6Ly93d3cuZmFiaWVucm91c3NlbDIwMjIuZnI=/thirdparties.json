@@ -121,20 +121,12 @@
       "url": "https://assets.nationbuilder.com/themes/6230a14b4445ea435c41d497/attachments/original/1647512707/new-slider-droite.png?1647512707"
     },
     {
-      "type": "youtube",
-      "url": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fj-NHukxv_xY%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj-NHukxv_xY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fj-NHukxv_xY%2Fhqdefault.jpg&key=e23856ccc1f011e0b5e44040d3dc5c07&type=text%2Fhtml&schema=youtube",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
       "type": "unknown",
       "url": "https://assets.nationbuilder.com/themes/6230a14b4445ea435c41d497/attachments/original/1647513547/new-fab-line.png?1647513547"
     },
     {
       "type": "unknown",
-      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/876/meta_images/original/LES4VRoussel.png?1649419597"
+      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/890/meta_images/original/public.jpg?1651222004"
     },
     {
       "type": "unknown",
@@ -142,23 +134,31 @@
     },
     {
       "type": "unknown",
+      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/876/meta_images/original/LES4VRoussel.png?1649419597"
+    },
+    {
+      "type": "unknown",
       "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/875/meta_images/original/RMCBFMRoussel.png?1649409902"
     },
     {
       "type": "unknown",
-      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/874/meta_images/original/Elyse%CC%81e2022Roussel.png?1649337825"
+      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/892/meta_images/original/fabien_roussel_screen.jpeg?1651223256"
+    },
+    {
+      "type": "youtube",
+      "url": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCJnZ8-rv8lY%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCJnZ8-rv8lY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCJnZ8-rv8lY%2Fhqdefault.jpg&key=e23856ccc1f011e0b5e44040d3dc5c07&type=text%2Fhtml&schema=youtube",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
     },
     {
       "type": "unknown",
-      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/883/meta_images/original/WhatsApp_Image_2022-01-20_at_11.38.24.jpg?1649954907"
+      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/889/meta_images/original/Lettre_%C3%A0_la_direction_de_la_France_Insoumise%281%29.jpg?1651151727"
     },
     {
       "type": "unknown",
-      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/880/meta_images/original/visuel_PREMIERTOUR.jpg?1649618456"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/873/meta_images/original/couv_site_campagne_%281%29_%281%29.png?1649438133"
+      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/887/meta_images/original/1ERMAI.jpg?1651072722"
     },
     {
       "type": "unknown",
@@ -198,15 +198,15 @@
     },
     {
       "type": "unknown",
+      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/886/meta_images/original/visuel_tract.png?1650983848"
+    },
+    {
+      "type": "unknown",
       "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/882/meta_images/original/roussel-site_%281%29.png?1649856946"
     },
     {
       "type": "unknown",
       "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/867/meta_images/original/roussel-site_%283%29.png?1649255322"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/826/meta_images/original/roussel-propositions-fiscalite-10.png?1648799497"
     },
     {
       "type": "unknown",
@@ -258,7 +258,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -266,7 +266,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -274,7 +274,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -282,7 +282,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -290,7 +290,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -298,7 +298,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/inter/v8/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2",
+      "url": "https://fonts.gstatic.com/s/inter/v11/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -306,7 +306,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -333,18 +333,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/themes/6230a14b4445ea435c41d497/attachments/original/1641912876/back-meeting-marseille.png?1641912876"
-    },
-    {
-      "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=6047b022a981038a086983dcb3f8b1a0",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google",
       "url": "https://www.gstatic.com/mapspro/_/ss/k=mapspro.gmeviewer.5yKvTbHncR4.L.W.O/d=0/rs=ABjfnFUGvQdE5pFHXnKJ_L-WkHwWgCdC-w",
       "details": {
@@ -358,6 +346,14 @@
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "facebook",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=06532fd65acef7457ef9c2bf9ad1bbc6",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -377,16 +373,28 @@
       }
     },
     {
+      "type": "youtube",
+      "url": "https://www.youtube.com/iframe_api",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=ba55cd0b859eaf8ef0921f035f5b5fc6a489961f",
+      "url": "https://syndication.twitter.com/settings?session_id=aa8281ac357c58ef267e667d4cbab34a1d5234ea",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/themes/6230a14b4445ea435c41d497/attachments/original/1641912876/back-meeting-marseille.png?1641912876"
+    },
+    {
       "type": "youtube",
-      "url": "https://www.youtube.com/iframe_api",
+      "url": "https://www.youtube.com/s/player/9cdfefcf/www-widgetapi.vflset/www-widgetapi.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -406,6 +414,14 @@
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/x/oauth/status?client_id=126739610711965&input_token&origin=1&redirect_uri=https%3A%2F%2Fwww.fabienroussel2022.fr%2F&sdk=joey&wants_cookie_data=true",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
@@ -497,6 +513,14 @@
       }
     },
     {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
       "type": "google",
       "url": "https://www.gstatic.com/mapspro/info-000.png",
       "details": {
@@ -513,32 +537,16 @@
       }
     },
     {
-      "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-      "details": {
-        "id": "google fonts",
-        "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
-      }
-    },
-    {
       "type": "google",
-      "url": "https://www.google.com/maps/d/gen204?cid=mme&_reqid=2488&rt=j",
+      "url": "https://www.google.com/maps/d/gen204?cid=mme&_reqid=3193&rt=j",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
       }
     },
     {
-      "type": "facebook",
-      "url": "https://www.facebook.com/x/oauth/status?client_id=126739610711965&input_token&origin=1&redirect_uri=https%3A%2F%2Fwww.fabienroussel2022.fr%2F&sdk=joey&wants_cookie_data=true",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/534c466c/www-widgetapi.vflset/www-widgetapi.js",
+      "url": "https://www.youtube.com/embed/CJnZ8-rv8lY?wmode=transparent&widget_referrer=https%3A%2F%2Fwww.fabienroussel2022.fr%2F&enablejsapi=1&origin=https%3A%2F%2Fcdn.embedly.com&widgetid=1",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -570,66 +578,10 @@
     },
     {
       "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&1m2&1d-14.543052829769527&2d-87.25831697861716&2m2&1d90&2d90.89408018605954&2u4&4sen-US&5e0&6sm%40599000000&7b0&8e0&12e1&13shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed&14b1&callback=_xdc_._u1mv3p&client=google-maps-pro&token=85593",
+      "url": "https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&1m2&1d-14.543052829769527&2d-87.25831697861716&2m2&1d90&2d90.89408018605954&2u4&4sen-US&5e0&6sm%40600000000&7b0&8e0&12e1&13shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed&14b1&callback=_xdc_._6ukcfy&client=google-maps-pro&token=9131",
       "details": {
         "id": "google maps",
         "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/embed/j-NHukxv_xY?wmode=transparent&widget_referrer=https%3A%2F%2Fwww.fabienroussel2022.fr%2F&enablejsapi=1&origin=https%3A%2F%2Fcdn.embedly.com&widgetid=1",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed&2sgoogle-maps-pro&7m1&1e0&callback=_xdc_._gja6h6&client=google-maps-pro&token=50284",
-      "details": {
-        "id": "google maps",
-        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
-      }
-    },
-    {
-      "type": "google maps",
-      "url": "https://maps.googleapis.com/maps/api/js/QuotaService.RecordEvent?1shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed&2sgoogle-maps-pro&7sckesn4&10e1&callback=_xdc_._672bde&client=google-maps-pro&token=119367",
-      "details": {
-        "id": "google maps",
-        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/534c466c/www-player.css",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/534c466c/www-embed-player.vflset/www-embed-player.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/base.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/534c466c/fetch-polyfill.vflset/fetch-polyfill.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
@@ -638,6 +590,54 @@
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/9cdfefcf/www-player.css",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/9cdfefcf/www-embed-player.vflset/www-embed-player.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/9cdfefcf/player_ias.vflset/en_US/base.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/9cdfefcf/fetch-polyfill.vflset/fetch-polyfill.js",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed&2sgoogle-maps-pro&7m1&1e0&callback=_xdc_._gja6h6&client=google-maps-pro&token=104103",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
+      }
+    },
+    {
+      "type": "google maps",
+      "url": "https://maps.googleapis.com/maps/api/js/QuotaService.RecordEvent?1shttps%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fembed&2sgoogle-maps-pro&7smkwvpk&10e1&callback=_xdc_._73nbag&client=google-maps-pro&token=12562",
+      "details": {
+        "id": "google maps",
+        "message": "Use OpenStreetMap with https://switch2osm.org/the-basics/"
       }
     },
     {
@@ -674,7 +674,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/9cdfefcf/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -682,7 +682,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/2BdFh1Rfv9vzIlQZwBfqObkgbvLgOP6YC9YOTJoHW_o.js",
+      "url": "https://www.google.com/js/th/djrw71-j02Yzyl1za8KsJY3IRtw4qXfdGOZAbdlGhTs.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -690,7 +690,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/534c466c/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/9cdfefcf/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -706,7 +706,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://i.ytimg.com/vi/j-NHukxv_xY/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi_webp/CJnZ8-rv8lY/sddefault.webp",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -721,6 +721,14 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://fabienroussel2022.nationbuilder.com/themes/1/6230a14b4445ea435c41d497/0/attachments/16479573111649430561/mobile/tarteaucitron.css?v=20210310"
+    },
+    {
+      "type": "unknown",
+      "url": "https://fabienroussel2022.nationbuilder.com/themes/1/6230a14b4445ea435c41d497/0/attachments/16479573111649430561/mobile/tarteaucitron.en.js?v=20210310"
+    },
+    {
       "type": "google",
       "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
       "details": {
@@ -730,10 +738,30 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?ez3gbw",
+      "url": "https://www.youtube.com/generate_204?e2kwMw",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://fabienroussel2022.nationbuilder.com/themes/1/6230a14b4445ea435c41d497/0/attachments/16479573111649430561/mobile/tarteaucitron.services.js?v=20210310"
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
       }
     },
     {
@@ -793,34 +821,6 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://fabienroussel2022.nationbuilder.com/themes/1/6230a14b4445ea435c41d497/0/attachments/16479573111649430561/mobile/tarteaucitron.css?v=20210310"
-    },
-    {
-      "type": "unknown",
-      "url": "https://fabienroussel2022.nationbuilder.com/themes/1/6230a14b4445ea435c41d497/0/attachments/16479573111649430561/mobile/tarteaucitron.en.js?v=20210310"
-    },
-    {
-      "type": "unknown",
-      "url": "https://fabienroussel2022.nationbuilder.com/themes/1/6230a14b4445ea435c41d497/0/attachments/16479573111649430561/mobile/tarteaucitron.services.js?v=20210310"
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
       "type": "youtube",
       "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
       "details": {
@@ -832,7 +832,7 @@
   "cookies": [
     {
       "name": "_nbuild_token",
-      "value": "znp9xvwnX2giaVQr0cTzbybRJesrPZCN%2BBHt7RRH7QA%3D",
+      "value": "xEd4Cs3N%2F7CGOHlkCwznoJR2wJukaaZ8qq1DR24J8YY%3D",
       "domain": "www.fabienroussel2022.fr",
       "path": "/",
       "expires": -1,
@@ -846,41 +846,41 @@
     }
   ],
   "headers": {
-    "date": "Sun, 24 Apr 2022 00:41:26 GMT",
+    "date": "Sun, 01 May 2022 00:53:11 GMT",
     "content-type": "text/html; charset=utf-8",
     "x-rack-cache": "fresh",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "43",
+    "age": "40",
     "x-nb-cached-page": "yes",
-    "x-request-id": "090ea323-2d1f-4250-96d0-f74279927f40",
-    "x-served-by": "app10",
-    "x-middleware-start": "t=1650760886244845",
-    "x-content-digest": "dd83bf21918f206bb9b291167c50fb64c599d344",
+    "x-request-id": "4e439de5-432a-40e4-bd4a-0c7d9b6899fd",
+    "x-served-by": "app12",
+    "x-middleware-start": "t=1651366391592513",
+    "x-content-digest": "22c39ff9e176ab56dbc0a710d9a9205dfb4a399f",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.062692",
+    "x-runtime": "0.080564",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors fabienroussel2022.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=znp9xvwnX2giaVQr0cTzbybRJesrPZCN%2BBHt7RRH7QA%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=xEd4Cs3N%2F7CGOHlkCwznoJR2wJukaaZ8qq1DR24J8YY%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "700acb12e965821e-IAD",
+    "cf-ray": "704489eb4cba59b6-IAD",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.fabienroussel2022.fr",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.15.106",
+      "ip": "142.250.31.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -934,12 +934,12 @@
     },
     {
       "hostname": "fabienroussel2022.nationbuilder.com",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "172.253.115.95",
+      "ip": "142.250.73.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -993,7 +993,7 @@
     },
     {
       "hostname": "assets.nationbuilder.com",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
@@ -1071,7 +1071,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "172.253.115.106",
+      "ip": "142.250.188.36",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1125,7 +1125,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "172.253.115.94",
+      "ip": "172.253.62.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1179,18 +1179,13 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.3.29",
+      "ip": "31.13.66.19",
       "geoip": {
         "city": {
-          "geoname_id": 5809844,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Seattle",
-            "en": "Seattle",
-            "es": "Seattle",
-            "fr": "Seattle",
-            "ja": "シアトル",
-            "pt-BR": "Seattle",
-            "ru": "Сиэтл"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -1223,39 +1218,40 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 47.6034,
-          "longitude": -122.3414,
-          "metro_code": 819,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "98160"
+          "code": "20149"
         },
         "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
+          "geoname_id": 2963597,
+          "is_in_european_union": true,
+          "iso_code": "IE",
           "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
+            "de": "Irland",
+            "en": "Ireland",
+            "es": "Irlanda",
+            "fr": "Irlande",
+            "ja": "アイルランド",
+            "pt-BR": "Irlanda",
+            "ru": "Ирландия",
+            "zh-CN": "爱尔兰"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 5815135,
-            "iso_code": "WA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "Washington",
-              "es": "Washington",
-              "fr": "Washington",
-              "ja": "ワシントン州",
-              "ru": "Вашингтон",
-              "zh-CN": "华盛顿州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -1263,7 +1259,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "142.250.65.67",
+      "ip": "172.253.115.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1317,61 +1313,7 @@
     },
     {
       "hostname": "maps.googleapis.com",
-      "ip": "142.250.81.202",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.72",
+      "ip": "142.251.45.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1425,7 +1367,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "172.253.62.93",
+      "ip": "142.251.111.91",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1478,8 +1420,8 @@
       }
     },
     {
-      "hostname": "mt.googleapis.com",
-      "ip": "172.253.122.100",
+      "hostname": "syndication.twitter.com",
+      "ip": "104.244.42.8",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1533,7 +1475,7 @@
     },
     {
       "hostname": "www.facebook.com",
-      "ip": "157.240.2.35",
+      "ip": "157.240.18.35",
       "geoip": {
         "city": {
           "geoname_id": 4887398,
@@ -1618,8 +1560,62 @@
       }
     },
     {
+      "hostname": "mt.googleapis.com",
+      "ip": "172.217.12.238",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "maps.gstatic.com",
-      "ip": "172.217.1.195",
+      "ip": "172.217.0.35",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1673,7 +1669,7 @@
     },
     {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "172.253.62.156",
+      "ip": "172.217.13.226",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1727,7 +1723,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "172.253.115.148",
+      "ip": "172.217.12.230",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1781,7 +1777,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "172.253.115.95",
+      "ip": "172.253.63.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1835,7 +1831,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "142.250.188.193",
+      "ip": "142.250.65.65",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1889,7 +1885,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.250.81.214",
+      "ip": "142.251.33.214",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1943,7 +1939,7 @@
     },
     {
       "hostname": "ssl.gstatic.com",
-      "ip": "172.217.13.227",
+      "ip": "172.217.12.227",
       "geoip": {
         "continent": {
           "code": "NA",
