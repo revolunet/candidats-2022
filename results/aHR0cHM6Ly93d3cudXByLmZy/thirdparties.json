@@ -15,7 +15,7 @@
       "value": "no",
       "domain": "www.upr.fr",
       "path": "/",
-      "expires": 1682295818,
+      "expires": 1682901034,
       "size": 34,
       "httpOnly": false,
       "secure": false,
@@ -29,7 +29,7 @@
       "value": "yes",
       "domain": "www.upr.fr",
       "path": "/",
-      "expires": 1682295818,
+      "expires": 1682901034,
       "size": 35,
       "httpOnly": false,
       "secure": false,
@@ -41,9 +41,9 @@
   ],
   "headers": {
     "server": "nginx/1.18.0 (Ubuntu)",
-    "date": "Sun, 24 Apr 2022 00:23:36 GMT",
+    "date": "Sun, 01 May 2022 00:30:33 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "content-length": "47266",
+    "content-length": "47257",
     "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "cache-control": "no-store, no-cache, must-revalidate",
     "pragma": "no-cache",
@@ -52,7 +52,7 @@
     "x-tec-api-origin": "https://www.upr.fr",
     "vary": "Accept-Encoding",
     "content-encoding": "gzip",
-    "age": "35180",
+    "age": "8819",
     "x-cache": "cached",
     "x-name": "can-proue1",
     "accept-ranges": "bytes",
@@ -148,7 +148,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.46.170",
+      "ip": "142.251.16.95",
       "geoip": {
         "continent": {
           "code": "NA",
