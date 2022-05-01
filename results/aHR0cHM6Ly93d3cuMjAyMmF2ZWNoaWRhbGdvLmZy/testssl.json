@@ -185,7 +185,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'session ticket/#35' 'next protocol/#13172' 'EC point formats/#11' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'EC point formats/#11' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -220,7 +220,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -3 seconds from your localtime"
+              "finding"      : "off by -5 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -353,7 +353,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "137 >= 60 days"
+              "finding"      : "130 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -401,8 +401,15 @@
               "id"           : "OCSP_stapling",
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked",
+              "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
@@ -507,21 +514,21 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+21 seconds from localtime"
+              "finding"      : "+51 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1650760492"
+              "finding"      : "1651365819"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "21 seconds"
+              "finding"      : "51 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -605,7 +612,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app13"
+              "finding"      : "app11"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1314,7 +1321,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'session ticket/#35' 'next protocol/#13172' 'EC point formats/#11' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'EC point formats/#11' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -1342,14 +1349,14 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -5 seconds from your localtime"
+              "finding"      : "off by -4 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -1482,7 +1489,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "137 >= 60 days"
+              "finding"      : "130 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1530,8 +1537,15 @@
               "id"           : "OCSP_stapling",
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked",
+              "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
@@ -1636,21 +1650,21 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+24 seconds from localtime"
+              "finding"      : "+50 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1650760565"
+              "finding"      : "1651365893"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "24 seconds"
+              "finding"      : "50 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1734,7 +1748,7 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app12"
+              "finding"      : "app11"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -2262,6 +2276,6 @@
               "ip"           : "www.2022avechidalgo.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "150"
+              "finding"      : "151"
           }
 ]
