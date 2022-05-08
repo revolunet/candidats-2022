@@ -11,11 +11,25 @@
   ],
   "cookies": [
     {
+      "name": "cookielawinfo-checkbox-twitter",
+      "value": "no",
+      "domain": "www.upr.fr",
+      "path": "/",
+      "expires": 1683505418,
+      "size": 32,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
       "name": "cookielawinfo-checkbox-analytics",
       "value": "no",
       "domain": "www.upr.fr",
       "path": "/",
-      "expires": 1682901034,
+      "expires": 1683505418,
       "size": 34,
       "httpOnly": false,
       "secure": false,
@@ -29,7 +43,7 @@
       "value": "yes",
       "domain": "www.upr.fr",
       "path": "/",
-      "expires": 1682901034,
+      "expires": 1683505418,
       "size": 35,
       "httpOnly": false,
       "secure": false,
@@ -41,9 +55,9 @@
   ],
   "headers": {
     "server": "nginx/1.18.0 (Ubuntu)",
-    "date": "Sun, 01 May 2022 00:30:33 GMT",
+    "date": "Sun, 08 May 2022 00:23:37 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "content-length": "47257",
+    "content-length": "47826",
     "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "cache-control": "no-store, no-cache, must-revalidate",
     "pragma": "no-cache",
@@ -52,9 +66,9 @@
     "x-tec-api-origin": "https://www.upr.fr",
     "vary": "Accept-Encoding",
     "content-encoding": "gzip",
-    "age": "8819",
+    "age": "52675",
     "x-cache": "cached",
-    "x-name": "can-proue1",
+    "x-name": "rbx-proue1",
     "accept-ranges": "bytes",
     "strict-transport-security": "max-age=15768000; includeSubDomains",
     "x-frame-options": "sameorigin"
@@ -148,7 +162,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "142.250.81.202",
       "geoip": {
         "continent": {
           "code": "NA",
