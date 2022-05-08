@@ -106,10 +106,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Bold.otf"
-    },
-    {
-      "type": "unknown",
       "url": "https://assets.ericzemmour.fr/prio/prio-4-530.jpg"
     },
     {
@@ -138,11 +134,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://consentcdn.cookiebot.com/sdk/bc-v4.min.html"
+      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Bold.otf"
     },
     {
       "type": "unknown",
-      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.ericzemmour.fr&dnt=false"
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v4.min.html"
     },
     {
       "type": "unknown",
@@ -159,6 +155,14 @@
     {
       "type": "unknown",
       "url": "https://assets.nationbuilder.com/ez/pages/919/attachments/original/1647331111/bg-agen.jpeg?1647331111"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.ericzemmour.fr/photo_2021-12-06_14-42-22.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.ericzemmour.fr&dnt=false"
     },
     {
       "type": "twitter",
@@ -198,23 +202,23 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=13722eb269c2912074148074537ad3f9ce611eba",
+      "url": "https://syndication.twitter.com/settings?session_id=e3406ff04283cbc75d084737d1ebe82123b7e4cd",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
-      "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/bootstrap.min.js"
-    },
-    {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=726e11d9c2a3b07893492618633c7cfd",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=a33fcc65be06f3cff56aef4d79cb21af",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/bootstrap.min.js"
     },
     {
       "type": "unknown",
@@ -231,34 +235,35 @@
   ],
   "cookies": [],
   "headers": {
-    "date": "Sun, 01 May 2022 00:41:54 GMT",
+    "date": "Sun, 08 May 2022 00:35:28 GMT",
     "content-type": "text/html; charset=utf-8",
-    "x-rack-cache": "stale, invalid, ignore, store",
+    "x-rack-cache": "fresh",
     "cache-control": "public, max-age=14400",
+    "age": "84",
     "x-nb-cached-page": "yes",
-    "x-request-id": "3e4f6b18-20fd-4f9b-b7e3-a3377c75974f",
+    "x-request-id": "74311ff8-f36f-4722-a241-ccce3bd29ec1",
     "x-served-by": "app10",
-    "x-middleware-start": "t=1651365714500077",
+    "x-middleware-start": "t=1651970044050744",
     "x-content-digest": "7ed42c42a08f68b00dac932cdd2134999d356841",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.058544",
+    "x-runtime": "0.059239",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
-    "expires": "Sun, 01 May 2022 04:41:54 GMT",
+    "expires": "Sun, 08 May 2022 04:35:28 GMT",
     "status": "200 OK",
     "vary": "Accept-Encoding",
-    "cf-cache-status": "EXPIRED",
+    "cf-cache-status": "HIT",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "704479639a3e82ba-IAD",
+    "cf-ray": "707e1d96efa39c30-IAD",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "34.250.67.23",
+      "ip": "52.31.105.168",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
@@ -430,7 +435,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "172.253.63.95",
+      "ip": "172.217.12.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -484,12 +489,12 @@
     },
     {
       "hostname": "assets.nationbuilder.com",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.217.15.72",
+      "ip": "142.250.81.200",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -543,7 +548,7 @@
     },
     {
       "hostname": "assets.ericzemmour.fr",
-      "ip": "52.85.130.73",
+      "ip": "18.67.17.122",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -597,12 +602,13 @@
     },
     {
       "hostname": "consentcdn.cookiebot.com",
-      "ip": "104.117.33.78",
+      "ip": "104.108.101.241",
       "geoip": {
         "city": {
-          "geoname_id": 5102713,
+          "geoname_id": 4744870,
           "names": {
-            "en": "Piscataway"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -635,13 +641,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.5511,
-          "longitude": -74.4606,
-          "metro_code": 501,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
           "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "08854"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -659,16 +665,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5101760,
-            "iso_code": "NJ",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "New Jersey",
-              "es": "Nueva Jersey",
-              "fr": "New Jersey",
-              "ja": "ニュージャージー州",
-              "pt-BR": "Nova Jérsia",
-              "ru": "Нью-Джерси",
-              "zh-CN": "新泽西州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -676,7 +681,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "72.21.91.66",
+      "ip": "192.229.163.25",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -708,8 +713,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
+          "latitude": 32.7797,
+          "longitude": -96.8022,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -725,24 +730,32 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4736286,
+            "iso_code": "TX",
+            "names": {
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.18.19",
+      "ip": "157.240.229.1",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -775,13 +788,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60602"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -799,16 +812,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -870,19 +882,13 @@
     },
     {
       "hostname": "www.facebook.com",
-      "ip": "157.240.18.35",
+      "ip": "157.240.229.35",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -915,13 +921,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "60602"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -939,16 +945,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
