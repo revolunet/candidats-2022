@@ -199,7 +199,7 @@
               "ip"           : "melenchon2022.fr/172.67.68.169",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -367,7 +367,7 @@
               "ip"           : "melenchon2022.fr/172.67.68.169",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (46)"
+              "finding"      : "expires < 60 days (39)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -415,8 +415,15 @@
               "id"           : "OCSP_stapling <hostCert#1>",
               "ip"           : "melenchon2022.fr/172.67.68.169",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#1>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#1>",
@@ -619,7 +626,7 @@
               "ip"           : "melenchon2022.fr/172.67.68.169",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (46)"
+              "finding"      : "expires < 60 days (39)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -667,8 +674,15 @@
               "id"           : "OCSP_stapling <hostCert#2>",
               "ip"           : "melenchon2022.fr/172.67.68.169",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#2>",
+              "ip"           : "melenchon2022.fr/172.67.68.169",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#2>",
@@ -780,7 +794,7 @@
               "ip"           : "melenchon2022.fr/172.67.68.169",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651969698"
+              "finding"      : "1652575183"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -974,7 +988,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1582,7 +1596,7 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -1750,7 +1764,7 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (46)"
+              "finding"      : "expires < 60 days (39)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -1798,8 +1812,15 @@
               "id"           : "OCSP_stapling <hostCert#1>",
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#1>",
+              "ip"           : "melenchon2022.fr/104.26.8.197",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#1>",
@@ -2002,7 +2023,7 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (46)"
+              "finding"      : "expires < 60 days (39)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -2050,8 +2071,15 @@
               "id"           : "OCSP_stapling <hostCert#2>",
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#2>",
+              "ip"           : "melenchon2022.fr/104.26.8.197",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#2>",
@@ -2163,7 +2191,7 @@
               "ip"           : "melenchon2022.fr/104.26.8.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651969764"
+              "finding"      : "1652575267"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -2357,7 +2385,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -2965,7 +2993,7 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
+              "finding"      : "'server name/#0' 'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'status request/#5' 'next protocol/#13172' 'key share/#51' 'supported versions/#43' 'extended master secret/#23' 'application layer protocol negotiation/#16' 'compress_certificate/#27'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
@@ -3133,7 +3161,7 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (46)"
+              "finding"      : "expires < 60 days (39)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#1>",
@@ -3181,8 +3209,15 @@
               "id"           : "OCSP_stapling <hostCert#1>",
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#1>",
+              "ip"           : "melenchon2022.fr/104.26.9.197",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#1>",
@@ -3385,7 +3420,7 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "MEDIUM",
-              "finding"      : "expires < 60 days (46)"
+              "finding"      : "expires < 60 days (39)"
           }
 ,         {
               "id"           : "cert_notBefore <hostCert#2>",
@@ -3433,8 +3468,15 @@
               "id"           : "OCSP_stapling <hostCert#2>",
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
-              "severity"     : "LOW",
-              "finding"      : "not offered"
+              "severity"     : "OK",
+              "finding"      : "offered"
+          }
+,         {
+              "id"           : "cert_ocspRevoked <hostCert#2>",
+              "ip"           : "melenchon2022.fr/104.26.9.197",
+              "port"         : "443",
+              "severity"     : "OK",
+              "finding"      : "not revoked"
           }
 ,         {
               "id"           : "cert_mustStapleExtension <hostCert#2>",
@@ -3546,7 +3588,7 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651969834"
+              "finding"      : "1652575355"
           }
 ,         {
               "id"           : "HSTS_time",
@@ -3740,7 +3782,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=7FA058B211339AF4EA2FF2E8CC31135C7BFB31ED54EA754039150BA29DC24654"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -4153,6 +4195,6 @@
               "ip"           : "melenchon2022.fr/104.26.9.197",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "204"
+              "finding"      : "261"
           }
 ]
