@@ -6,11 +6,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-includes/css/dist/block-library/style.min.css?ver=59be69e5e7f2e5e370600811bd69e7ea"
+      "url": "https://avecvous.fr/wp-includes/css/dist/block-library/style.min.css?ver=895664d3c7cb1b4986b06849694e9522"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/style.css?ver=59be69e5e7f2e5e370600811bd69e7ea"
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/style.css?ver=895664d3c7cb1b4986b06849694e9522"
     },
     {
       "type": "unknown",
@@ -18,35 +18,35 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1650552441"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1652283199"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1650552441"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1652283199"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1650552441"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1652283199"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1650552442"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1652283201"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1650902922"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1652283202"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1650894245"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1652283202"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1650552443"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1652283202"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/mailin/css/mailin-front.css?ver=59be69e5e7f2e5e370600811bd69e7ea"
+      "url": "https://avecvous.fr/wp-content/plugins/mailin/css/mailin-front.css?ver=895664d3c7cb1b4986b06849694e9522"
     },
     {
       "type": "unknown",
@@ -62,7 +62,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1650552443"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1652283195"
     },
     {
       "type": "unknown",
@@ -82,15 +82,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1650552443"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1650552448"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.2"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1652283206"
     },
     {
       "type": "jsdelivr",
@@ -99,6 +91,10 @@
         "id": "jsdelivr",
         "message": "Host files locally"
       }
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.2"
     },
     {
       "type": "unknown",
@@ -114,11 +110,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/04/Victoire-cover-site.jpg"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/04/Victoire-cover-site.jpg"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/03/Frame-1-1-1.png"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/03/Frame-1-1-1.png"
     },
     {
       "type": "unknown",
@@ -134,11 +130,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1650552444"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1652283203"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.4"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1652283241"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5"
     },
     {
       "type": "unknown",
@@ -150,19 +150,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.11"
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.12"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.5"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.0"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.4"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.4"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5"
     },
     {
       "type": "unknown",
@@ -182,7 +182,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.5"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.0"
     },
     {
       "type": "unknown",
@@ -194,19 +194,19 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.4"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.5"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.5"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.0"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.5"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.7.0"
     },
     {
       "type": "FontAwesome",
-      "url": "https://kit.fontawesome.com/04e89ecb12.js?ver=3.6.5",
+      "url": "https://kit.fontawesome.com/04e89ecb12.js?ver=3.7.0",
       "details": {
         "id": "FontAwesome",
         "message": "Host fonts directly"
@@ -214,19 +214,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/03/transition-eco.jpg"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/03/transition-eco.jpg"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/03/Decla_banner_desktop-scaled.jpg"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/03/Decla_banner_desktop-scaled.jpg"
     },
     {
       "type": "unknown",
       "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF.woff"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fa-brands-400.woff2"
     },
     {
       "type": "unknown",
@@ -238,11 +234,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/03/application-je-mengage-768x681.jpg"
+      "url": "https://smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com/2624188/wp-content/uploads/2022/03/application-je-mengage-1024x908.jpg?lossy=1&strip=1&webp=1"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
     },
     {
       "type": "FontAwesome",
@@ -274,15 +270,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/nav-menu.3de49ba5ef86f9a22ff5.bundle.min.js"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/nav-menu.4432c50d0d1f64da9d7c.bundle.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/form.358793a6bb3724ab5f99.bundle.min.js"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/form.9c819fdcd2d2c5217b4a.bundle.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/popup.483b906ddaa1af17ff14.bundle.min.js"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/popup.6a2540c839ce119e42a7.bundle.min.js"
     },
     {
       "type": "unknown",
@@ -294,7 +290,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/custom-icons/arrows--/font/arrows--.woff2?39029960"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/custom-icons/arrows--/font/arrows--.woff2"
     },
     {
       "type": "unknown",
@@ -302,86 +298,69 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/2022/04/BM_EM_VisionbyAG-273-1-768x512.jpg"
-    },
-    {
-      "type": "FontAwesome",
-      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-brands-400-5.8.2.woff2",
-      "details": {
-        "id": "FontAwesome",
-        "message": "Host fonts directly"
-      }
-    },
-    {
-      "type": "FontAwesome",
-      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-brands-400-5.0.0.woff2",
-      "details": {
-        "id": "FontAwesome",
-        "message": "Host fonts directly"
-      }
+      "url": "https://smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com/2624188/wp-content/uploads/2022/05/VisionbyAG-115-1024x683.jpg?lossy=1&strip=1&webp=1"
     },
     {
       "type": "unknown",
       "url": "https://client.axept.io/61ec63d1cdeb160d144ae9ef.json?r=0"
-    },
-    {
-      "type": "FontAwesome",
-      "url": "https://ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-solid-900-5.0.0.woff2",
-      "details": {
-        "id": "FontAwesome",
-        "message": "Host fonts directly"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/custom-icons/arrows--/font/arrows--.woff?39029960"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/custom-icons/arrows--/font/arrows--.ttf?39029960"
-    },
-    {
-      "type": "unknown",
-      "url": "https://axeptio.imgix.net/2020/09/persos_site_suite_05.png?auto=format&fit=crop&w=64&h=64&dpr=1"
     }
   ],
   "cookies": [
     {
-      "name": "SERVERID194310",
-      "value": "91d434b1|YncSr|YncSq",
+      "name": "axeptio_all_vendors",
+      "value": "%2C%2C",
       "domain": "avecvous.fr",
       "path": "/",
-      "expires": -1,
-      "size": 34,
-      "httpOnly": true,
-      "secure": false,
-      "session": true,
+      "expires": 1684112132,
+      "size": 25,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "axeptio_authorized_vendors",
+      "value": "%2C%2C",
+      "domain": "avecvous.fr",
+      "path": "/",
+      "expires": 1684112132,
+      "size": 32,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "axeptio_cookies",
+      "value": "{%22$$token%22:%227cn0j8vtd0trnpugtzqo8c%22%2C%22$$date%22:%222022-05-15T00:55:32.473Z%22%2C%22$$completed%22:false}",
+      "domain": "avecvous.fr",
+      "path": "/",
+      "expires": 1684112132,
+      "size": 131,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
       "sameParty": false,
       "sourceScheme": "Secure",
       "sourcePort": 443
     }
   ],
   "headers": {
-    "date": "Sun, 08 May 2022 00:45:26 GMT",
+    "date": "Sun, 15 May 2022 00:55:30 GMT",
     "content-type": "text/html; charset=UTF-8",
-    "vary": "Accept-Encoding",
+    "x-powered-by": "PHP/7.4",
     "link": "<https://avecvous.fr/>; rel=shortlink",
-    "x-server-id": "lrem-front-04",
-    "x-frame-options": "SAMEORIGIN",
-    "x-varnish": "12824974 4016855",
-    "age": "604",
-    "via": "1.1 varnish (Varnish/6.6)",
-    "x-cache": "HIT",
-    "x-cache-hits": "11",
-    "x-cache-varnishserver": "lrem-cache-01",
-    "x-iplb-request-id": "AC462233:EAEE_894A7FBF:01BB_627712A5_262CC2:AD10",
-    "x-iplb-instance": "43351",
-    "set-cookie": "SERVERID194310=91d434b1|YncSq|YncSq; path=/; HttpOnly",
-    "cache-control": "private",
+    "cache-control": "max-age=0",
+    "expires": "Sun, 15 May 2022 00:55:35 GMT",
+    "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "707e2c2c4c6b5962-IAD",
+    "cf-ray": "70b7e87a0c6d57dc-IAD",
     "content-encoding": "br"
   },
   "endpoints": [
@@ -396,13 +375,67 @@
       "geoip": null
     },
     {
+      "hostname": "staging.avecvous.fr",
+      "ip": "172.67.10.90",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.87.20",
+      "ip": "104.16.89.20",
       "geoip": null
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.63.97",
+      "ip": "142.251.16.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -516,13 +549,67 @@
       "geoip": null
     },
     {
+      "hostname": "smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com",
+      "ip": "151.139.243.13",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "ka-p.fontawesome.com",
-      "ip": "104.18.22.52",
+      "ip": "104.18.23.52",
       "geoip": null
     },
     {
       "hostname": "static.axept.io",
-      "ip": "18.67.39.6",
+      "ip": "18.67.39.24",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -576,7 +663,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "18.67.17.16",
+      "ip": "13.226.142.69",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -626,85 +713,6 @@
             "zh-CN": "美国"
           }
         }
-      }
-    },
-    {
-      "hostname": "axeptio.imgix.net",
-      "ip": "146.75.30.208",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.018,
-          "longitude": -77.539,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20147"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
       }
     }
   ]
