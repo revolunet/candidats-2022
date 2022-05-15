@@ -110,7 +110,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/oswald/v47/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYg.woff2",
+      "url": "https://fonts.gstatic.com/s/oswald/v48/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYg.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -118,7 +118,7 @@
     },
     {
       "type": "google fonts",
-      "url": "https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "url": "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2",
       "details": {
         "id": "google fonts",
         "message": "Host the font locally with https://github.com/neverpanic/google-font-download or https://google-webfonts-helper.herokuapp.com/"
@@ -149,16 +149,8 @@
       }
     },
     {
-      "type": "facebook",
-      "url": "https://connect.facebook.net/signals/config/1102115630176382?v=2.9.58&r=stable",
-      "details": {
-        "id": "facebook",
-        "message": "Dont embed facebook scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1666321543&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1500672079&gjid=204498540&cid=886528194.1651969753&tid=UA-64609674-1&_gid=328708207.1651969753&_r=1&gtm=2wg540P52GNT2&z=161773248",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&a=1815475984&t=pageview&_s=1&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&ul=en-us&de=UTF-8&dt=Anasse%20Kazib&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1143750097&gjid=1575178987&cid=720959647.1652575190&tid=UA-64609674-1&_gid=1318985867.1652575190&_r=1&gtm=2wg5b0P52GNT2&z=17690381",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -166,7 +158,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1651969752768&sw=800&sh=600&v=2.9.58&r=stable&ec=0&o=158&fbp=fb.1.1651969752765.1359087331&it=1651969752662&coo=false&rqm=GET",
+      "url": "https://connect.facebook.net/signals/config/1102115630176382?v=2.9.59&r=stable",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -174,15 +166,23 @@
     },
     {
       "type": "google analytics",
-      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=886528194.1651969753&jid=1500672079&gjid=204498540&_gid=328708207.1651969753&_u=YEBAAEAAAAAAAC~&z=973003225",
+      "url": "https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-64609674-1&cid=720959647.1652575190&jid=1143750097&gjid=1575178987&_gid=1318985867.1652575190&_u=YEBAAEAAAAAAAC~&z=1397962389",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=PageView&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1652575190555&sw=800&sh=600&v=2.9.59&r=stable&ec=0&o=158&fbp=fb.1.1652575190553.1816996930&it=1652575190475&coo=false&exp=p1&rqm=GET",
+      "details": {
+        "id": "facebook",
+        "message": "Dont embed facebook scripts, use your own tweet embed"
       }
     },
     {
       "type": "google",
-      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=886528194.1651969753&jid=1500672079&_u=YEBAAEAAAAAAAC~&z=1919544206",
+      "url": "https://www.google.com/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j96&tid=UA-64609674-1&cid=720959647.1652575190&jid=1143750097&_u=YEBAAEAAAAAAAC~&z=263368706",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -190,7 +190,7 @@
     },
     {
       "type": "facebook",
-      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1651969753276&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.58&r=stable&ec=1&o=158&fbp=fb.1.1651969752765.1359087331&it=1651969752662&coo=false&es=automatic&tm=3&rqm=GET",
+      "url": "https://www.facebook.com/tr/?id=1102115630176382&ev=Microdata&dl=https%3A%2F%2Fwww.anassekazib2022.fr%2F&rl=&if=false&ts=1652575191060&cd[DataLayer]=%5B%5D&cd[Meta]=%7B%22title%22%3A%22Anasse%20Kazib%22%2C%22meta%3Akeywords%22%3A%22Anasse%2C%20Kazib%2C%20Revolution%2C%20Permanente%2C%20Pr%C3%A9sidentielle%22%2C%22meta%3Adescription%22%3A%22Site%20officiel%20de%20Anasse%20Kazib%22%7D&cd[OpenGraph]=%7B%22og%3Asite_name%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Aurl%22%3A%22https%3A%2F%2Fwww.anassekazib2022.fr%2Findex.php%22%2C%22og%3Atype%22%3A%22website%22%2C%22og%3Atitle%22%3A%22Site%20officiel%20d%27Anasse%20Kazib%202022%22%2C%22og%3Adescription%22%3A%22Le%20candidat%20r%C3%A9volutionnaire%20des%20travailleurs%2C%20de%20la%20jeunesse%20et%20des%20quartiers%20populaires%22%2C%22og%3Aimage%22%3A%22http%3A%2F%2Fwww.anassekazib2022.fr%2Fimg%2Ffacebookpreview.jpg%22%2C%22og%3Alocale%22%3A%22fr_FR%22%7D&cd[Schema.org]=%5B%5D&cd[JSON-LD]=%5B%5D&sw=800&sh=600&v=2.9.59&r=stable&ec=1&o=158&fbp=fb.1.1652575190553.1816996930&it=1652575190475&coo=false&es=automatic&tm=3&exp=p1&rqm=GET",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -203,7 +203,7 @@
       "value": "1",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1651969812,
+      "expires": 1652575250,
       "size": 19,
       "httpOnly": false,
       "secure": false,
@@ -214,10 +214,10 @@
     },
     {
       "name": "_fbp",
-      "value": "fb.1.1651969752765.1359087331",
+      "value": "fb.1.1652575190553.1816996930",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1659745753,
+      "expires": 1660351190,
       "size": 33,
       "httpOnly": false,
       "secure": false,
@@ -228,11 +228,11 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.328708207.1651969753",
+      "value": "GA1.2.1318985867.1652575190",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1652056152,
-      "size": 30,
+      "expires": 1652661590,
+      "size": 31,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -242,10 +242,10 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.886528194.1651969753",
+      "value": "GA1.2.720959647.1652575190",
       "domain": ".anassekazib2022.fr",
       "path": "/",
-      "expires": 1715041752,
+      "expires": 1715647190,
       "size": 29,
       "httpOnly": false,
       "secure": false,
@@ -256,11 +256,10 @@
     }
   ],
   "headers": {
-    "date": "Sun, 08 May 2022 00:29:11 GMT",
+    "date": "Sun, 15 May 2022 00:39:49 GMT",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "x-powered-by": "PHP/7.4",
-    "accept-ranges": "none",
     "vary": "Accept-Encoding",
     "content-encoding": "gzip"
   },
@@ -328,7 +327,7 @@
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "172.217.164.106",
+      "ip": "172.253.62.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -451,7 +450,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "216.58.195.72",
+      "ip": "172.253.62.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -589,7 +588,7 @@
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.191.35",
+      "ip": "142.251.16.94",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -643,7 +642,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "172.217.164.110",
+      "ip": "172.253.115.113",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -697,19 +696,13 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.22.25",
+      "ip": "157.240.229.1",
       "geoip": {
         "city": {
-          "geoname_id": 5393015,
+          "geoname_id": 4744870,
           "names": {
-            "de": "Santa Clara",
-            "en": "Santa Clara",
-            "es": "Santa Clara",
-            "fr": "Santa Clara",
-            "ja": "サンタクララ",
-            "pt-BR": "Santa Clara",
-            "ru": "Санта-Клара",
-            "zh-CN": "圣克拉拉"
+            "en": "Ashburn",
+            "ru": "Ашберн"
           }
         },
         "continent": {
@@ -742,13 +735,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 37.353,
-          "longitude": -121.9543,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
         },
         "postal": {
-          "code": "95052"
+          "code": "20149"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -766,104 +759,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 6254928,
+            "iso_code": "VA",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "hostname": "www.facebook.com",
-      "ip": "157.240.22.35",
-      "geoip": {
-        "city": {
-          "geoname_id": 5393015,
-          "names": {
-            "de": "Santa Clara",
-            "en": "Santa Clara",
-            "es": "Santa Clara",
-            "fr": "Santa Clara",
-            "ja": "サンタクララ",
-            "pt-BR": "Santa Clara",
-            "ru": "Санта-Клара",
-            "zh-CN": "圣克拉拉"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 37.353,
-          "longitude": -121.9543,
-          "metro_code": 807,
-          "time_zone": "America/Los_Angeles"
-        },
-        "postal": {
-          "code": "95052"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
-            "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
             }
           }
         ]
@@ -871,7 +775,7 @@
     },
     {
       "hostname": "stats.g.doubleclick.net",
-      "ip": "142.250.142.154",
+      "ip": "172.253.115.157",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -924,8 +828,87 @@
       }
     },
     {
+      "hostname": "www.facebook.com",
+      "ip": "157.240.229.35",
+      "geoip": {
+        "city": {
+          "geoname_id": 4744870,
+          "names": {
+            "en": "Ashburn",
+            "ru": "Ашберн"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 39.0469,
+          "longitude": -77.4903,
+          "metro_code": 511,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "20149"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 6254928,
+            "iso_code": "VA",
+            "names": {
+              "en": "Virginia",
+              "fr": "Virginie",
+              "ja": "バージニア州",
+              "pt-BR": "Virgínia",
+              "ru": "Вирджиния",
+              "zh-CN": "弗吉尼亚州"
+            }
+          }
+        ]
+      }
+    },
+    {
       "hostname": "www.google.com",
-      "ip": "142.250.191.36",
+      "ip": "172.253.115.99",
       "geoip": {
         "continent": {
           "code": "NA",
