@@ -213,7 +213,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "supported"
+              "finding"      : "not supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
@@ -353,7 +353,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "331 >= 60 days"
+              "finding"      : "324 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,21 +514,21 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+53 seconds from localtime"
+              "finding"      : "+23 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651970915"
+              "finding"      : "1652576344"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "53 seconds"
+              "finding"      : "23 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -612,7 +612,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app11"
+              "finding"      : "app12"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -750,7 +750,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=23CF4AA50D1E9659E372BB4E7F70129EE92154766245004D13CE2F298ED0316B"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=23CF4AA50D1E9659E372BB4E7F70129EE92154766245004D13CE2F298ED0316B"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -1349,14 +1349,14 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -3 seconds from your localtime"
+              "finding"      : "off by -4 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -1489,7 +1489,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "331 >= 60 days"
+              "finding"      : "324 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1650,21 +1650,21 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+44 seconds from localtime"
+              "finding"      : "+21 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651970983"
+              "finding"      : "1652576424"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "44 seconds"
+              "finding"      : "21 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1748,7 +1748,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app10"
+              "finding"      : "app14"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1886,7 +1886,7 @@
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=23CF4AA50D1E9659E372BB4E7F70129EE92154766245004D13CE2F298ED0316B"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=23CF4AA50D1E9659E372BB4E7F70129EE92154766245004D13CE2F298ED0316B"
           }
 ,         {
               "id"           : "LOGJAM",
@@ -2276,6 +2276,6 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "142"
+              "finding"      : "166"
           }
 ]
