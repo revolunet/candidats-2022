@@ -1,77 +1,77 @@
 [
          {
               "id"           : "service",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "HTTP"
           }
 ,         {
               "id"           : "pre_128cipher",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No 128 cipher limit bug"
           }
 ,         {
               "id"           : "SSLv2",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "SSLv3",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "TLS1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "offered (deprecated)"
           }
 ,         {
               "id"           : "TLS1_1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "offered (deprecated)"
           }
 ,         {
               "id"           : "TLS1_2",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "TLS1_3",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "not offered + downgraded to weaker protocol"
           }
 ,         {
               "id"           : "ALPN_HTTP2",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "h2"
           }
 ,         {
               "id"           : "ALPN",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http/1.1"
           }
 ,         {
               "id"           : "cipherlist_NULL",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -79,7 +79,7 @@
           }
 ,         {
               "id"           : "cipherlist_aNULL",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -87,7 +87,7 @@
           }
 ,         {
               "id"           : "cipherlist_EXPORT",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -95,7 +95,7 @@
           }
 ,         {
               "id"           : "cipherlist_LOW",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -103,7 +103,7 @@
           }
 ,         {
               "id"           : "cipherlist_3DES_IDEA",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-310",
@@ -111,7 +111,7 @@
           }
 ,         {
               "id"           : "cipherlist_AVERAGE",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "cwe"          : "CWE-310",
@@ -119,546 +119,546 @@
           }
 ,         {
               "id"           : "cipherlist_GOOD",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "cipherlist_STRONG",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "cipherorder_TLSv1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipherorder_TLSv1_1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipherorder_TLSv1_2",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "cipher_order",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "server"
           }
 ,         {
               "id"           : "protocol_negotiated",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "Default protocol TLS1.2"
           }
 ,         {
               "id"           : "cipher_negotiated",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256, 256 bit ECDH (P-256)"
           }
 ,         {
               "id"           : "FS",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "FS_ciphers",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA"
           }
 ,         {
               "id"           : "FS_ECDHE_curves",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "sect283k1 sect283r1 sect409k1 sect409r1 sect571k1 sect571r1 secp256k1 prime256v1 secp384r1 secp521r1 brainpoolP256r1 brainpoolP384r1 brainpoolP512r1"
           }
 ,         {
               "id"           : "TLS_extensions",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'application layer protocol negotiation/#16'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "valid for 43200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "yes"
           }
 ,         {
               "id"           : "sessionresumption_ticket",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "random"
           }
 ,         {
               "id"           : "cert_compression",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "N/A"
           }
 ,         {
               "id"           : "clientAuth",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "none"
           }
 ,         {
               "id"           : "cert_numbers",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "1"
           }
 ,         {
               "id"           : "cert_signatureAlgorithm",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "SHA256 with RSA"
           }
 ,         {
               "id"           : "cert_keySize",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "RSA 2048 bits (exponent is 65537)"
           }
 ,         {
               "id"           : "cert_keyUsage",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Digital Signature, Key Encipherment"
           }
 ,         {
               "id"           : "cert_extKeyUsage",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
           }
 ,         {
               "id"           : "cert_serialNumber",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "081849C73D91FE7D903E3B4BC4DCBEF8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "16"
           }
 ,         {
               "id"           : "cert_fingerprintSHA1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "A31FDFE6B097AB0E91EA7D219B67CF99E97ADCD1"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
           }
 ,         {
               "id"           : "cert",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIF2DCCBMCgAwIBAgIQCBhJxz2R/n2QPjtLxNy++DANBgkqhkiG9w0BAQsFADBG MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0yMjAyMDIwMDAwMDBaFw0yMzAzMDMy MzU5NTlaMBsxGTAXBgNVBAMMECouemVtbW91cjIwMjIuZnIwggEiMA0GCSqGSIb3 DQEBAQUAA4IBDwAwggEKAoIBAQCpGtOT/El709bqFPvbhOoJBpJDFlbE2HiSacr0 sIC0B6T1lw2/UI2c82ZjQFt0997rIX1GntDONpWc1H19SAOP7fs2aoOKUNLaHX1q 3Qslp6+feh4etzc219LnoZ3UpnvQ00j6dGF2PhLYwIwfXbnty3XGzf43S0tNG8Sa +lJg5P+QX71qbsg0uz8vA6mZJIhl1SFGIG3UMmndTZQTpeKjMkxnypRDFIhrg2Ob mh6ixbIC+kjjZV9HtWMSTfALu+Tb2fTHRKt5RUonsjSVXG68hHKkpseO9zudpZLa yN1wjXg1Cq6a+x/8Ztbgr3MCef1Pue6kt9aAFaPlWjgXNJgpAgMBAAGjggLrMIIC 5zAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUgyY2 RAn2nOBqLU2UP8mMur4Fx/cwGwYDVR0RBBQwEoIQKi56ZW1tb3VyMjAyMi5mcjAO BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMD0G A1UdHwQ2MDQwMqAwoC6GLGh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29t L3NjYTFiLTEuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMHUGCCsGAQUFBwEBBGkw ZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9udHJ1c3QuY29t MDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0LmNvbS9z Y2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFo AHYA6D7Q2j71BjUy51covIlryQPTy9ERa+zraeF3fW0GvW4AAAF+ugnj8QAABAMA RzBFAiEAit/6icQeCKFhXh1iFK5BsSO9B8lsStzR2n6lD3Cl/FACIHwh+jKDd9uu yTPEfh1ZNn4VOt0KnnWcOXU55hIZu5QjAHYANc8ZG7+xbFe/D61MbULLu7YnICZR 6j/hKu+oA8M71kwAAAF+ugnkKwAABAMARzBFAiEA1RnEG5tde4zyLQ6L9CqzE/1Z WvyBghW+zZBAdeRBdkoCIEt5j8Ni+rLCFQoE8ohv9uPohq7IQjREbubGNhf0YwYN AHYAs3N3B+GEUPhjhtYFqdwRCUp5LbFnDAuH3PADDnk2pZoAAAF+ugnkVgAABAMA RzBFAiAry7y9/Y7/57qz7YQeUVvt3zxuvGVvgCBCLB0fgTi5UQIhANg7HOyWkDyp rC/MZz2KzKNBqOgpqc9R+aiR+DNFptgyMA0GCSqGSIb3DQEBCwUAA4IBAQBdUOF5 PlsGK0YBbmp23AB7r+ltcg4bcJ/zgYm89gydRvOlLZRT5rhdoRMmfzvsMEWKRGWR 7eWDWJAyWKKkKKWc+u6libq5aE1eWBwdG84XhWjjWYbjHTlSQMFM6GI+mp5eQxok Zy8lPuAxuW1Wk8nOuhq6J06x8fBg8IK3Z2y9YYHMup2V4b0o9z+BXGWRgaTfJ3bN iHrPi3FPpXFZ1Zk9kY5fLtqT/Df8rwm9i8hs1AGCyP/ysIyTMA5aafi9IsbP3RUR WkXETKNwCzo5R5xwnqWH/pi3HULZP8l11cZTtl2A1ZPyqxjQK/5PELim9XLuRLRJ QwQkcsQ8xRGebXXQ -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_commonName_wo_SNI",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_subjectAltName",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_trust",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "Ok via SAN wildcard and CN wildcard (same w/o SNI)"
           }
 ,         {
               "id"           : "cert_chain_of_trust",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "passed."
           }
 ,         {
               "id"           : "cert_certificatePolicies_EV",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "no"
           }
 ,         {
               "id"           : "cert_expirationStatus",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "299 >= 60 days"
+              "finding"      : "292 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2022-02-02 00:00"
           }
 ,         {
               "id"           : "cert_notAfter",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2023-03-03 23:59"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "certificate has no extended life time according to browser forum"
           }
 ,         {
               "id"           : "cert_eTLS",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "not present"
           }
 ,         {
               "id"           : "cert_crlDistributionPoints",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http://crl.sca1b.amazontrust.com/sca1b-1.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http://ocsp.sca1b.amazontrust.com"
           }
 ,         {
               "id"           : "OCSP_stapling",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "--"
           }
 ,         {
               "id"           : "DNS_CAArecord",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "--"
           }
 ,         {
               "id"           : "certificate_transparency",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "yes (certificate extension)"
           }
 ,         {
               "id"           : "certs_countServer",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "4"
           }
 ,         {
               "id"           : "certs_list_ordering_problem",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "no"
           }
 ,         {
               "id"           : "cert_caIssuers",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon (Amazon from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIESTCCAzGgAwIBAgITBn+UV4WH6Kx33rJTMlu8mYtWDTANBgkqhkiG9w0BAQsF ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6 b24gUm9vdCBDQSAxMB4XDTE1MTAyMjAwMDAwMFoXDTI1MTAxOTAwMDAwMFowRjEL MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEVMBMGA1UECxMMU2VydmVyIENB IDFCMQ8wDQYDVQQDEwZBbWF6b24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQDCThZn3c68asg3Wuw6MLAd5tES6BIoSMzoKcG5blPVo+sDORrMd4f2AbnZ cMzPa43j4wNxhplty6aUKk4T1qe9BOwKFjwK6zmxxLVYo7bHViXsPlJ6qOMpFge5 blDP+18x+B26A0piiQOuPkfyDyeR4xQghfj66Yo19V+emU3nazfvpFA+ROz6WoVm B5x+F2pV8xeKNR7u6azDdU5YVX1TawprmxRC1+WsAYmz6qP+z8ArDITC2FMVy2fw 0IjKOtEXc/VfmtTFch5+AfGYMGMqqvJ6LcXiAhqG5TI+Dr0RtM88k+8XUBCeQ8IG KuANaL7TiItKZYxK1MMuTJtV9IblAgMBAAGjggE7MIIBNzASBgNVHRMBAf8ECDAG AQH/AgEAMA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUWaRmBlKge5WSPKOUByeW dFv5PdAwHwYDVR0jBBgwFoAUhBjMhTTsvAyUlC4IWZzHshBOCggwewYIKwYBBQUH AQEEbzBtMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5yb290Y2ExLmFtYXpvbnRy dXN0LmNvbTA6BggrBgEFBQcwAoYuaHR0cDovL2NydC5yb290Y2ExLmFtYXpvbnRy dXN0LmNvbS9yb290Y2ExLmNlcjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3Js LnJvb3RjYTEuYW1hem9udHJ1c3QuY29tL3Jvb3RjYTEuY3JsMBMGA1UdIAQMMAow CAYGZ4EMAQIBMA0GCSqGSIb3DQEBCwUAA4IBAQCFkr41u3nPo4FCHOTjY3NTOVI1 59Gt/a6ZiqyJEi+752+a1U5y6iAwYfmXss2lJwJFqMp2PphKg5625kXg8kP2CN5t 6G7bMQcT8C8xDZNtYTd7WPD8UZiRKAJPBXa30/AbwuZe0GaFEQ8ugcYQgSn+IGBI 8/LwhBNTZTUVEWuCUUBVV18YtbAiPq3yXqMB48Oz+ctBWuZSkbvkNodPLamkB2g1 upRyzQ7qDn1X8nn8N8V7YJ6y68AtkHcNSRAnpTitxBKjtKPISLMVCx7i4hncxHZS yLyKQXhw2W2Xs0qLeC1etA+jTGDK4UfLeC0SF7FSi8o5LL21L8IzApar2pR/ -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "F55F9FFCB83C73453261601C7E044DB15A0F034B93C05830F28635EF889CF670"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2015-10-22 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#1>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2025-10-19 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#1>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#1>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon <-- Amazon Root CA 1"
           }
 ,         {
               "id"           : "intermediate_cert <#2>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIEkjCCA3qgAwIBAgITBn+USionzfP6wq4rAfkI7rnExjANBgkqhkiG9w0BAQsF ADCBmDELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNj b3R0c2RhbGUxJTAjBgNVBAoTHFN0YXJmaWVsZCBUZWNobm9sb2dpZXMsIEluYy4x OzA5BgNVBAMTMlN0YXJmaWVsZCBTZXJ2aWNlcyBSb290IENlcnRpZmljYXRlIEF1 dGhvcml0eSAtIEcyMB4XDTE1MDUyNTEyMDAwMFoXDTM3MTIzMTAxMDAwMFowOTEL MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv b3QgQ0EgMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALJ4gHHKeNXj ca9HgFB0fW7Y14h29Jlo91ghYPl0hAEvrAIthtOgQ3pOsqTQNroBvo3bSMgHFzZM 9O6II8c+6zf1tRn4SWiw3te5djgdYZ6k/oI2peVKVuRF4fn9tBb6dNqcmzU5L/qw IFAGbHrQgLKm+a/sRxmPUDgH3KKHOVj4utWp+UhnMJbulHheb4mjUcAwhmahRWa6 VOujw5H5SNz/0egwLX0tdHA114gk957EWW67c4cX8jJGKLhD+rcdqsq08p8kDi1L 93FcXmn/6pUCyziKrlA4b9v7LWIbxcceVOF34GfID5yHI9Y/QCB/IIDEgEw+OyQm jgSubJrIqg0CAwEAAaOCATEwggEtMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/ BAQDAgGGMB0GA1UdDgQWBBSEGMyFNOy8DJSULghZnMeyEE4KCDAfBgNVHSMEGDAW gBScXwDfqgHXMCs4iKK4bUqc8hGRgzB4BggrBgEFBQcBAQRsMGowLgYIKwYBBQUH MAGGImh0dHA6Ly9vY3NwLnJvb3RnMi5hbWF6b250cnVzdC5jb20wOAYIKwYBBQUH MAKGLGh0dHA6Ly9jcnQucm9vdGcyLmFtYXpvbnRydXN0LmNvbS9yb290ZzIuY2Vy MD0GA1UdHwQ2MDQwMqAwoC6GLGh0dHA6Ly9jcmwucm9vdGcyLmFtYXpvbnRydXN0 LmNvbS9yb290ZzIuY3JsMBEGA1UdIAQKMAgwBgYEVR0gADANBgkqhkiG9w0BAQsF AAOCAQEAYjdCXLwQtT6LLOkMm2xF4gcAevnFWAu5CIw+7bMlPLVvUOTNNWqnkzSW MiGpSESrnO09tKpzbeR/FoCJbM8oAxiDR3mjEH4wW6w7sGDgd9QIpuEdfF7Au/ma eyKdpwAJfqxGF4PcnCZXmTA5YpaP7dreqsXMGz7KQ2hsVxa81Q4gLv7/wmpdLqBK bRRYh5TmOTFffHPLkIhqhBGWJ6bt2YFGpn6jcgAKUj6DiAdjd4lpFw85hdKrCEVN 0FE6/V1dN2RMfjCyVSRCnTawXZwXgWHxyvkQAiSr6w10kY17RSlQOYiypok1JR4U akcjMS9cmvqtmg5iUaQqqcT5NJ0hGA== -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#2>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "87DCD4DC74640A322CD205552506D1BE64F12596258096544986B4850BC72706"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#2>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2015-05-25 12:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#2>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2037-12-31 01:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#2>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#2>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon Root CA 1 <-- Starfield Services Root Certificate Authority - G2"
           }
 ,         {
               "id"           : "intermediate_cert <#3>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIEdTCCA12gAwIBAgIJAKcOSkw0grd/MA0GCSqGSIb3DQEBCwUAMGgxCzAJBgNV BAYTAlVTMSUwIwYDVQQKExxTdGFyZmllbGQgVGVjaG5vbG9naWVzLCBJbmMuMTIw MAYDVQQLEylTdGFyZmllbGQgQ2xhc3MgMiBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0 eTAeFw0wOTA5MDIwMDAwMDBaFw0zNDA2MjgxNzM5MTZaMIGYMQswCQYDVQQGEwJV UzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTElMCMGA1UE ChMcU3RhcmZpZWxkIFRlY2hub2xvZ2llcywgSW5jLjE7MDkGA1UEAxMyU3RhcmZp ZWxkIFNlcnZpY2VzIFJvb3QgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwggEi MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDVDDrEKvlO4vW+GZdfjohTsR8/ y8+fIBNtKTrID30892t2OGPZNmCom15cAICyL1l/9of5JUOG52kbUpqQ4XHj2C0N Tm/2yEnZtvMaVq4rtnQU68/7JuMauh2WLmo7WJSJR1b/JaCTcFOD2oR0FMNnngRo Ot+OQFodSk7PQ5E751bWAHDLUu57fa4657wx+UX2wmDPE1kCK4DMNEffud6QZW0C zyyRpqbn3oUYSXxmTqM6bam17jQuug0DuDPfR+uxa40l2ZvOgdFFRjKWcIfeAg5J Q4W2bHO7ZOphQazJ1FTfhy/HIrImzJ9ZVGif/L4qL8RVHHVAYBeFAlU5i38FAgMB AAGjgfAwge0wDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0O BBYEFJxfAN+qAdcwKziIorhtSpzyEZGDMB8GA1UdIwQYMBaAFL9ft9HO3R+G9FtV rNzXEMIOqYjnME8GCCsGAQUFBwEBBEMwQTAcBggrBgEFBQcwAYYQaHR0cDovL28u c3MyLnVzLzAhBggrBgEFBQcwAoYVaHR0cDovL3guc3MyLnVzL3guY2VyMCYGA1Ud HwQfMB0wG6AZoBeGFWh0dHA6Ly9zLnNzMi51cy9yLmNybDARBgNVHSAECjAIMAYG BFUdIAAwDQYJKoZIhvcNAQELBQADggEBACMd44pXyn3pF3lM8R5V/cxTbj5HD9/G VfKyBDbtgB9TxF00KGu+x1X8Z+rLP3+QsjPNG1gQggL4+C/1E2DUBc7xgQjB3ad1 l08YuW3e95ORCLp+QCztweq7dp4zBncdDQh/U90bZKuCJ/Fp1U1ervShw3WnWEQt 8jxwmKy6abaVd38PMV4s/KCHOkdp8Hlf9BRUpJVeEXgSYCfOn8J3/yNTd126/+pZ 59vPr5KW7ySaNRB6nJHGDn2Z9j8Z3/VyVOEVqQdZe4O/Ui5GjLIAZHYcSNPYeehu VsyuLAOQ1xk4meTKCRlb/weWsKh/NEnfVqn3sF/tM+2MR7cwA130A4w= -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#3>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "28689B30E4C306AAB53B027B29E36AD6DD1DCF4B953994482CA84BDC1ECAC996"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#3>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2009-09-02 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#3>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2034-06-28 17:39"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#3>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#3>",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Starfield Services Root Certificate Authority - G2 <--"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "intermediate certificate(s) is/are ok"
           }
 ,         {
               "id"           : "HTTP_status_code",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "301 Moved Permanently ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651970197"
+              "finding"      : "1652575607"
           }
 ,         {
               "id"           : "HSTS",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "HPKP",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No support for HTTP Public Key Pinning"
           }
 ,         {
               "id"           : "banner_server",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "awselb/2.0"
           }
 ,         {
               "id"           : "banner_application",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No application banner found"
           }
 ,         {
               "id"           : "cookie_count",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
           }
 ,         {
               "id"           : "security_headers",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "finding"      : "--"
           }
 ,         {
               "id"           : "banner_reverseproxy",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-200",
@@ -666,7 +666,7 @@
           }
 ,         {
               "id"           : "heartbleed",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-0160",
@@ -675,7 +675,7 @@
           }
 ,         {
               "id"           : "CCS",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-0224",
@@ -684,7 +684,7 @@
           }
 ,         {
               "id"           : "ticketbleed",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-9244",
@@ -693,7 +693,7 @@
           }
 ,         {
               "id"           : "ROBOT",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
@@ -702,7 +702,7 @@
           }
 ,         {
               "id"           : "secure_renego",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-310",
@@ -710,7 +710,7 @@
           }
 ,         {
               "id"           : "secure_client_renego",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2011-1473",
@@ -719,7 +719,7 @@
           }
 ,         {
               "id"           : "CRIME_TLS",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2012-4929",
@@ -728,7 +728,7 @@
           }
 ,         {
               "id"           : "BREACH",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2013-3587",
@@ -737,7 +737,7 @@
           }
 ,         {
               "id"           : "POODLE_SSL",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-3566",
@@ -746,14 +746,14 @@
           }
 ,         {
               "id"           : "fallback_SCSV",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "SWEET32",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-2183 CVE-2016-6329",
@@ -762,7 +762,7 @@
           }
 ,         {
               "id"           : "FREAK",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-0204",
@@ -771,7 +771,7 @@
           }
 ,         {
               "id"           : "DROWN",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
@@ -780,16 +780,16 @@
           }
 ,         {
               "id"           : "DROWN_hint",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
           }
 ,         {
               "id"           : "LOGJAM",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-4000",
@@ -798,7 +798,7 @@
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-4000",
@@ -807,7 +807,7 @@
           }
 ,         {
               "id"           : "BEAST_CBC_TLS1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2011-3389",
@@ -816,7 +816,7 @@
           }
 ,         {
               "id"           : "BEAST",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "cve"          : "CVE-2011-3389",
@@ -825,7 +825,7 @@
           }
 ,         {
               "id"           : "LUCKY13",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "LOW",
               "cve"          : "CVE-2013-0169",
@@ -834,7 +834,7 @@
           }
 ,         {
               "id"           : "winshock",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-6321",
@@ -843,7 +843,7 @@
           }
 ,         {
               "id"           : "RC4",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2013-2566 CVE-2015-2808",
@@ -852,420 +852,420 @@
           }
 ,         {
               "id"           : "clientsimulation-android_442",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_500",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_60",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_70",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_81",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_90",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_X",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-chrome_74_win10",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-chrome_79_win10",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-firefox_66_win81",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-firefox_71_win10",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_6_xp",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No connection"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_win7",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_xp",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No connection"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win7",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win81",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_winphone81",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win10",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_15_win10",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_17_win10",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-opera_66_win10",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_9_ios9",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_9_osx1011",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_10_osx1012",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_121_ios_122",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_130_osx_10146",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-apple_ats_9_ios9",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java_6u45",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_7u25",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_8u161",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1102",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1201",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_110l",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_111d",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-thunderbird_68_3_1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "rating_spec",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
           }
 ,         {
               "id"           : "rating_doc",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
           }
 ,         {
               "id"           : "protocol_support_score",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "95"
           }
 ,         {
               "id"           : "protocol_support_score_weighted",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "28"
           }
 ,         {
               "id"           : "key_exchange_score",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "90"
           }
 ,         {
               "id"           : "key_exchange_score_weighted",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "27"
           }
 ,         {
               "id"           : "cipher_strength_score",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "60"
           }
 ,         {
               "id"           : "cipher_strength_score_weighted",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "24"
           }
 ,         {
               "id"           : "final_score",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "79"
           }
 ,         {
               "id"           : "overall_grade",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "finding"      : "B"
           }
 ,         {
               "id"           : "grade_cap_reason_1",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to B. TLS 1.1 offered"
           }
 ,         {
               "id"           : "grade_cap_reason_2",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to B. TLS 1.0 offered"
           }
 ,         {
               "id"           : "grade_cap_reason_3",
-              "ip"           : "www.zemmour2022.fr/52.31.105.168",
+              "ip"           : "www.zemmour2022.fr/18.201.5.66",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to A. HSTS is not offered"
           }
 ,         {
               "id"           : "service",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "HTTP"
           }
 ,         {
               "id"           : "pre_128cipher",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No 128 cipher limit bug"
           }
 ,         {
               "id"           : "SSLv2",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "SSLv3",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "TLS1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "offered (deprecated)"
           }
 ,         {
               "id"           : "TLS1_1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "offered (deprecated)"
           }
 ,         {
               "id"           : "TLS1_2",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "TLS1_3",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "not offered + downgraded to weaker protocol"
           }
 ,         {
               "id"           : "ALPN_HTTP2",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "h2"
           }
 ,         {
               "id"           : "ALPN",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http/1.1"
           }
 ,         {
               "id"           : "cipherlist_NULL",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -1273,7 +1273,7 @@
           }
 ,         {
               "id"           : "cipherlist_aNULL",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -1281,7 +1281,7 @@
           }
 ,         {
               "id"           : "cipherlist_EXPORT",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -1289,7 +1289,7 @@
           }
 ,         {
               "id"           : "cipherlist_LOW",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -1297,7 +1297,7 @@
           }
 ,         {
               "id"           : "cipherlist_3DES_IDEA",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-310",
@@ -1305,7 +1305,7 @@
           }
 ,         {
               "id"           : "cipherlist_AVERAGE",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "cwe"          : "CWE-310",
@@ -1313,546 +1313,546 @@
           }
 ,         {
               "id"           : "cipherlist_GOOD",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "cipherlist_STRONG",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "cipherorder_TLSv1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipherorder_TLSv1_1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipherorder_TLSv1_2",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "cipher_order",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "server"
           }
 ,         {
               "id"           : "protocol_negotiated",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "Default protocol TLS1.2"
           }
 ,         {
               "id"           : "cipher_negotiated",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256, 256 bit ECDH (P-256)"
           }
 ,         {
               "id"           : "FS",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "FS_ciphers",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA"
           }
 ,         {
               "id"           : "FS_ECDHE_curves",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "sect283k1 sect283r1 sect409k1 sect409r1 sect571k1 sect571r1 secp256k1 prime256v1 secp384r1 secp521r1 brainpoolP256r1 brainpoolP384r1 brainpoolP512r1"
           }
 ,         {
               "id"           : "TLS_extensions",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'application layer protocol negotiation/#16'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "valid for 43200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "yes"
           }
 ,         {
               "id"           : "sessionresumption_ticket",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "random"
           }
 ,         {
               "id"           : "cert_compression",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "N/A"
           }
 ,         {
               "id"           : "clientAuth",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "none"
           }
 ,         {
               "id"           : "cert_numbers",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "1"
           }
 ,         {
               "id"           : "cert_signatureAlgorithm",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "SHA256 with RSA"
           }
 ,         {
               "id"           : "cert_keySize",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "RSA 2048 bits (exponent is 65537)"
           }
 ,         {
               "id"           : "cert_keyUsage",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Digital Signature, Key Encipherment"
           }
 ,         {
               "id"           : "cert_extKeyUsage",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
           }
 ,         {
               "id"           : "cert_serialNumber",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "081849C73D91FE7D903E3B4BC4DCBEF8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "16"
           }
 ,         {
               "id"           : "cert_fingerprintSHA1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "A31FDFE6B097AB0E91EA7D219B67CF99E97ADCD1"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
           }
 ,         {
               "id"           : "cert",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIF2DCCBMCgAwIBAgIQCBhJxz2R/n2QPjtLxNy++DANBgkqhkiG9w0BAQsFADBG MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0yMjAyMDIwMDAwMDBaFw0yMzAzMDMy MzU5NTlaMBsxGTAXBgNVBAMMECouemVtbW91cjIwMjIuZnIwggEiMA0GCSqGSIb3 DQEBAQUAA4IBDwAwggEKAoIBAQCpGtOT/El709bqFPvbhOoJBpJDFlbE2HiSacr0 sIC0B6T1lw2/UI2c82ZjQFt0997rIX1GntDONpWc1H19SAOP7fs2aoOKUNLaHX1q 3Qslp6+feh4etzc219LnoZ3UpnvQ00j6dGF2PhLYwIwfXbnty3XGzf43S0tNG8Sa +lJg5P+QX71qbsg0uz8vA6mZJIhl1SFGIG3UMmndTZQTpeKjMkxnypRDFIhrg2Ob mh6ixbIC+kjjZV9HtWMSTfALu+Tb2fTHRKt5RUonsjSVXG68hHKkpseO9zudpZLa yN1wjXg1Cq6a+x/8Ztbgr3MCef1Pue6kt9aAFaPlWjgXNJgpAgMBAAGjggLrMIIC 5zAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUgyY2 RAn2nOBqLU2UP8mMur4Fx/cwGwYDVR0RBBQwEoIQKi56ZW1tb3VyMjAyMi5mcjAO BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMD0G A1UdHwQ2MDQwMqAwoC6GLGh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29t L3NjYTFiLTEuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMHUGCCsGAQUFBwEBBGkw ZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9udHJ1c3QuY29t MDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0LmNvbS9z Y2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFo AHYA6D7Q2j71BjUy51covIlryQPTy9ERa+zraeF3fW0GvW4AAAF+ugnj8QAABAMA RzBFAiEAit/6icQeCKFhXh1iFK5BsSO9B8lsStzR2n6lD3Cl/FACIHwh+jKDd9uu yTPEfh1ZNn4VOt0KnnWcOXU55hIZu5QjAHYANc8ZG7+xbFe/D61MbULLu7YnICZR 6j/hKu+oA8M71kwAAAF+ugnkKwAABAMARzBFAiEA1RnEG5tde4zyLQ6L9CqzE/1Z WvyBghW+zZBAdeRBdkoCIEt5j8Ni+rLCFQoE8ohv9uPohq7IQjREbubGNhf0YwYN AHYAs3N3B+GEUPhjhtYFqdwRCUp5LbFnDAuH3PADDnk2pZoAAAF+ugnkVgAABAMA RzBFAiAry7y9/Y7/57qz7YQeUVvt3zxuvGVvgCBCLB0fgTi5UQIhANg7HOyWkDyp rC/MZz2KzKNBqOgpqc9R+aiR+DNFptgyMA0GCSqGSIb3DQEBCwUAA4IBAQBdUOF5 PlsGK0YBbmp23AB7r+ltcg4bcJ/zgYm89gydRvOlLZRT5rhdoRMmfzvsMEWKRGWR 7eWDWJAyWKKkKKWc+u6libq5aE1eWBwdG84XhWjjWYbjHTlSQMFM6GI+mp5eQxok Zy8lPuAxuW1Wk8nOuhq6J06x8fBg8IK3Z2y9YYHMup2V4b0o9z+BXGWRgaTfJ3bN iHrPi3FPpXFZ1Zk9kY5fLtqT/Df8rwm9i8hs1AGCyP/ysIyTMA5aafi9IsbP3RUR WkXETKNwCzo5R5xwnqWH/pi3HULZP8l11cZTtl2A1ZPyqxjQK/5PELim9XLuRLRJ QwQkcsQ8xRGebXXQ -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_commonName_wo_SNI",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_subjectAltName",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_trust",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "Ok via SAN wildcard and CN wildcard (same w/o SNI)"
           }
 ,         {
               "id"           : "cert_chain_of_trust",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "passed."
           }
 ,         {
               "id"           : "cert_certificatePolicies_EV",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "no"
           }
 ,         {
               "id"           : "cert_expirationStatus",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "299 >= 60 days"
+              "finding"      : "292 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2022-02-02 00:00"
           }
 ,         {
               "id"           : "cert_notAfter",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2023-03-03 23:59"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "certificate has no extended life time according to browser forum"
           }
 ,         {
               "id"           : "cert_eTLS",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "not present"
           }
 ,         {
               "id"           : "cert_crlDistributionPoints",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http://crl.sca1b.amazontrust.com/sca1b-1.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http://ocsp.sca1b.amazontrust.com"
           }
 ,         {
               "id"           : "OCSP_stapling",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "--"
           }
 ,         {
               "id"           : "DNS_CAArecord",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "--"
           }
 ,         {
               "id"           : "certificate_transparency",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "yes (certificate extension)"
           }
 ,         {
               "id"           : "certs_countServer",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "4"
           }
 ,         {
               "id"           : "certs_list_ordering_problem",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "no"
           }
 ,         {
               "id"           : "cert_caIssuers",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon (Amazon from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIESTCCAzGgAwIBAgITBn+UV4WH6Kx33rJTMlu8mYtWDTANBgkqhkiG9w0BAQsF ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6 b24gUm9vdCBDQSAxMB4XDTE1MTAyMjAwMDAwMFoXDTI1MTAxOTAwMDAwMFowRjEL MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEVMBMGA1UECxMMU2VydmVyIENB IDFCMQ8wDQYDVQQDEwZBbWF6b24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQDCThZn3c68asg3Wuw6MLAd5tES6BIoSMzoKcG5blPVo+sDORrMd4f2AbnZ cMzPa43j4wNxhplty6aUKk4T1qe9BOwKFjwK6zmxxLVYo7bHViXsPlJ6qOMpFge5 blDP+18x+B26A0piiQOuPkfyDyeR4xQghfj66Yo19V+emU3nazfvpFA+ROz6WoVm B5x+F2pV8xeKNR7u6azDdU5YVX1TawprmxRC1+WsAYmz6qP+z8ArDITC2FMVy2fw 0IjKOtEXc/VfmtTFch5+AfGYMGMqqvJ6LcXiAhqG5TI+Dr0RtM88k+8XUBCeQ8IG KuANaL7TiItKZYxK1MMuTJtV9IblAgMBAAGjggE7MIIBNzASBgNVHRMBAf8ECDAG AQH/AgEAMA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUWaRmBlKge5WSPKOUByeW dFv5PdAwHwYDVR0jBBgwFoAUhBjMhTTsvAyUlC4IWZzHshBOCggwewYIKwYBBQUH AQEEbzBtMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5yb290Y2ExLmFtYXpvbnRy dXN0LmNvbTA6BggrBgEFBQcwAoYuaHR0cDovL2NydC5yb290Y2ExLmFtYXpvbnRy dXN0LmNvbS9yb290Y2ExLmNlcjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3Js LnJvb3RjYTEuYW1hem9udHJ1c3QuY29tL3Jvb3RjYTEuY3JsMBMGA1UdIAQMMAow CAYGZ4EMAQIBMA0GCSqGSIb3DQEBCwUAA4IBAQCFkr41u3nPo4FCHOTjY3NTOVI1 59Gt/a6ZiqyJEi+752+a1U5y6iAwYfmXss2lJwJFqMp2PphKg5625kXg8kP2CN5t 6G7bMQcT8C8xDZNtYTd7WPD8UZiRKAJPBXa30/AbwuZe0GaFEQ8ugcYQgSn+IGBI 8/LwhBNTZTUVEWuCUUBVV18YtbAiPq3yXqMB48Oz+ctBWuZSkbvkNodPLamkB2g1 upRyzQ7qDn1X8nn8N8V7YJ6y68AtkHcNSRAnpTitxBKjtKPISLMVCx7i4hncxHZS yLyKQXhw2W2Xs0qLeC1etA+jTGDK4UfLeC0SF7FSi8o5LL21L8IzApar2pR/ -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "F55F9FFCB83C73453261601C7E044DB15A0F034B93C05830F28635EF889CF670"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2015-10-22 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#1>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2025-10-19 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#1>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#1>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon <-- Amazon Root CA 1"
           }
 ,         {
               "id"           : "intermediate_cert <#2>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIEkjCCA3qgAwIBAgITBn+USionzfP6wq4rAfkI7rnExjANBgkqhkiG9w0BAQsF ADCBmDELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNj b3R0c2RhbGUxJTAjBgNVBAoTHFN0YXJmaWVsZCBUZWNobm9sb2dpZXMsIEluYy4x OzA5BgNVBAMTMlN0YXJmaWVsZCBTZXJ2aWNlcyBSb290IENlcnRpZmljYXRlIEF1 dGhvcml0eSAtIEcyMB4XDTE1MDUyNTEyMDAwMFoXDTM3MTIzMTAxMDAwMFowOTEL MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv b3QgQ0EgMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALJ4gHHKeNXj ca9HgFB0fW7Y14h29Jlo91ghYPl0hAEvrAIthtOgQ3pOsqTQNroBvo3bSMgHFzZM 9O6II8c+6zf1tRn4SWiw3te5djgdYZ6k/oI2peVKVuRF4fn9tBb6dNqcmzU5L/qw IFAGbHrQgLKm+a/sRxmPUDgH3KKHOVj4utWp+UhnMJbulHheb4mjUcAwhmahRWa6 VOujw5H5SNz/0egwLX0tdHA114gk957EWW67c4cX8jJGKLhD+rcdqsq08p8kDi1L 93FcXmn/6pUCyziKrlA4b9v7LWIbxcceVOF34GfID5yHI9Y/QCB/IIDEgEw+OyQm jgSubJrIqg0CAwEAAaOCATEwggEtMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/ BAQDAgGGMB0GA1UdDgQWBBSEGMyFNOy8DJSULghZnMeyEE4KCDAfBgNVHSMEGDAW gBScXwDfqgHXMCs4iKK4bUqc8hGRgzB4BggrBgEFBQcBAQRsMGowLgYIKwYBBQUH MAGGImh0dHA6Ly9vY3NwLnJvb3RnMi5hbWF6b250cnVzdC5jb20wOAYIKwYBBQUH MAKGLGh0dHA6Ly9jcnQucm9vdGcyLmFtYXpvbnRydXN0LmNvbS9yb290ZzIuY2Vy MD0GA1UdHwQ2MDQwMqAwoC6GLGh0dHA6Ly9jcmwucm9vdGcyLmFtYXpvbnRydXN0 LmNvbS9yb290ZzIuY3JsMBEGA1UdIAQKMAgwBgYEVR0gADANBgkqhkiG9w0BAQsF AAOCAQEAYjdCXLwQtT6LLOkMm2xF4gcAevnFWAu5CIw+7bMlPLVvUOTNNWqnkzSW MiGpSESrnO09tKpzbeR/FoCJbM8oAxiDR3mjEH4wW6w7sGDgd9QIpuEdfF7Au/ma eyKdpwAJfqxGF4PcnCZXmTA5YpaP7dreqsXMGz7KQ2hsVxa81Q4gLv7/wmpdLqBK bRRYh5TmOTFffHPLkIhqhBGWJ6bt2YFGpn6jcgAKUj6DiAdjd4lpFw85hdKrCEVN 0FE6/V1dN2RMfjCyVSRCnTawXZwXgWHxyvkQAiSr6w10kY17RSlQOYiypok1JR4U akcjMS9cmvqtmg5iUaQqqcT5NJ0hGA== -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#2>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "87DCD4DC74640A322CD205552506D1BE64F12596258096544986B4850BC72706"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#2>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2015-05-25 12:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#2>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2037-12-31 01:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#2>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#2>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon Root CA 1 <-- Starfield Services Root Certificate Authority - G2"
           }
 ,         {
               "id"           : "intermediate_cert <#3>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIEdTCCA12gAwIBAgIJAKcOSkw0grd/MA0GCSqGSIb3DQEBCwUAMGgxCzAJBgNV BAYTAlVTMSUwIwYDVQQKExxTdGFyZmllbGQgVGVjaG5vbG9naWVzLCBJbmMuMTIw MAYDVQQLEylTdGFyZmllbGQgQ2xhc3MgMiBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0 eTAeFw0wOTA5MDIwMDAwMDBaFw0zNDA2MjgxNzM5MTZaMIGYMQswCQYDVQQGEwJV UzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTElMCMGA1UE ChMcU3RhcmZpZWxkIFRlY2hub2xvZ2llcywgSW5jLjE7MDkGA1UEAxMyU3RhcmZp ZWxkIFNlcnZpY2VzIFJvb3QgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwggEi MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDVDDrEKvlO4vW+GZdfjohTsR8/ y8+fIBNtKTrID30892t2OGPZNmCom15cAICyL1l/9of5JUOG52kbUpqQ4XHj2C0N Tm/2yEnZtvMaVq4rtnQU68/7JuMauh2WLmo7WJSJR1b/JaCTcFOD2oR0FMNnngRo Ot+OQFodSk7PQ5E751bWAHDLUu57fa4657wx+UX2wmDPE1kCK4DMNEffud6QZW0C zyyRpqbn3oUYSXxmTqM6bam17jQuug0DuDPfR+uxa40l2ZvOgdFFRjKWcIfeAg5J Q4W2bHO7ZOphQazJ1FTfhy/HIrImzJ9ZVGif/L4qL8RVHHVAYBeFAlU5i38FAgMB AAGjgfAwge0wDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0O BBYEFJxfAN+qAdcwKziIorhtSpzyEZGDMB8GA1UdIwQYMBaAFL9ft9HO3R+G9FtV rNzXEMIOqYjnME8GCCsGAQUFBwEBBEMwQTAcBggrBgEFBQcwAYYQaHR0cDovL28u c3MyLnVzLzAhBggrBgEFBQcwAoYVaHR0cDovL3guc3MyLnVzL3guY2VyMCYGA1Ud HwQfMB0wG6AZoBeGFWh0dHA6Ly9zLnNzMi51cy9yLmNybDARBgNVHSAECjAIMAYG BFUdIAAwDQYJKoZIhvcNAQELBQADggEBACMd44pXyn3pF3lM8R5V/cxTbj5HD9/G VfKyBDbtgB9TxF00KGu+x1X8Z+rLP3+QsjPNG1gQggL4+C/1E2DUBc7xgQjB3ad1 l08YuW3e95ORCLp+QCztweq7dp4zBncdDQh/U90bZKuCJ/Fp1U1ervShw3WnWEQt 8jxwmKy6abaVd38PMV4s/KCHOkdp8Hlf9BRUpJVeEXgSYCfOn8J3/yNTd126/+pZ 59vPr5KW7ySaNRB6nJHGDn2Z9j8Z3/VyVOEVqQdZe4O/Ui5GjLIAZHYcSNPYeehu VsyuLAOQ1xk4meTKCRlb/weWsKh/NEnfVqn3sF/tM+2MR7cwA130A4w= -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#3>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "28689B30E4C306AAB53B027B29E36AD6DD1DCF4B953994482CA84BDC1ECAC996"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#3>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2009-09-02 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#3>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2034-06-28 17:39"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#3>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#3>",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Starfield Services Root Certificate Authority - G2 <--"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "intermediate certificate(s) is/are ok"
           }
 ,         {
               "id"           : "HTTP_status_code",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "301 Moved Permanently ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651970334"
+              "finding"      : "1652575743"
           }
 ,         {
               "id"           : "HSTS",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "HPKP",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No support for HTTP Public Key Pinning"
           }
 ,         {
               "id"           : "banner_server",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "awselb/2.0"
           }
 ,         {
               "id"           : "banner_application",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No application banner found"
           }
 ,         {
               "id"           : "cookie_count",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
           }
 ,         {
               "id"           : "security_headers",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "finding"      : "--"
           }
 ,         {
               "id"           : "banner_reverseproxy",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-200",
@@ -1860,7 +1860,7 @@
           }
 ,         {
               "id"           : "heartbleed",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-0160",
@@ -1869,7 +1869,7 @@
           }
 ,         {
               "id"           : "CCS",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-0224",
@@ -1878,7 +1878,7 @@
           }
 ,         {
               "id"           : "ticketbleed",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-9244",
@@ -1887,7 +1887,7 @@
           }
 ,         {
               "id"           : "ROBOT",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
@@ -1896,7 +1896,7 @@
           }
 ,         {
               "id"           : "secure_renego",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-310",
@@ -1904,7 +1904,7 @@
           }
 ,         {
               "id"           : "secure_client_renego",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2011-1473",
@@ -1913,7 +1913,7 @@
           }
 ,         {
               "id"           : "CRIME_TLS",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2012-4929",
@@ -1922,7 +1922,7 @@
           }
 ,         {
               "id"           : "BREACH",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2013-3587",
@@ -1931,7 +1931,7 @@
           }
 ,         {
               "id"           : "POODLE_SSL",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-3566",
@@ -1940,14 +1940,14 @@
           }
 ,         {
               "id"           : "fallback_SCSV",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "SWEET32",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-2183 CVE-2016-6329",
@@ -1956,7 +1956,7 @@
           }
 ,         {
               "id"           : "FREAK",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-0204",
@@ -1965,7 +1965,7 @@
           }
 ,         {
               "id"           : "DROWN",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
@@ -1974,16 +1974,16 @@
           }
 ,         {
               "id"           : "DROWN_hint",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
           }
 ,         {
               "id"           : "LOGJAM",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-4000",
@@ -1992,7 +1992,7 @@
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-4000",
@@ -2001,7 +2001,7 @@
           }
 ,         {
               "id"           : "BEAST_CBC_TLS1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2011-3389",
@@ -2010,7 +2010,7 @@
           }
 ,         {
               "id"           : "BEAST",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "cve"          : "CVE-2011-3389",
@@ -2019,7 +2019,7 @@
           }
 ,         {
               "id"           : "LUCKY13",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "LOW",
               "cve"          : "CVE-2013-0169",
@@ -2028,7 +2028,7 @@
           }
 ,         {
               "id"           : "winshock",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-6321",
@@ -2037,7 +2037,7 @@
           }
 ,         {
               "id"           : "RC4",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2013-2566 CVE-2015-2808",
@@ -2046,420 +2046,420 @@
           }
 ,         {
               "id"           : "clientsimulation-android_442",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_500",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_60",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_70",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_81",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_90",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_X",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-chrome_74_win10",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-chrome_79_win10",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-firefox_66_win81",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-firefox_71_win10",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_6_xp",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No connection"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_win7",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_xp",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No connection"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win7",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win81",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_winphone81",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win10",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_15_win10",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_17_win10",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-opera_66_win10",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_9_ios9",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_9_osx1011",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_10_osx1012",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_121_ios_122",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_130_osx_10146",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-apple_ats_9_ios9",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java_6u45",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_7u25",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_8u161",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1102",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1201",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_110l",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_111d",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-thunderbird_68_3_1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "rating_spec",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
           }
 ,         {
               "id"           : "rating_doc",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
           }
 ,         {
               "id"           : "protocol_support_score",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "95"
           }
 ,         {
               "id"           : "protocol_support_score_weighted",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "28"
           }
 ,         {
               "id"           : "key_exchange_score",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "90"
           }
 ,         {
               "id"           : "key_exchange_score_weighted",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "27"
           }
 ,         {
               "id"           : "cipher_strength_score",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "60"
           }
 ,         {
               "id"           : "cipher_strength_score_weighted",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "24"
           }
 ,         {
               "id"           : "final_score",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "79"
           }
 ,         {
               "id"           : "overall_grade",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "finding"      : "B"
           }
 ,         {
               "id"           : "grade_cap_reason_1",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to B. TLS 1.1 offered"
           }
 ,         {
               "id"           : "grade_cap_reason_2",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to B. TLS 1.0 offered"
           }
 ,         {
               "id"           : "grade_cap_reason_3",
-              "ip"           : "www.zemmour2022.fr/34.250.67.23",
+              "ip"           : "www.zemmour2022.fr/63.33.35.138",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to A. HSTS is not offered"
           }
 ,         {
               "id"           : "service",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "HTTP"
           }
 ,         {
               "id"           : "pre_128cipher",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No 128 cipher limit bug"
           }
 ,         {
               "id"           : "SSLv2",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "SSLv3",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "TLS1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "offered (deprecated)"
           }
 ,         {
               "id"           : "TLS1_1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "offered (deprecated)"
           }
 ,         {
               "id"           : "TLS1_2",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "TLS1_3",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "not offered + downgraded to weaker protocol"
           }
 ,         {
               "id"           : "ALPN_HTTP2",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "h2"
           }
 ,         {
               "id"           : "ALPN",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http/1.1"
           }
 ,         {
               "id"           : "cipherlist_NULL",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -2467,7 +2467,7 @@
           }
 ,         {
               "id"           : "cipherlist_aNULL",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -2475,7 +2475,7 @@
           }
 ,         {
               "id"           : "cipherlist_EXPORT",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -2483,7 +2483,7 @@
           }
 ,         {
               "id"           : "cipherlist_LOW",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-327",
@@ -2491,7 +2491,7 @@
           }
 ,         {
               "id"           : "cipherlist_3DES_IDEA",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-310",
@@ -2499,7 +2499,7 @@
           }
 ,         {
               "id"           : "cipherlist_AVERAGE",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "cwe"          : "CWE-310",
@@ -2507,546 +2507,546 @@
           }
 ,         {
               "id"           : "cipherlist_GOOD",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "cipherlist_STRONG",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "cipherorder_TLSv1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipherorder_TLSv1_1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "cipherorder_TLSv1_2",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "cipher_order",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "server"
           }
 ,         {
               "id"           : "protocol_negotiated",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "Default protocol TLS1.2"
           }
 ,         {
               "id"           : "cipher_negotiated",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256, 256 bit ECDH (P-256)"
           }
 ,         {
               "id"           : "FS",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "offered"
           }
 ,         {
               "id"           : "FS_ciphers",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "ECDHE-RSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-RSA-AES256-SHA"
           }
 ,         {
               "id"           : "FS_ECDHE_curves",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "sect283k1 sect283r1 sect409k1 sect409r1 sect571k1 sect571r1 secp256k1 prime256v1 secp384r1 secp521r1 brainpoolP256r1 brainpoolP384r1 brainpoolP512r1"
           }
 ,         {
               "id"           : "TLS_extensions",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "'renegotiation info/#65281' 'EC point formats/#11' 'session ticket/#35' 'next protocol/#13172' 'application layer protocol negotiation/#16'"
           }
 ,         {
               "id"           : "TLS_session_ticket",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "valid for 43200 seconds only (<daily)"
           }
 ,         {
               "id"           : "SSL_sessionID_support",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "yes"
           }
 ,         {
               "id"           : "sessionresumption_ticket",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "sessionresumption_ID",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "random"
           }
 ,         {
               "id"           : "cert_compression",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "N/A"
           }
 ,         {
               "id"           : "clientAuth",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "none"
           }
 ,         {
               "id"           : "cert_numbers",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "1"
           }
 ,         {
               "id"           : "cert_signatureAlgorithm",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "SHA256 with RSA"
           }
 ,         {
               "id"           : "cert_keySize",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "RSA 2048 bits (exponent is 65537)"
           }
 ,         {
               "id"           : "cert_keyUsage",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Digital Signature, Key Encipherment"
           }
 ,         {
               "id"           : "cert_extKeyUsage",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLS Web Server Authentication, TLS Web Client Authentication"
           }
 ,         {
               "id"           : "cert_serialNumber",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "081849C73D91FE7D903E3B4BC4DCBEF8"
           }
 ,         {
               "id"           : "cert_serialNumberLen",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "16"
           }
 ,         {
               "id"           : "cert_fingerprintSHA1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "A31FDFE6B097AB0E91EA7D219B67CF99E97ADCD1"
           }
 ,         {
               "id"           : "cert_fingerprintSHA256",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
           }
 ,         {
               "id"           : "cert",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIF2DCCBMCgAwIBAgIQCBhJxz2R/n2QPjtLxNy++DANBgkqhkiG9w0BAQsFADBG MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0yMjAyMDIwMDAwMDBaFw0yMzAzMDMy MzU5NTlaMBsxGTAXBgNVBAMMECouemVtbW91cjIwMjIuZnIwggEiMA0GCSqGSIb3 DQEBAQUAA4IBDwAwggEKAoIBAQCpGtOT/El709bqFPvbhOoJBpJDFlbE2HiSacr0 sIC0B6T1lw2/UI2c82ZjQFt0997rIX1GntDONpWc1H19SAOP7fs2aoOKUNLaHX1q 3Qslp6+feh4etzc219LnoZ3UpnvQ00j6dGF2PhLYwIwfXbnty3XGzf43S0tNG8Sa +lJg5P+QX71qbsg0uz8vA6mZJIhl1SFGIG3UMmndTZQTpeKjMkxnypRDFIhrg2Ob mh6ixbIC+kjjZV9HtWMSTfALu+Tb2fTHRKt5RUonsjSVXG68hHKkpseO9zudpZLa yN1wjXg1Cq6a+x/8Ztbgr3MCef1Pue6kt9aAFaPlWjgXNJgpAgMBAAGjggLrMIIC 5zAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4EFgQUgyY2 RAn2nOBqLU2UP8mMur4Fx/cwGwYDVR0RBBQwEoIQKi56ZW1tb3VyMjAyMi5mcjAO BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMD0G A1UdHwQ2MDQwMqAwoC6GLGh0dHA6Ly9jcmwuc2NhMWIuYW1hem9udHJ1c3QuY29t L3NjYTFiLTEuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMHUGCCsGAQUFBwEBBGkw ZzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3Auc2NhMWIuYW1hem9udHJ1c3QuY29t MDYGCCsGAQUFBzAChipodHRwOi8vY3J0LnNjYTFiLmFtYXpvbnRydXN0LmNvbS9z Y2ExYi5jcnQwDAYDVR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFo AHYA6D7Q2j71BjUy51covIlryQPTy9ERa+zraeF3fW0GvW4AAAF+ugnj8QAABAMA RzBFAiEAit/6icQeCKFhXh1iFK5BsSO9B8lsStzR2n6lD3Cl/FACIHwh+jKDd9uu yTPEfh1ZNn4VOt0KnnWcOXU55hIZu5QjAHYANc8ZG7+xbFe/D61MbULLu7YnICZR 6j/hKu+oA8M71kwAAAF+ugnkKwAABAMARzBFAiEA1RnEG5tde4zyLQ6L9CqzE/1Z WvyBghW+zZBAdeRBdkoCIEt5j8Ni+rLCFQoE8ohv9uPohq7IQjREbubGNhf0YwYN AHYAs3N3B+GEUPhjhtYFqdwRCUp5LbFnDAuH3PADDnk2pZoAAAF+ugnkVgAABAMA RzBFAiAry7y9/Y7/57qz7YQeUVvt3zxuvGVvgCBCLB0fgTi5UQIhANg7HOyWkDyp rC/MZz2KzKNBqOgpqc9R+aiR+DNFptgyMA0GCSqGSIb3DQEBCwUAA4IBAQBdUOF5 PlsGK0YBbmp23AB7r+ltcg4bcJ/zgYm89gydRvOlLZRT5rhdoRMmfzvsMEWKRGWR 7eWDWJAyWKKkKKWc+u6libq5aE1eWBwdG84XhWjjWYbjHTlSQMFM6GI+mp5eQxok Zy8lPuAxuW1Wk8nOuhq6J06x8fBg8IK3Z2y9YYHMup2V4b0o9z+BXGWRgaTfJ3bN iHrPi3FPpXFZ1Zk9kY5fLtqT/Df8rwm9i8hs1AGCyP/ysIyTMA5aafi9IsbP3RUR WkXETKNwCzo5R5xwnqWH/pi3HULZP8l11cZTtl2A1ZPyqxjQK/5PELim9XLuRLRJ QwQkcsQ8xRGebXXQ -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "cert_commonName",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_commonName_wo_SNI",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_subjectAltName",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "*.zemmour2022.fr"
           }
 ,         {
               "id"           : "cert_trust",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "Ok via SAN wildcard and CN wildcard (same w/o SNI)"
           }
 ,         {
               "id"           : "cert_chain_of_trust",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "passed."
           }
 ,         {
               "id"           : "cert_certificatePolicies_EV",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "no"
           }
 ,         {
               "id"           : "cert_expirationStatus",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "299 >= 60 days"
+              "finding"      : "292 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2022-02-02 00:00"
           }
 ,         {
               "id"           : "cert_notAfter",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2023-03-03 23:59"
           }
 ,         {
               "id"           : "cert_extlifeSpan",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "certificate has no extended life time according to browser forum"
           }
 ,         {
               "id"           : "cert_eTLS",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "not present"
           }
 ,         {
               "id"           : "cert_crlDistributionPoints",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http://crl.sca1b.amazontrust.com/sca1b-1.crl"
           }
 ,         {
               "id"           : "cert_ocspURL",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "http://ocsp.sca1b.amazontrust.com"
           }
 ,         {
               "id"           : "OCSP_stapling",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "cert_mustStapleExtension",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "--"
           }
 ,         {
               "id"           : "DNS_CAArecord",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "--"
           }
 ,         {
               "id"           : "certificate_transparency",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "yes (certificate extension)"
           }
 ,         {
               "id"           : "certs_countServer",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "4"
           }
 ,         {
               "id"           : "certs_list_ordering_problem",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "no"
           }
 ,         {
               "id"           : "cert_caIssuers",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon (Amazon from US)"
           }
 ,         {
               "id"           : "intermediate_cert <#1>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIESTCCAzGgAwIBAgITBn+UV4WH6Kx33rJTMlu8mYtWDTANBgkqhkiG9w0BAQsF ADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6 b24gUm9vdCBDQSAxMB4XDTE1MTAyMjAwMDAwMFoXDTI1MTAxOTAwMDAwMFowRjEL MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEVMBMGA1UECxMMU2VydmVyIENB IDFCMQ8wDQYDVQQDEwZBbWF6b24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK AoIBAQDCThZn3c68asg3Wuw6MLAd5tES6BIoSMzoKcG5blPVo+sDORrMd4f2AbnZ cMzPa43j4wNxhplty6aUKk4T1qe9BOwKFjwK6zmxxLVYo7bHViXsPlJ6qOMpFge5 blDP+18x+B26A0piiQOuPkfyDyeR4xQghfj66Yo19V+emU3nazfvpFA+ROz6WoVm B5x+F2pV8xeKNR7u6azDdU5YVX1TawprmxRC1+WsAYmz6qP+z8ArDITC2FMVy2fw 0IjKOtEXc/VfmtTFch5+AfGYMGMqqvJ6LcXiAhqG5TI+Dr0RtM88k+8XUBCeQ8IG KuANaL7TiItKZYxK1MMuTJtV9IblAgMBAAGjggE7MIIBNzASBgNVHRMBAf8ECDAG AQH/AgEAMA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUWaRmBlKge5WSPKOUByeW dFv5PdAwHwYDVR0jBBgwFoAUhBjMhTTsvAyUlC4IWZzHshBOCggwewYIKwYBBQUH AQEEbzBtMC8GCCsGAQUFBzABhiNodHRwOi8vb2NzcC5yb290Y2ExLmFtYXpvbnRy dXN0LmNvbTA6BggrBgEFBQcwAoYuaHR0cDovL2NydC5yb290Y2ExLmFtYXpvbnRy dXN0LmNvbS9yb290Y2ExLmNlcjA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3Js LnJvb3RjYTEuYW1hem9udHJ1c3QuY29tL3Jvb3RjYTEuY3JsMBMGA1UdIAQMMAow CAYGZ4EMAQIBMA0GCSqGSIb3DQEBCwUAA4IBAQCFkr41u3nPo4FCHOTjY3NTOVI1 59Gt/a6ZiqyJEi+752+a1U5y6iAwYfmXss2lJwJFqMp2PphKg5625kXg8kP2CN5t 6G7bMQcT8C8xDZNtYTd7WPD8UZiRKAJPBXa30/AbwuZe0GaFEQ8ugcYQgSn+IGBI 8/LwhBNTZTUVEWuCUUBVV18YtbAiPq3yXqMB48Oz+ctBWuZSkbvkNodPLamkB2g1 upRyzQ7qDn1X8nn8N8V7YJ6y68AtkHcNSRAnpTitxBKjtKPISLMVCx7i4hncxHZS yLyKQXhw2W2Xs0qLeC1etA+jTGDK4UfLeC0SF7FSi8o5LL21L8IzApar2pR/ -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#1>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "F55F9FFCB83C73453261601C7E044DB15A0F034B93C05830F28635EF889CF670"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#1>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2015-10-22 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#1>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2025-10-19 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#1>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#1>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon <-- Amazon Root CA 1"
           }
 ,         {
               "id"           : "intermediate_cert <#2>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIEkjCCA3qgAwIBAgITBn+USionzfP6wq4rAfkI7rnExjANBgkqhkiG9w0BAQsF ADCBmDELMAkGA1UEBhMCVVMxEDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNj b3R0c2RhbGUxJTAjBgNVBAoTHFN0YXJmaWVsZCBUZWNobm9sb2dpZXMsIEluYy4x OzA5BgNVBAMTMlN0YXJmaWVsZCBTZXJ2aWNlcyBSb290IENlcnRpZmljYXRlIEF1 dGhvcml0eSAtIEcyMB4XDTE1MDUyNTEyMDAwMFoXDTM3MTIzMTAxMDAwMFowOTEL MAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJv b3QgQ0EgMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALJ4gHHKeNXj ca9HgFB0fW7Y14h29Jlo91ghYPl0hAEvrAIthtOgQ3pOsqTQNroBvo3bSMgHFzZM 9O6II8c+6zf1tRn4SWiw3te5djgdYZ6k/oI2peVKVuRF4fn9tBb6dNqcmzU5L/qw IFAGbHrQgLKm+a/sRxmPUDgH3KKHOVj4utWp+UhnMJbulHheb4mjUcAwhmahRWa6 VOujw5H5SNz/0egwLX0tdHA114gk957EWW67c4cX8jJGKLhD+rcdqsq08p8kDi1L 93FcXmn/6pUCyziKrlA4b9v7LWIbxcceVOF34GfID5yHI9Y/QCB/IIDEgEw+OyQm jgSubJrIqg0CAwEAAaOCATEwggEtMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/ BAQDAgGGMB0GA1UdDgQWBBSEGMyFNOy8DJSULghZnMeyEE4KCDAfBgNVHSMEGDAW gBScXwDfqgHXMCs4iKK4bUqc8hGRgzB4BggrBgEFBQcBAQRsMGowLgYIKwYBBQUH MAGGImh0dHA6Ly9vY3NwLnJvb3RnMi5hbWF6b250cnVzdC5jb20wOAYIKwYBBQUH MAKGLGh0dHA6Ly9jcnQucm9vdGcyLmFtYXpvbnRydXN0LmNvbS9yb290ZzIuY2Vy MD0GA1UdHwQ2MDQwMqAwoC6GLGh0dHA6Ly9jcmwucm9vdGcyLmFtYXpvbnRydXN0 LmNvbS9yb290ZzIuY3JsMBEGA1UdIAQKMAgwBgYEVR0gADANBgkqhkiG9w0BAQsF AAOCAQEAYjdCXLwQtT6LLOkMm2xF4gcAevnFWAu5CIw+7bMlPLVvUOTNNWqnkzSW MiGpSESrnO09tKpzbeR/FoCJbM8oAxiDR3mjEH4wW6w7sGDgd9QIpuEdfF7Au/ma eyKdpwAJfqxGF4PcnCZXmTA5YpaP7dreqsXMGz7KQ2hsVxa81Q4gLv7/wmpdLqBK bRRYh5TmOTFffHPLkIhqhBGWJ6bt2YFGpn6jcgAKUj6DiAdjd4lpFw85hdKrCEVN 0FE6/V1dN2RMfjCyVSRCnTawXZwXgWHxyvkQAiSr6w10kY17RSlQOYiypok1JR4U akcjMS9cmvqtmg5iUaQqqcT5NJ0hGA== -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#2>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "87DCD4DC74640A322CD205552506D1BE64F12596258096544986B4850BC72706"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#2>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2015-05-25 12:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#2>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2037-12-31 01:00"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#2>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#2>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Amazon Root CA 1 <-- Starfield Services Root Certificate Authority - G2"
           }
 ,         {
               "id"           : "intermediate_cert <#3>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "-----BEGIN CERTIFICATE----- MIIEdTCCA12gAwIBAgIJAKcOSkw0grd/MA0GCSqGSIb3DQEBCwUAMGgxCzAJBgNV BAYTAlVTMSUwIwYDVQQKExxTdGFyZmllbGQgVGVjaG5vbG9naWVzLCBJbmMuMTIw MAYDVQQLEylTdGFyZmllbGQgQ2xhc3MgMiBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0 eTAeFw0wOTA5MDIwMDAwMDBaFw0zNDA2MjgxNzM5MTZaMIGYMQswCQYDVQQGEwJV UzEQMA4GA1UECBMHQXJpem9uYTETMBEGA1UEBxMKU2NvdHRzZGFsZTElMCMGA1UE ChMcU3RhcmZpZWxkIFRlY2hub2xvZ2llcywgSW5jLjE7MDkGA1UEAxMyU3RhcmZp ZWxkIFNlcnZpY2VzIFJvb3QgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwggEi MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDVDDrEKvlO4vW+GZdfjohTsR8/ y8+fIBNtKTrID30892t2OGPZNmCom15cAICyL1l/9of5JUOG52kbUpqQ4XHj2C0N Tm/2yEnZtvMaVq4rtnQU68/7JuMauh2WLmo7WJSJR1b/JaCTcFOD2oR0FMNnngRo Ot+OQFodSk7PQ5E751bWAHDLUu57fa4657wx+UX2wmDPE1kCK4DMNEffud6QZW0C zyyRpqbn3oUYSXxmTqM6bam17jQuug0DuDPfR+uxa40l2ZvOgdFFRjKWcIfeAg5J Q4W2bHO7ZOphQazJ1FTfhy/HIrImzJ9ZVGif/L4qL8RVHHVAYBeFAlU5i38FAgMB AAGjgfAwge0wDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0O BBYEFJxfAN+qAdcwKziIorhtSpzyEZGDMB8GA1UdIwQYMBaAFL9ft9HO3R+G9FtV rNzXEMIOqYjnME8GCCsGAQUFBwEBBEMwQTAcBggrBgEFBQcwAYYQaHR0cDovL28u c3MyLnVzLzAhBggrBgEFBQcwAoYVaHR0cDovL3guc3MyLnVzL3guY2VyMCYGA1Ud HwQfMB0wG6AZoBeGFWh0dHA6Ly9zLnNzMi51cy9yLmNybDARBgNVHSAECjAIMAYG BFUdIAAwDQYJKoZIhvcNAQELBQADggEBACMd44pXyn3pF3lM8R5V/cxTbj5HD9/G VfKyBDbtgB9TxF00KGu+x1X8Z+rLP3+QsjPNG1gQggL4+C/1E2DUBc7xgQjB3ad1 l08YuW3e95ORCLp+QCztweq7dp4zBncdDQh/U90bZKuCJ/Fp1U1ervShw3WnWEQt 8jxwmKy6abaVd38PMV4s/KCHOkdp8Hlf9BRUpJVeEXgSYCfOn8J3/yNTd126/+pZ 59vPr5KW7ySaNRB6nJHGDn2Z9j8Z3/VyVOEVqQdZe4O/Ui5GjLIAZHYcSNPYeehu VsyuLAOQ1xk4meTKCRlb/weWsKh/NEnfVqn3sF/tM+2MR7cwA130A4w= -----END CERTIFICATE-----"
           }
 ,         {
               "id"           : "intermediate_cert_fingerprintSHA256 <#3>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "28689B30E4C306AAB53B027B29E36AD6DD1DCF4B953994482CA84BDC1ECAC996"
           }
 ,         {
               "id"           : "intermediate_cert_notBefore <#3>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "2009-09-02 00:00"
           }
 ,         {
               "id"           : "intermediate_cert_notAfter <#3>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "2034-06-28 17:39"
           }
 ,         {
               "id"           : "intermediate_cert_expiration <#3>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "ok > 40 days"
           }
 ,         {
               "id"           : "intermediate_cert_chain <#3>",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Starfield Services Root Certificate Authority - G2 <--"
           }
 ,         {
               "id"           : "intermediate_cert_badOCSP",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "intermediate certificate(s) is/are ok"
           }
 ,         {
               "id"           : "HTTP_status_code",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "301 Moved Permanently ('/')"
           }
 ,         {
               "id"           : "HTTP_clock_skew",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "0 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1651970473"
+              "finding"      : "1652575880"
           }
 ,         {
               "id"           : "HSTS",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "finding"      : "not offered"
           }
 ,         {
               "id"           : "HPKP",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No support for HTTP Public Key Pinning"
           }
 ,         {
               "id"           : "banner_server",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "awselb/2.0"
           }
 ,         {
               "id"           : "banner_application",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No application banner found"
           }
 ,         {
               "id"           : "cookie_count",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "0 at '/' (30x detected, better try target URL of 30x)"
           }
 ,         {
               "id"           : "security_headers",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "finding"      : "--"
           }
 ,         {
               "id"           : "banner_reverseproxy",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "cwe"          : "CWE-200",
@@ -3054,7 +3054,7 @@
           }
 ,         {
               "id"           : "heartbleed",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-0160",
@@ -3063,7 +3063,7 @@
           }
 ,         {
               "id"           : "CCS",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-0224",
@@ -3072,7 +3072,7 @@
           }
 ,         {
               "id"           : "ticketbleed",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-9244",
@@ -3081,7 +3081,7 @@
           }
 ,         {
               "id"           : "ROBOT",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2017-17382 CVE-2017-17427 CVE-2017-17428 CVE-2017-13098 CVE-2017-1000385 CVE-2017-13099 CVE-2016-6883 CVE-2012-5081 CVE-2017-6168",
@@ -3090,7 +3090,7 @@
           }
 ,         {
               "id"           : "secure_renego",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cwe"          : "CWE-310",
@@ -3098,7 +3098,7 @@
           }
 ,         {
               "id"           : "secure_client_renego",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2011-1473",
@@ -3107,7 +3107,7 @@
           }
 ,         {
               "id"           : "CRIME_TLS",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2012-4929",
@@ -3116,7 +3116,7 @@
           }
 ,         {
               "id"           : "BREACH",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2013-3587",
@@ -3125,7 +3125,7 @@
           }
 ,         {
               "id"           : "POODLE_SSL",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-3566",
@@ -3134,14 +3134,14 @@
           }
 ,         {
               "id"           : "fallback_SCSV",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "finding"      : "supported"
           }
 ,         {
               "id"           : "SWEET32",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-2183 CVE-2016-6329",
@@ -3150,7 +3150,7 @@
           }
 ,         {
               "id"           : "FREAK",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-0204",
@@ -3159,7 +3159,7 @@
           }
 ,         {
               "id"           : "DROWN",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
@@ -3168,16 +3168,16 @@
           }
 ,         {
               "id"           : "DROWN_hint",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "cve"          : "CVE-2016-0800 CVE-2016-0703",
               "cwe"          : "CWE-310",
-              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://censys.io/ipv4?q=05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
+              "finding"      : "Make sure you don't use this certificate elsewhere with SSLv2 enabled services, see https://search.censys.io/search?resource=hosts&virtual_hosts=INCLUDE&q=05F317358EB5A560672F6591F74FD75D979D7BF2312D6D2C1661DC056C3D748A"
           }
 ,         {
               "id"           : "LOGJAM",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-4000",
@@ -3186,7 +3186,7 @@
           }
 ,         {
               "id"           : "LOGJAM-common_primes",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2015-4000",
@@ -3195,7 +3195,7 @@
           }
 ,         {
               "id"           : "BEAST_CBC_TLS1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "cve"          : "CVE-2011-3389",
@@ -3204,7 +3204,7 @@
           }
 ,         {
               "id"           : "BEAST",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "cve"          : "CVE-2011-3389",
@@ -3213,7 +3213,7 @@
           }
 ,         {
               "id"           : "LUCKY13",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "LOW",
               "cve"          : "CVE-2013-0169",
@@ -3222,7 +3222,7 @@
           }
 ,         {
               "id"           : "winshock",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2014-6321",
@@ -3231,7 +3231,7 @@
           }
 ,         {
               "id"           : "RC4",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "OK",
               "cve"          : "CVE-2013-2566 CVE-2015-2808",
@@ -3240,352 +3240,352 @@
           }
 ,         {
               "id"           : "clientsimulation-android_442",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_500",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_60",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_70",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_81",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_90",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-android_X",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-chrome_74_win10",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-chrome_79_win10",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-firefox_66_win81",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-firefox_71_win10",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_6_xp",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No connection"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_win7",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-ie_8_xp",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "No connection"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win7",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win81",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_winphone81",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-ie_11_win10",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_15_win10",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-edge_17_win10",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-opera_66_win10",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_9_ios9",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_9_osx1011",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_10_osx1012",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_121_ios_122",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-safari_130_osx_10146",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-apple_ats_9_ios9",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java_6u45",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_7u25",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.0 ECDHE-RSA-AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-java_8u161",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1102",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java1201",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_110l",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-openssl_111d",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "clientsimulation-thunderbird_68_3_1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
           }
 ,         {
               "id"           : "rating_spec",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "SSL Labs's 'SSL Server Rating Guide' (version 2009q from 2020-01-30)"
           }
 ,         {
               "id"           : "rating_doc",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "https://github.com/ssllabs/research/wiki/SSL-Server-Rating-Guide"
           }
 ,         {
               "id"           : "protocol_support_score",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "95"
           }
 ,         {
               "id"           : "protocol_support_score_weighted",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "28"
           }
 ,         {
               "id"           : "key_exchange_score",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "90"
           }
 ,         {
               "id"           : "key_exchange_score_weighted",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "27"
           }
 ,         {
               "id"           : "cipher_strength_score",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "60"
           }
 ,         {
               "id"           : "cipher_strength_score_weighted",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "24"
           }
 ,         {
               "id"           : "final_score",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "79"
           }
 ,         {
               "id"           : "overall_grade",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "MEDIUM",
               "finding"      : "B"
           }
 ,         {
               "id"           : "grade_cap_reason_1",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to B. TLS 1.1 offered"
           }
 ,         {
               "id"           : "grade_cap_reason_2",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to B. TLS 1.0 offered"
           }
 ,         {
               "id"           : "grade_cap_reason_3",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "Grade capped to A. HSTS is not offered"
           }
 ,         {
               "id"           : "scanTime",
-              "ip"           : "www.zemmour2022.fr/18.201.5.66",
+              "ip"           : "www.zemmour2022.fr/34.253.95.61",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "419"
+              "finding"      : "409"
           }
 ]
