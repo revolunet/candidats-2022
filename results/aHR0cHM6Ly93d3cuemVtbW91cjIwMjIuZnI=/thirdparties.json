@@ -6,11 +6,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/bootstrap.css"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901652978398/default/bootstrap.css"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/theme.scss"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901652978398/default/theme.scss"
     },
     {
       "type": "unknown",
@@ -34,11 +34,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901652978398/default/bootstrap.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901652978398/default/theme.js"
     },
     {
       "type": "google tag manager",
@@ -47,18 +47,6 @@
         "id": "google tag manager",
         "message": "Use hosted Matomo instance"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/977/attachments/original/1648460008/bg-troca.jpeg?1648460008"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/964/attachments/original/1647942853/bg-metz.jpeg?1647942853"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/919/attachments/original/1647331111/bg-agen.jpeg?1647331111"
     },
     {
       "type": "unknown",
@@ -74,11 +62,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1641378268/ez-home.jpg?1641378268"
+      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.ericzemmour.fr&dnt=false&init=false"
     },
     {
       "type": "unknown",
-      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1641379655/degrade-bleu.svg?1641379655"
+      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1652767226/fond-evenements.jpg?1652767226"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1652709633/ez-home2.jpg?1652709633"
     },
     {
       "type": "unknown",
@@ -122,11 +114,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Bold.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/1085/attachments/original/1652260139/bg-legislatives.jpg?1652260139"
+      "url": "https://assets.nationbuilder.com/ez/pages/1085/attachments/original/1652776237/bg-legis2.jpg?1652776237"
     },
     {
       "type": "unknown",
@@ -134,7 +122,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://assets.ericzemmour.fr/signez.jpg"
+      "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1652978276/signez2.jpg?1652978276"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Extrabold.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Bold.otf"
     },
     {
       "type": "unknown",
@@ -142,27 +138,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://consent.cookiebot.com/2d37563b-7703-4bd8-b38a-5f11dbe4840b/cc.js?renew=false&referer=www.ericzemmour.fr&dnt=false"
-    },
-    {
-      "type": "unknown",
       "url": "https://assets.nationbuilder.com/assets/liquid/v3/main-338e0c7ee440859323ff017922881148a330e2c27049de01eff260434445e1bb.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/977/attachments/original/1648460008/bg-troca.jpeg?1648460008"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/964/attachments/original/1647942853/bg-metz.jpeg?1647942853"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/919/attachments/original/1647331111/bg-agen.jpeg?1647331111"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.ericzemmour.fr/photo_2021-12-06_14-42-22.jpg"
     },
     {
       "type": "twitter",
@@ -182,7 +158,15 @@
     },
     {
       "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.a472efb77af18f2ada6d133622c27c6a.html?origin=https%3A%2F%2Fwww.ericzemmour.fr",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.bbd13993eb53d3a11ac08f5e8cf9d6a4.html?origin=https%3A%2F%2Fwww.ericzemmour.fr",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/settings?session_id=d8c4ba468a1cb2971c9c4710dac4a99c7c762595",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -201,28 +185,20 @@
       "url": "https://assets.nationbuilder.com/assets/liquid-afd4cb8734a76f96f5097a424ed61c3c3354d9f9472cc52b6d1513ee749d49ec.js"
     },
     {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=e5344583af5eaa3b1d370acb673b6e15f1558dbf",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901652978398/default/bootstrap.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901652978398/default/theme.js"
     },
     {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=c164586c92e5f1cad8acfca957911ab5",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=df75492d74f10eaf1e6a6f6a74ab918f",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
       }
-    },
-    {
-      "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/bootstrap.min.js"
-    },
-    {
-      "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901650921986/default/theme.js"
     },
     {
       "type": "facebook",
@@ -235,35 +211,35 @@
   ],
   "cookies": [],
   "headers": {
-    "date": "Sun, 15 May 2022 00:45:41 GMT",
+    "date": "Sun, 22 May 2022 00:39:11 GMT",
     "content-type": "text/html; charset=utf-8",
     "x-rack-cache": "stale, invalid, ignore, store",
     "cache-control": "public, max-age=14400",
-    "age": "79",
+    "age": "86",
     "x-nb-cached-page": "yes",
-    "x-request-id": "4395f79d-7b45-4853-8b2a-29667af689cc",
-    "x-served-by": "app10",
-    "x-middleware-start": "t=1652575462197044",
-    "x-content-digest": "bb800732420c93a6edd354dfb8c16f9b4362a3b2",
+    "x-request-id": "fb059d0e-fd84-41ff-a48e-d5cbb8dad37e",
+    "x-served-by": "app12",
+    "x-middleware-start": "t=1653179865543666",
+    "x-content-digest": "85a39acde32ae70dae54d1773188c3e874b333db",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.059034",
+    "x-runtime": "0.082631",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
-    "expires": "Sun, 15 May 2022 04:45:41 GMT",
+    "expires": "Sun, 22 May 2022 04:39:11 GMT",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "cf-cache-status": "HIT",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "70b7da2b8d515b1d-IAD",
+    "cf-ray": "70f17e468efd7ae1-LAX",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "18.201.5.66",
+      "ip": "34.253.95.61",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
@@ -346,23 +322,28 @@
     },
     {
       "hostname": "www.ericzemmour.fr",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "ez.nationbuilder.com",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
       "hostname": "consent.cookiebot.com",
-      "ip": "23.212.249.10",
+      "ip": "23.208.140.27",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5317058,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Tempe",
+            "en": "Tempe",
+            "fr": "Tempe",
+            "ja": "テンピ",
+            "pt-BR": "Tempe",
+            "ru": "Темпе",
+            "zh-CN": "坦佩"
           }
         },
         "continent": {
@@ -395,13 +376,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "latitude": 33.42,
+          "longitude": -111.9128,
+          "metro_code": 753,
+          "time_zone": "America/Phoenix"
         },
         "postal": {
-          "code": "20149"
+          "code": "85285"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -419,15 +400,16 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5551752,
+            "iso_code": "AZ",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "de": "Arizona",
+              "en": "Arizona",
+              "es": "Arizona",
+              "fr": "Arizona",
+              "ja": "アリゾナ州",
+              "pt-BR": "Arizona",
+              "ru": "Аризона"
             }
           }
         ]
@@ -435,7 +417,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.251.16.95",
+      "ip": "142.250.68.106",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -494,7 +476,7 @@
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.122.97",
+      "ip": "142.250.68.8",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -548,7 +530,7 @@
     },
     {
       "hostname": "assets.ericzemmour.fr",
-      "ip": "18.67.17.24",
+      "ip": "54.192.81.5",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -602,16 +584,13 @@
     },
     {
       "hostname": "consentcdn.cookiebot.com",
-      "ip": "23.54.211.77",
+      "ip": "104.119.66.89",
       "geoip": {
         "city": {
-          "geoname_id": 5097529,
+          "geoname_id": 5345860,
           "names": {
-            "de": "Edison",
-            "en": "Edison",
-            "ja": "エジソン",
-            "ru": "Эдисон",
-            "zh-CN": "爱迪生"
+            "en": "El Segundo",
+            "zh-CN": "埃尔塞贡多"
           }
         },
         "continent": {
@@ -644,13 +623,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 40.5237,
-          "longitude": -74.4151,
-          "metro_code": 501,
-          "time_zone": "America/New_York"
+          "latitude": 33.9214,
+          "longitude": -118.413,
+          "metro_code": 803,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "08899"
+          "code": "90245"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -668,16 +647,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5101760,
-            "iso_code": "NJ",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "New Jersey",
-              "es": "Nueva Jersey",
-              "fr": "New Jersey",
-              "ja": "ニュージャージー州",
-              "pt-BR": "Nova Jérsia",
-              "ru": "Нью-Джерси",
-              "zh-CN": "新泽西州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -738,85 +718,6 @@
       }
     },
     {
-      "hostname": "connect.facebook.net",
-      "ip": "157.240.229.1",
-      "geoip": {
-        "city": {
-          "geoname_id": 4744870,
-          "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
-        },
-        "postal": {
-          "code": "20149"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
-            "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
-            }
-          }
-        ]
-      }
-    },
-    {
       "hostname": "syndication.twitter.com",
       "ip": "104.244.42.136",
       "geoip": {
@@ -871,14 +772,20 @@
       }
     },
     {
-      "hostname": "www.facebook.com",
-      "ip": "157.240.229.35",
+      "hostname": "connect.facebook.net",
+      "ip": "157.240.22.25",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 5393015,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
           }
         },
         "continent": {
@@ -911,13 +818,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "20149"
+          "code": "95052"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -935,15 +842,104 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hostname": "www.facebook.com",
+      "ip": "157.240.22.35",
+      "geoip": {
+        "city": {
+          "geoname_id": 5393015,
+          "names": {
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 20,
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
+        },
+        "postal": {
+          "code": "95052"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
