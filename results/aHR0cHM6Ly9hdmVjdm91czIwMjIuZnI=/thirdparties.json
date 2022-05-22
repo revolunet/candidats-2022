@@ -18,31 +18,31 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1652283199"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1652810887"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1652283199"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1652810883"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1652283199"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1652810887"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1652283201"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1652810895"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1652283202"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1652811395"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1652283202"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1652810889"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1652283202"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1652810885"
     },
     {
       "type": "unknown",
@@ -62,7 +62,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1652283195"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=0"
     },
     {
       "type": "unknown",
@@ -82,7 +82,47 @@
     },
     {
       "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1652283206"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1652810886"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1652810904"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1652810897"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/js/admin/tp-advanced-shadow-layout.js?ver=5.0.8"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.12"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.1"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9"
     },
     {
       "type": "jsdelivr",
@@ -130,46 +170,6 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1652283203"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1652283241"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.5"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/js/admin/tp-advanced-shadow-layout.js?ver=5.0.8"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.12"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.0"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.5"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.5"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9"
-    },
-    {
-      "type": "unknown",
       "url": "https://avecvous.fr/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.0"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.1"
     },
     {
       "type": "unknown",
@@ -198,15 +198,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.0"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.1"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.7.0"
+      "url": "https://avecvous.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.7.1"
     },
     {
       "type": "FontAwesome",
-      "url": "https://kit.fontawesome.com/04e89ecb12.js?ver=3.7.0",
+      "url": "https://kit.fontawesome.com/04e89ecb12.js?ver=3.7.1",
       "details": {
         "id": "FontAwesome",
         "message": "Host fonts directly"
@@ -222,7 +222,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF.woff"
+      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
     },
     {
       "type": "unknown",
@@ -234,11 +234,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com/2624188/wp-content/uploads/2022/03/application-je-mengage-1024x908.jpg?lossy=1&strip=1&webp=1"
-    },
-    {
-      "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
+      "url": "https://avecvous.fr/wp-content/uploads/2022/03/application-je-mengage-768x681.jpg"
     },
     {
       "type": "FontAwesome",
@@ -298,7 +294,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com/2624188/wp-content/uploads/2022/05/VisionbyAG-115-1024x683.jpg?lossy=1&strip=1&webp=1"
+      "url": "https://avecvous.fr/wp-content/uploads/2022/05/VisionbyAG-115-768x512.jpg"
     },
     {
       "type": "unknown",
@@ -311,7 +307,7 @@
       "value": "%2C%2C",
       "domain": "avecvous.fr",
       "path": "/",
-      "expires": 1684112132,
+      "expires": 1684716658,
       "size": 25,
       "httpOnly": false,
       "secure": true,
@@ -325,7 +321,7 @@
       "value": "%2C%2C",
       "domain": "avecvous.fr",
       "path": "/",
-      "expires": 1684112132,
+      "expires": 1684716658,
       "size": 32,
       "httpOnly": false,
       "secure": true,
@@ -336,11 +332,11 @@
     },
     {
       "name": "axeptio_cookies",
-      "value": "{%22$$token%22:%227cn0j8vtd0trnpugtzqo8c%22%2C%22$$date%22:%222022-05-15T00:55:32.473Z%22%2C%22$$completed%22:false}",
+      "value": "{%22$$token%22:%227vf1hcp7n5ayi2oh60f8d%22%2C%22$$date%22:%222022-05-22T00:50:58.188Z%22%2C%22$$completed%22:false}",
       "domain": "avecvous.fr",
       "path": "/",
-      "expires": 1684112132,
-      "size": 131,
+      "expires": 1684716658,
+      "size": 130,
       "httpOnly": false,
       "secure": true,
       "session": false,
@@ -350,17 +346,17 @@
     }
   ],
   "headers": {
-    "date": "Sun, 15 May 2022 00:55:30 GMT",
+    "date": "Sun, 22 May 2022 00:50:55 GMT",
     "content-type": "text/html; charset=UTF-8",
     "x-powered-by": "PHP/7.4",
     "link": "<https://avecvous.fr/>; rel=shortlink",
     "cache-control": "max-age=0",
-    "expires": "Sun, 15 May 2022 00:55:35 GMT",
+    "expires": "Sun, 22 May 2022 00:50:57 GMT",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "70b7e87a0c6d57dc-IAD",
+    "cf-ray": "70f18f618cb0aaaf-SJC",
     "content-encoding": "br"
   },
   "endpoints": [
@@ -371,71 +367,17 @@
     },
     {
       "hostname": "avecvous.fr",
-      "ip": "104.22.66.69",
+      "ip": "104.22.67.69",
       "geoip": null
     },
     {
-      "hostname": "staging.avecvous.fr",
-      "ip": "172.67.10.90",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.89.20",
+      "ip": "104.16.86.20",
       "geoip": null
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "142.251.16.97",
+      "ip": "142.251.46.168",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -486,6 +428,11 @@
           }
         }
       }
+    },
+    {
+      "hostname": "staging.avecvous.fr",
+      "ip": "104.22.67.69",
+      "geoip": null
     },
     {
       "hostname": "testfaber.ecritel.net",
@@ -549,67 +496,13 @@
       "geoip": null
     },
     {
-      "hostname": "smsh-73-955504-juc1ugur1qwqqqo4.stackpathdns.com",
-      "ip": "151.139.243.13",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
       "hostname": "ka-p.fontawesome.com",
       "ip": "104.18.23.52",
       "geoip": null
     },
     {
       "hostname": "static.axept.io",
-      "ip": "18.67.39.24",
+      "ip": "18.65.3.29",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -663,7 +556,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "13.226.142.69",
+      "ip": "18.65.25.101",
       "geoip": {
         "continent": {
           "code": "NA",
