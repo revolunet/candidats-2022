@@ -77,6 +77,14 @@
       "url": "https://assets.nationbuilder.com/themes/626f88044445ea3fa154db37/attachments/original/1643206473/boutique-mobile.png?1643206473"
     },
     {
+      "type": "youtube",
+      "url": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCUNECeVMl14%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCUNECeVMl14&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCUNECeVMl14%2Fhqdefault.jpg&key=e23856ccc1f011e0b5e44040d3dc5c07&type=text%2Fhtml&schema=youtube",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
       "type": "unknown",
       "url": "https://assets.nationbuilder.com/themes/626f88044445ea3fa154db37/attachments/original/1643207981/don-mobile.png?1643207981"
     },
@@ -191,14 +199,6 @@
     {
       "type": "unknown",
       "url": "https://assets.nationbuilder.com/fabienroussel2022/pages/826/meta_images/original/roussel-propositions-fiscalite-10.png?1648799497"
-    },
-    {
-      "type": "youtube",
-      "url": "https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCUNECeVMl14%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCUNECeVMl14&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCUNECeVMl14%2Fhqdefault.jpg&key=e23856ccc1f011e0b5e44040d3dc5c07&type=text%2Fhtml&schema=youtube",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
     },
     {
       "type": "unknown",
@@ -317,8 +317,16 @@
       }
     },
     {
+      "type": "youtube",
+      "url": "https://www.youtube.com/iframe_api",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=b0613cc829169e7038a9b75c10a0a284",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=1883de62318f4d2e7218ec5e7358ae63",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -326,7 +334,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/iframe_api",
+      "url": "https://www.youtube.com/s/player/c403842a/www-widgetapi.vflset/www-widgetapi.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -342,14 +350,6 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/ec0ced91/www-widgetapi.vflset/www-widgetapi.js",
-      "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
-      }
-    },
-    {
-      "type": "youtube",
       "url": "https://www.youtube.com/embed/CUNECeVMl14?wmode=transparent&widget_referrer=https%3A%2F%2Fwww.fabienroussel2022.fr%2F&enablejsapi=1&origin=https%3A%2F%2Fcdn.embedly.com&widgetid=1",
       "details": {
         "id": "youtube",
@@ -357,8 +357,28 @@
       }
     },
     {
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/themes/626f88044445ea3fa154db37/attachments/original/1633601345/img-pre-footer.jpg?1633601345"
+    },
+    {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.bbd13993eb53d3a11ac08f5e8cf9d6a4.html?origin=https%3A%2F%2Fwww.fabienroussel2022.fr",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/ec0ced91/www-player.css",
+      "url": "https://www.youtube.com/s/player/c403842a/www-player.css",
+      "details": {
+        "id": "youtube",
+        "message": "Dont embed youtube scripts, use peertube"
+      }
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/s/player/c403842a/www-embed-player.vflset/www-embed-player.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -374,7 +394,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/ec0ced91/www-embed-player.vflset/www-embed-player.js",
+      "url": "https://www.youtube.com/s/player/c403842a/player_ias.vflset/en_US/base.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -382,18 +402,18 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/ec0ced91/player_ias.vflset/en_US/base.js",
+      "url": "https://www.youtube.com/s/player/c403842a/fetch-polyfill.vflset/fetch-polyfill.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
       }
     },
     {
-      "type": "youtube",
-      "url": "https://www.youtube.com/s/player/ec0ced91/fetch-polyfill.vflset/fetch-polyfill.js",
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/settings?session_id=88ae1b74447b8a3fcba4d572d68e76e7f0e9cc55",
       "details": {
-        "id": "youtube",
-        "message": "Dont embed youtube scripts, use peertube"
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
@@ -422,7 +442,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/ec0ced91/player_ias.vflset/en_US/remote.js",
+      "url": "https://www.youtube.com/s/player/c403842a/player_ias.vflset/en_US/remote.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -430,7 +450,7 @@
     },
     {
       "type": "google",
-      "url": "https://www.google.com/js/th/Uf3kbbiDCuMtnOktWKCSk5sAhRB6ieHFn8V4PF9koD4.js",
+      "url": "https://www.google.com/js/th/B1_cC-tXimK-Vcdfr3NNmLtFRWfcesJykTbTvqPdDOg.js",
       "details": {
         "id": "google",
         "message": "Use hosted Matomo instance"
@@ -438,7 +458,7 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/s/player/ec0ced91/player_ias.vflset/en_US/embed.js",
+      "url": "https://www.youtube.com/s/player/c403842a/player_ias.vflset/en_US/embed.js",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
@@ -486,47 +506,11 @@
     },
     {
       "type": "youtube",
-      "url": "https://www.youtube.com/generate_204?ywFFIQ",
+      "url": "https://www.youtube.com/generate_204?HRriyA",
       "details": {
         "id": "youtube",
         "message": "Dont embed youtube scripts, use peertube"
       }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "google",
-      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
-      "details": {
-        "id": "google",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.bbd13993eb53d3a11ac08f5e8cf9d6a4.html?origin=https%3A%2F%2Fwww.fabienroussel2022.fr",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=fc020e2ab330fe84783f748a62fd87ceafdae800",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/themes/626f88044445ea3fa154db37/attachments/original/1633601345/img-pre-footer.jpg?1633601345"
     },
     {
       "type": "unknown",
@@ -535,6 +519,22 @@
     {
       "type": "unknown",
       "url": "https://fabienroussel2022.nationbuilder.com/themes/1/626f88044445ea3fa154db37/0/attachments/16530482811652962292/default/tarteaucitron.en.js?v=20210310"
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google",
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "details": {
+        "id": "google",
+        "message": "Use hosted Matomo instance"
+      }
     },
     {
       "type": "unknown",
@@ -552,11 +552,11 @@
   "cookies": [
     {
       "name": "_nbuild_token",
-      "value": "Tg%2F%2BidOG%2BdKvx6yJUF1WBF5TRSjuT0GbE1Nzjc9VH%2F0%3D",
+      "value": "HoDidv7akh5%2F%2BkkMkpiPkDejCLsIKIPCZ04sU7ivmtw%3D",
       "domain": "www.fabienroussel2022.fr",
       "path": "/",
       "expires": -1,
-      "size": 67,
+      "size": 63,
       "httpOnly": true,
       "secure": false,
       "session": true,
@@ -566,41 +566,41 @@
     }
   ],
   "headers": {
-    "date": "Sun, 22 May 2022 00:50:53 GMT",
+    "date": "Sun, 29 May 2022 00:47:03 GMT",
     "content-type": "text/html; charset=utf-8",
-    "x-rack-cache": "fresh",
+    "x-rack-cache": "stale, valid, store",
     "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
-    "age": "15",
+    "age": "0",
     "x-nb-cached-page": "yes",
-    "x-request-id": "022486ba-dc08-4aba-8ede-3aabfc3c9587",
-    "x-served-by": "app12",
-    "x-middleware-start": "t=1653180653380776",
-    "x-content-digest": "7bbe56f934e2255a44cf4d281cc86b79043dfc2c",
+    "x-request-id": "a331b4d0-e898-44b7-a5f2-939651fc680d",
+    "x-served-by": "app10",
+    "x-middleware-start": "t=1653785223741985",
+    "x-content-digest": "0712bc1855a6c842f864f56717ac3d61e0a7459c",
     "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.056021",
+    "x-runtime": "0.060147",
     "x-content-type-options": "nosniff",
     "content-security-policy": "frame-ancestors fabienroussel2022.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
-    "set-cookie": "_nbuild_token=Tg%2F%2BidOG%2BdKvx6yJUF1WBF5TRSjuT0GbE1Nzjc9VH%2F0%3D; path=/; HttpOnly",
+    "set-cookie": "_nbuild_token=HoDidv7akh5%2F%2BkkMkpiPkDejCLsIKIPCZ04sU7ivmtw%3D; path=/; HttpOnly",
     "status": "200 OK",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "70f18f6aaf219f34-DFW",
+    "cf-ray": "712b376eea1f7b3d-LAX",
     "content-encoding": "br",
     "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
   },
   "endpoints": [
     {
       "hostname": "www.fabienroussel2022.fr",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "fonts.googleapis.com",
-      "ip": "142.250.148.95",
+      "ip": "142.250.176.10",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -654,12 +654,12 @@
     },
     {
       "hostname": "fabienroussel2022.nationbuilder.com",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.250.125.95",
+      "ip": "142.250.72.234",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -713,7 +713,7 @@
     },
     {
       "hostname": "assets.nationbuilder.com",
-      "ip": "162.159.128.45",
+      "ip": "162.159.138.44",
       "geoip": null
     },
     {
@@ -723,7 +723,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "192.229.163.25",
+      "ip": "72.21.91.66",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -755,8 +755,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 32.7797,
-          "longitude": -96.8022,
+          "latitude": 37.751,
+          "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -772,26 +772,12 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        },
-        "subdivisions": [
-          {
-            "geoname_id": 4736286,
-            "iso_code": "TX",
-            "names": {
-              "en": "Texas",
-              "es": "Texas",
-              "fr": "Texas",
-              "ja": "テキサス州",
-              "ru": "Техас",
-              "zh-CN": "德克萨斯州"
-            }
-          }
-        ]
+        }
       }
     },
     {
       "hostname": "fonts.gstatic.com",
-      "ip": "142.250.152.94",
+      "ip": "142.250.189.3",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -845,19 +831,19 @@
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "157.240.2.25",
+      "ip": "157.240.22.25",
       "geoip": {
         "city": {
-          "geoname_id": 4887398,
+          "geoname_id": 5393015,
           "names": {
-            "de": "Chicago",
-            "en": "Chicago",
-            "es": "Chicago",
-            "fr": "Chicago",
-            "ja": "シカゴ",
-            "pt-BR": "Chicago",
-            "ru": "Чикаго",
-            "zh-CN": "芝加哥"
+            "de": "Santa Clara",
+            "en": "Santa Clara",
+            "es": "Santa Clara",
+            "fr": "Santa Clara",
+            "ja": "サンタクララ",
+            "pt-BR": "Santa Clara",
+            "ru": "Санта-Клара",
+            "zh-CN": "圣克拉拉"
           }
         },
         "continent": {
@@ -890,13 +876,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 41.8874,
-          "longitude": -87.6318,
-          "metro_code": 602,
-          "time_zone": "America/Chicago"
+          "latitude": 37.353,
+          "longitude": -121.9543,
+          "metro_code": 807,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "60602"
+          "code": "95052"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -914,16 +900,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 4896861,
-            "iso_code": "IL",
+            "geoname_id": 5332921,
+            "iso_code": "CA",
             "names": {
-              "en": "Illinois",
-              "es": "Illinois",
-              "fr": "Illinois",
-              "ja": "イリノイ州",
-              "pt-BR": "Ilinóis",
-              "ru": "Иллинойс",
-              "zh-CN": "伊利诺伊州"
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
             }
           }
         ]
@@ -931,7 +918,7 @@
     },
     {
       "hostname": "www.youtube.com",
-      "ip": "142.251.6.93",
+      "ip": "142.251.40.46",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1071,8 +1058,62 @@
       }
     },
     {
+      "hostname": "syndication.twitter.com",
+      "ip": "104.244.42.200",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
       "hostname": "googleads.g.doubleclick.net",
-      "ip": "142.250.148.154",
+      "ip": "142.250.176.2",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1126,7 +1167,7 @@
     },
     {
       "hostname": "static.doubleclick.net",
-      "ip": "209.85.147.149",
+      "ip": "142.250.176.6",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1180,7 +1221,7 @@
     },
     {
       "hostname": "jnn-pa.googleapis.com",
-      "ip": "108.177.111.95",
+      "ip": "142.250.217.138",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1234,7 +1275,7 @@
     },
     {
       "hostname": "www.google.com",
-      "ip": "209.85.147.99",
+      "ip": "142.250.68.100",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1288,7 +1329,7 @@
     },
     {
       "hostname": "yt3.ggpht.com",
-      "ip": "173.194.198.132",
+      "ip": "142.250.217.129",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1342,7 +1383,7 @@
     },
     {
       "hostname": "i.ytimg.com",
-      "ip": "142.251.6.119",
+      "ip": "142.250.68.22",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -1396,61 +1437,7 @@
     },
     {
       "hostname": "www.gstatic.com",
-      "ip": "108.177.111.94",
-      "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "Vereinigte Staaten",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.72",
+      "ip": "142.250.189.3",
       "geoip": {
         "continent": {
           "code": "NA",
