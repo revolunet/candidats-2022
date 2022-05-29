@@ -18,31 +18,31 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1652810887"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1653502513"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1652810883"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5.css?ver=1653502513"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1652810887"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1653502513"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1652810895"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/global.css?ver=1653502514"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1652811395"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-5669.css?ver=1653502535"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1652810889"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-6647.css?ver=1653502515"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1652810885"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7722.css?ver=1653502515"
     },
     {
       "type": "unknown",
@@ -58,11 +58,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/mailin/js/mailin-front.js?ver=1650551403"
+      "url": "https://avecvous.fr/wp-content/plugins/mailin/js/mailin-front.js?ver=1653605137"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=0"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1653502515"
     },
     {
       "type": "unknown",
@@ -82,15 +82,15 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1652810886"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1653502517"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1652810904"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-610.css?ver=1653502535"
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1652810897"
+      "url": "https://avecvous.fr/wp-content/uploads/elementor/css/post-7330.css?ver=1653502517"
     },
     {
       "type": "unknown",
@@ -98,7 +98,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/js/admin/tp-advanced-shadow-layout.js?ver=5.0.8"
+      "url": "https://avecvous.fr/wp-content/plugins/the-plus-addons-for-elementor-page-builder/assets/js/admin/tp-advanced-shadow-layout.js?ver=5.0.9"
     },
     {
       "type": "unknown",
@@ -106,7 +106,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.12"
+      "url": "https://avecvous.fr/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/owl.carousel.min.js?ver=1.5.14"
     },
     {
       "type": "unknown",
@@ -123,50 +123,6 @@
     {
       "type": "unknown",
       "url": "https://avecvous.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9"
-    },
-    {
-      "type": "jsdelivr",
-      "url": "https://cdn.jsdelivr.net/npm/friendly-challenge@0.9.1/widget.module.min.js",
-      "details": {
-        "id": "jsdelivr",
-        "message": "Host files locally"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.2"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/print.css?ver=1.2"
-    },
-    {
-      "type": "google tag manager",
-      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WXBXKZ6",
-      "details": {
-        "id": "google tag manager",
-        "message": "Use hosted Matomo instance"
-      }
-    },
-    {
-      "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/04/Victoire-cover-site.jpg"
-    },
-    {
-      "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/03/Frame-1-1-1.png"
-    },
-    {
-      "type": "unknown",
-      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF-1.woff"
-    },
-    {
-      "type": "unknown",
-      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Bold-205TF-1.woff"
-    },
-    {
-      "type": "unknown",
-      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2"
     },
     {
       "type": "unknown",
@@ -213,16 +169,56 @@
       }
     },
     {
-      "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/03/transition-eco.jpg"
+      "type": "jsdelivr",
+      "url": "https://cdn.jsdelivr.net/npm/friendly-challenge@0.9.1/widget.module.min.js",
+      "details": {
+        "id": "jsdelivr",
+        "message": "Host files locally"
+      }
     },
     {
       "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/03/Decla_banner_desktop-scaled.jpg"
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.2"
     },
     {
       "type": "unknown",
-      "url": "https://staging.avecvous.fr/wp-content/uploads/2022/02/videoask-preview.png"
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/print.css?ver=1.2"
+    },
+    {
+      "type": "google tag manager",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WXBXKZ6",
+      "details": {
+        "id": "google tag manager",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr//wp-content/uploads/2022/04/Victoire-cover-site.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr//wp-content/uploads/2022/03/Frame-1-1-1.png"
+    },
+    {
+      "type": "unknown",
+      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Medium-205TF-1.woff"
+    },
+    {
+      "type": "unknown",
+      "url": "https://testfaber.ecritel.net/wp-content/uploads/2021/12/Maax-Bold-205TF-1.woff"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr//wp-content/uploads/2022/03/transition-eco.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://avecvous.fr//wp-content/uploads/2022/03/Decla_banner_desktop-scaled.jpg"
     },
     {
       "type": "unknown",
@@ -307,7 +303,7 @@
       "value": "%2C%2C",
       "domain": "avecvous.fr",
       "path": "/",
-      "expires": 1684716658,
+      "expires": 1685321218,
       "size": 25,
       "httpOnly": false,
       "secure": true,
@@ -321,7 +317,7 @@
       "value": "%2C%2C",
       "domain": "avecvous.fr",
       "path": "/",
-      "expires": 1684716658,
+      "expires": 1685321218,
       "size": 32,
       "httpOnly": false,
       "secure": true,
@@ -332,10 +328,10 @@
     },
     {
       "name": "axeptio_cookies",
-      "value": "{%22$$token%22:%227vf1hcp7n5ayi2oh60f8d%22%2C%22$$date%22:%222022-05-22T00:50:58.188Z%22%2C%22$$completed%22:false}",
+      "value": "{%22$$token%22:%225m1qwe2n69mvgyik1glwm%22%2C%22$$date%22:%222022-05-29T00:46:58.668Z%22%2C%22$$completed%22:false}",
       "domain": "avecvous.fr",
       "path": "/",
-      "expires": 1684716658,
+      "expires": 1685321218,
       "size": 130,
       "httpOnly": false,
       "secure": true,
@@ -346,38 +342,23 @@
     }
   ],
   "headers": {
-    "date": "Sun, 22 May 2022 00:50:55 GMT",
+    "date": "Sun, 29 May 2022 00:46:56 GMT",
     "content-type": "text/html; charset=UTF-8",
     "x-powered-by": "PHP/7.4",
     "link": "<https://avecvous.fr/>; rel=shortlink",
     "cache-control": "max-age=0",
-    "expires": "Sun, 22 May 2022 00:50:57 GMT",
+    "expires": "Sun, 29 May 2022 00:46:56 GMT",
     "vary": "Accept-Encoding",
     "cf-cache-status": "DYNAMIC",
     "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
     "server": "cloudflare",
-    "cf-ray": "70f18f618cb0aaaf-SJC",
+    "cf-ray": "712b3728cac37d68-LAX",
     "content-encoding": "br"
   },
   "endpoints": [
     {
       "hostname": "avecvous2022.fr",
-      "ip": "104.22.9.6",
-      "geoip": null
-    },
-    {
-      "hostname": "avecvous.fr",
-      "ip": "104.22.67.69",
-      "geoip": null
-    },
-    {
-      "hostname": "cdn.jsdelivr.net",
-      "ip": "104.16.86.20",
-      "geoip": null
-    },
-    {
-      "hostname": "www.googletagmanager.com",
-      "ip": "142.251.46.168",
+      "ip": "172.67.20.73",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -430,9 +411,73 @@
       }
     },
     {
-      "hostname": "staging.avecvous.fr",
+      "hostname": "avecvous.fr",
       "ip": "104.22.67.69",
       "geoip": null
+    },
+    {
+      "hostname": "kit.fontawesome.com",
+      "ip": "104.18.22.52",
+      "geoip": null
+    },
+    {
+      "hostname": "cdn.jsdelivr.net",
+      "ip": "104.16.87.20",
+      "geoip": null
+    },
+    {
+      "hostname": "www.googletagmanager.com",
+      "ip": "142.250.189.8",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
     },
     {
       "hostname": "testfaber.ecritel.net",
@@ -489,11 +534,6 @@
           }
         }
       }
-    },
-    {
-      "hostname": "kit.fontawesome.com",
-      "ip": "104.18.23.52",
-      "geoip": null
     },
     {
       "hostname": "ka-p.fontawesome.com",
@@ -556,7 +596,7 @@
     },
     {
       "hostname": "client.axept.io",
-      "ip": "18.65.25.101",
+      "ip": "13.225.151.28",
       "geoip": {
         "continent": {
           "code": "NA",
