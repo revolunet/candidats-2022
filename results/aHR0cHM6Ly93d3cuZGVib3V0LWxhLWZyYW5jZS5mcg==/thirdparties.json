@@ -57,24 +57,32 @@
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.bbd13993eb53d3a11ac08f5e8cf9d6a4.html?origin=https%3A%2F%2Fwww.debout-la-france.fr",
+      "type": "bootstrapcdn",
+      "url": "https://netdna.bootstrapcdn.com/bootstrap/3.0.2/fonts/glyphicons-halflings-regular.woff",
       "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
+        "id": "bootstrapcdn",
+        "message": "Host files locally"
       }
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=1827195507&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1597107710&gjid=265461112&cid=487817558.1653783904&tid=UA-69556209-1&_gid=1209320752.1653783904&_r=1&_slc=1&z=1055884076",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j96&aip=1&a=403083452&t=pageview&_s=1&dl=https%3A%2F%2Fwww.debout-la-france.fr%2F&ul=en-us&de=UTF-8&dt=Debout%20La%20France&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=YEBAAEABAAAAAC~&jid=1229178306&gjid=1310810942&cid=2083495811.1654388902&tid=UA-69556209-1&_gid=974848412.1654388902&_r=1&_slc=1&z=1303319912",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
       }
     },
     {
+      "type": "twitter",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.d7fc2fc075c61f6fa34d79a0cbbf1e34.html?origin=https%3A%2F%2Fwww.debout-la-france.fr",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
+      }
+    },
+    {
       "type": "facebook",
-      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=c7f1ad004dd8bca507bce6ce385d4c17",
+      "url": "https://connect.facebook.net/fr_FR/sdk.js?hash=2be94ef7d6e20bc0c5309aa17f46b3be",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
@@ -82,7 +90,7 @@
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=a16575e0100ac25a7efa811d3049def55f6372f2",
+      "url": "https://syndication.twitter.com/settings?session_id=4473e96a6cbc1bffe84016d0e5e730eae82423d3",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
@@ -109,7 +117,7 @@
       "value": "1",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1653783963,
+      "expires": 1654388962,
       "size": 5,
       "httpOnly": false,
       "secure": false,
@@ -120,11 +128,11 @@
     },
     {
       "name": "_gid",
-      "value": "GA1.2.1209320752.1653783904",
+      "value": "GA1.2.974848412.1654388902",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1653870303,
-      "size": 31,
+      "expires": 1654475302,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -134,11 +142,11 @@
     },
     {
       "name": "_ga",
-      "value": "GA1.2.487817558.1653783904",
+      "value": "GA1.2.2083495811.1654388902",
       "domain": ".debout-la-france.fr",
       "path": "/",
-      "expires": 1716855903,
-      "size": 29,
+      "expires": 1717460902,
+      "size": 30,
       "httpOnly": false,
       "secure": false,
       "session": false,
@@ -162,23 +170,23 @@
     }
   ],
   "headers": {
-    "date": "Sun, 29 May 2022 00:25:02 GMT",
-    "server": "Apache/2.4.10 (Debian)",
-    "x-drupal-cache": "HIT",
-    "etag": "\"1653776415-1\"",
-    "content-language": "fr",
-    "x-frame-options": "SAMEORIGIN",
-    "x-generator": "Drupal 7 (http://drupal.org)",
-    "link": "<https://www.debout-la-france.fr/>; rel=\"canonical\",<https://www.debout-la-france.fr/>; rel=\"shortlink\"",
     "cache-control": "public, max-age=300",
-    "last-modified": "Sat, 28 May 2022 22:20:15 GMT",
-    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "vary": "Cookie,Accept-Encoding",
-    "content-encoding": "gzip",
-    "content-type": "text/html; charset=utf-8",
-    "keep-alive": "timeout=5, max=100",
     "connection": "Keep-Alive",
-    "transfer-encoding": "chunked"
+    "content-encoding": "gzip",
+    "content-language": "fr",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Sun, 05 Jun 2022 00:28:20 GMT",
+    "etag": "\"1654382341-1\"",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "keep-alive": "timeout=5, max=100",
+    "last-modified": "Sat, 04 Jun 2022 22:39:01 GMT",
+    "link": "<https://www.debout-la-france.fr/>; rel=\"canonical\",<https://www.debout-la-france.fr/>; rel=\"shortlink\"",
+    "server": "Apache/2.4.10 (Debian)",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie,Accept-Encoding",
+    "x-drupal-cache": "HIT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 7 (http://drupal.org)"
   },
   "endpoints": [
     {
@@ -239,7 +247,7 @@
     },
     {
       "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.17.24.14",
+      "ip": "104.17.25.14",
       "geoip": null
     },
     {
@@ -249,7 +257,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "209.85.146.138",
+      "ip": "142.250.72.142",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -303,7 +311,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "72.21.91.66",
+      "ip": "192.229.163.25",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -335,8 +343,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
+          "latitude": 32.7797,
+          "longitude": -96.8022,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -352,17 +360,37 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4736286,
+            "iso_code": "TX",
+            "names": {
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
+            }
+          }
+        ]
       }
     },
     {
       "hostname": "connect.facebook.net",
-      "ip": "31.13.65.7",
+      "ip": "157.240.3.29",
       "geoip": {
         "city": {
-          "geoname_id": 4205885,
+          "geoname_id": 5809844,
           "names": {
-            "en": "Lithia Springs"
+            "de": "Seattle",
+            "en": "Seattle",
+            "es": "Seattle",
+            "fr": "Seattle",
+            "ja": "シアトル",
+            "pt-BR": "Seattle",
+            "ru": "Сиэтл"
           }
         },
         "continent": {
@@ -395,41 +423,39 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 33.7655,
-          "longitude": -84.6469,
-          "metro_code": 524,
-          "time_zone": "America/New_York"
+          "latitude": 47.6034,
+          "longitude": -122.3414,
+          "metro_code": 819,
+          "time_zone": "America/Los_Angeles"
         },
         "postal": {
-          "code": "30122"
+          "code": "98160"
         },
         "registered_country": {
-          "geoname_id": 2963597,
-          "is_in_european_union": true,
-          "iso_code": "IE",
+          "geoname_id": 6252001,
+          "iso_code": "US",
           "names": {
-            "de": "Irland",
-            "en": "Ireland",
-            "es": "Irlanda",
-            "fr": "Irlande",
-            "ja": "アイルランド",
-            "pt-BR": "Irlanda",
-            "ru": "Ирландия",
-            "zh-CN": "爱尔兰"
+            "de": "Vereinigte Staaten",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
           }
         },
         "subdivisions": [
           {
-            "geoname_id": 4197000,
-            "iso_code": "GA",
+            "geoname_id": 5815135,
+            "iso_code": "WA",
             "names": {
-              "en": "Georgia",
-              "es": "Georgia",
-              "fr": "Géorgie",
-              "ja": "ジョージア州",
-              "pt-BR": "Geórgia",
-              "ru": "Джорджия",
-              "zh-CN": "乔治亚"
+              "en": "Washington",
+              "es": "Washington",
+              "fr": "Washington",
+              "ja": "ワシントン州",
+              "ru": "Вашингтон",
+              "zh-CN": "华盛顿州"
             }
           }
         ]
@@ -437,7 +463,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.8",
+      "ip": "104.244.42.136",
       "geoip": {
         "continent": {
           "code": "NA",
