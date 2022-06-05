@@ -6,11 +6,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901653752064/default/bootstrap.css"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901654265539/default/bootstrap.css"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901653752064/default/theme.scss"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901654265539/default/theme.scss"
     },
     {
       "type": "unknown",
@@ -34,11 +34,11 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901653752064/default/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901654265539/default/bootstrap.min.js"
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901653752064/default/theme.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901654265539/default/theme.js"
     },
     {
       "type": "google tag manager",
@@ -66,15 +66,19 @@
     },
     {
       "type": "unknown",
+      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Regular.otf"
+    },
+    {
+      "type": "unknown",
       "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1652709633/ez-home2.jpg?1652709633"
     },
     {
       "type": "unknown",
-      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Semibold.otf"
+      "url": "https://assets.ericzemmour.fr/font/France22-Bold_V2.otf"
     },
     {
       "type": "unknown",
-      "url": "https://assets.ericzemmour.fr/font/France22-Bold_V2.otf"
+      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Semibold.otf"
     },
     {
       "type": "unknown",
@@ -110,23 +114,31 @@
     },
     {
       "type": "unknown",
-      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Extrabold.otf"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/1085/attachments/original/1652776237/bg-legis2.jpg?1652776237"
-    },
-    {
-      "type": "unknown",
-      "url": "https://assets.nationbuilder.com/ez/pages/1063/attachments/original/1649695052/bg-10avril.jpg?1649695052"
-    },
-    {
-      "type": "unknown",
       "url": "https://assets.ericzemmour.fr/font/ProximaNova-Bold.otf"
     },
     {
       "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/1097/attachments/original/1654333909/bg-stan.jpeg?1654333909"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.nationbuilder.com/ez/pages/1094/attachments/original/1653904652/bg-stan.jpeg?1653904652"
+    },
+    {
+      "type": "unknown",
       "url": "https://assets.nationbuilder.com/themes/618af67dc294806597a08463/attachments/original/1652978276/signez2.jpg?1652978276"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.ericzemmour.fr/font/France22-Bold_V2.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Semibold.otf"
+    },
+    {
+      "type": "unknown",
+      "url": "https://assets.ericzemmour.fr/font/ProximaNova-Bold.otf"
     },
     {
       "type": "unknown",
@@ -157,14 +169,6 @@
       }
     },
     {
-      "type": "twitter",
-      "url": "https://platform.twitter.com/widgets/widget_iframe.bbd13993eb53d3a11ac08f5e8cf9d6a4.html?origin=https%3A%2F%2Fwww.ericzemmour.fr",
-      "details": {
-        "id": "twitter",
-        "message": "Dont embed twitter scripts, use your own tweet embed"
-      }
-    },
-    {
       "type": "facebook",
       "url": "https://connect.facebook.net/en_US/sdk.js",
       "details": {
@@ -178,26 +182,34 @@
     },
     {
       "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901653752064/default/bootstrap.min.js"
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901654265539/default/bootstrap.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901654265539/default/theme.js"
     },
     {
       "type": "twitter",
-      "url": "https://syndication.twitter.com/settings?session_id=c28b1333440feff61e697cc63f76a72ad92d2df7",
+      "url": "https://platform.twitter.com/widgets/widget_iframe.d7fc2fc075c61f6fa34d79a0cbbf1e34.html?origin=https%3A%2F%2Fwww.ericzemmour.fr",
       "details": {
         "id": "twitter",
         "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
-      "type": "unknown",
-      "url": "https://ez.nationbuilder.com/themes/20/618af67dc294806597a08463/0/attachments/16364971901653752064/default/theme.js"
-    },
-    {
       "type": "facebook",
-      "url": "https://connect.facebook.net/en_US/sdk.js?hash=75a6f3e5dabc265fce133851430a52bb",
+      "url": "https://connect.facebook.net/en_US/sdk.js?hash=fc6234bb1dee3a51c9b62514ad659952",
       "details": {
         "id": "facebook",
         "message": "Dont embed facebook scripts, use your own tweet embed"
+      }
+    },
+    {
+      "type": "twitter",
+      "url": "https://syndication.twitter.com/settings?session_id=bb43fe93d9515582120c658a8560260d717e8b94",
+      "details": {
+        "id": "twitter",
+        "message": "Dont embed twitter scripts, use your own tweet embed"
       }
     },
     {
@@ -211,35 +223,35 @@
   ],
   "cookies": [],
   "headers": {
-    "date": "Sun, 29 May 2022 00:36:47 GMT",
-    "content-type": "text/html; charset=utf-8",
-    "x-rack-cache": "stale, invalid, ignore, store",
-    "cache-control": "public, max-age=14400",
-    "age": "81",
-    "x-nb-cached-page": "yes",
-    "x-request-id": "1f5680b8-7ec7-4c15-a970-6af3b36baf35",
-    "x-served-by": "app12",
-    "x-middleware-start": "t=1653784526618814",
-    "x-content-digest": "7ae9dde0f9b6d5b2c149747cd21160eefe376272",
-    "x-frame-options": "SAMEORIGIN",
-    "x-runtime": "0.075835",
-    "x-content-type-options": "nosniff",
-    "content-security-policy": "frame-ancestors ez.nationbuilder.com",
     "access-control-request-method": "GET, POST, PUT, DELETE",
-    "expires": "Sun, 29 May 2022 04:36:47 GMT",
+    "age": "86",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "cache-control": "public, max-age=14400",
+    "cf-cache-status": "HIT",
+    "cf-ray": "7164db92dd6e9ecb-DFW",
+    "content-encoding": "br",
+    "content-security-policy": "frame-ancestors ez.nationbuilder.com",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Sun, 05 Jun 2022 00:40:35 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "expires": "Sun, 05 Jun 2022 04:40:35 GMT",
+    "server": "cloudflare",
     "status": "200 OK",
     "vary": "Accept-Encoding",
-    "cf-cache-status": "HIT",
-    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
-    "server": "cloudflare",
-    "cf-ray": "712b286389568f16-IAD",
-    "content-encoding": "br",
-    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+    "x-content-digest": "6322de3657ee8ec69a3d7bd3a0778bdc954c94b6",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-middleware-start": "t=1654389549246921",
+    "x-nb-cached-page": "yes",
+    "x-rack-cache": "stale, invalid, ignore, store",
+    "x-request-id": "6c55469b-40fd-4f8b-99a8-80673a6e7117",
+    "x-runtime": "0.079764",
+    "x-served-by": "app12"
   },
   "endpoints": [
     {
       "hostname": "www.zemmour2022.fr",
-      "ip": "34.255.237.154",
+      "ip": "34.252.149.241",
       "geoip": {
         "city": {
           "geoname_id": 2964574,
@@ -332,13 +344,18 @@
     },
     {
       "hostname": "consent.cookiebot.com",
-      "ip": "104.112.235.178",
+      "ip": "184.25.237.163",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 4684888,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Dallas",
+            "en": "Dallas",
+            "es": "Dallas",
+            "fr": "Dallas",
+            "ja": "ダラス",
+            "pt-BR": "Dallas",
+            "ru": "Даллас"
           }
         },
         "continent": {
@@ -371,13 +388,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "latitude": 32.7767,
+          "longitude": -96.805,
+          "metro_code": 623,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "20149"
+          "code": "75270"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -395,15 +412,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 4736286,
+            "iso_code": "TX",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
             }
           }
         ]
@@ -411,7 +428,7 @@
     },
     {
       "hostname": "ajax.googleapis.com",
-      "ip": "142.250.188.42",
+      "ip": "142.250.159.95",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -465,12 +482,12 @@
     },
     {
       "hostname": "assets.nationbuilder.com",
-      "ip": "162.159.138.44",
+      "ip": "162.159.128.45",
       "geoip": null
     },
     {
       "hostname": "www.googletagmanager.com",
-      "ip": "172.253.63.97",
+      "ip": "142.250.148.97",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -524,7 +541,7 @@
     },
     {
       "hostname": "assets.ericzemmour.fr",
-      "ip": "18.67.17.71",
+      "ip": "13.226.139.105",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -578,13 +595,18 @@
     },
     {
       "hostname": "consentcdn.cookiebot.com",
-      "ip": "104.106.162.18",
+      "ip": "23.211.22.154",
       "geoip": {
         "city": {
-          "geoname_id": 4744870,
+          "geoname_id": 4684888,
           "names": {
-            "en": "Ashburn",
-            "ru": "Ашберн"
+            "de": "Dallas",
+            "en": "Dallas",
+            "es": "Dallas",
+            "fr": "Dallas",
+            "ja": "ダラス",
+            "pt-BR": "Dallas",
+            "ru": "Даллас"
           }
         },
         "continent": {
@@ -617,13 +639,13 @@
         },
         "location": {
           "accuracy_radius": 20,
-          "latitude": 39.0469,
-          "longitude": -77.4903,
-          "metro_code": 511,
-          "time_zone": "America/New_York"
+          "latitude": 32.7767,
+          "longitude": -96.805,
+          "metro_code": 623,
+          "time_zone": "America/Chicago"
         },
         "postal": {
-          "code": "20149"
+          "code": "75270"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -641,15 +663,15 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 6254928,
-            "iso_code": "VA",
+            "geoname_id": 4736286,
+            "iso_code": "TX",
             "names": {
-              "en": "Virginia",
-              "fr": "Virginie",
-              "ja": "バージニア州",
-              "pt-BR": "Virgínia",
-              "ru": "Вирджиния",
-              "zh-CN": "弗吉尼亚州"
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
             }
           }
         ]
@@ -657,7 +679,7 @@
     },
     {
       "hostname": "platform.twitter.com",
-      "ip": "72.21.91.66",
+      "ip": "192.229.163.25",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -689,8 +711,8 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
+          "latitude": 32.7797,
+          "longitude": -96.8022,
           "time_zone": "America/Chicago"
         },
         "registered_country": {
@@ -706,7 +728,21 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 4736286,
+            "iso_code": "TX",
+            "names": {
+              "en": "Texas",
+              "es": "Texas",
+              "fr": "Texas",
+              "ja": "テキサス州",
+              "ru": "Техас",
+              "zh-CN": "德克萨斯州"
+            }
+          }
+        ]
       }
     },
     {
@@ -797,7 +833,7 @@
     },
     {
       "hostname": "syndication.twitter.com",
-      "ip": "104.244.42.8",
+      "ip": "104.244.42.136",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -851,7 +887,7 @@
     },
     {
       "hostname": "www.facebook.com",
-      "ip": "157.240.18.35",
+      "ip": "157.240.2.35",
       "geoip": {
         "city": {
           "geoname_id": 4887398,
