@@ -213,14 +213,14 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -3 seconds from your localtime"
+              "finding"      : "off by -5 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -353,7 +353,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "310 >= 60 days"
+              "finding"      : "303 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -514,21 +514,21 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+43 seconds from localtime"
+              "finding"      : "+57 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1653785266"
+              "finding"      : "1654390356"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "43 seconds"
+              "finding"      : "57 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -612,7 +612,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app12"
+              "finding"      : "app11"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -807,20 +807,6 @@
               "finding"      : "not vulnerable"
           }
 ,         {
-              "id"           : "clientsimulation-android_442",
-              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-android_500",
-              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
               "id"           : "clientsimulation-android_60",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
@@ -856,7 +842,14 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-chrome_74_win10",
+              "id"           : "clientsimulation-android_11",
+              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-android_12",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
@@ -870,6 +863,13 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
+              "id"           : "clientsimulation-chrome_101_win10",
+              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
               "id"           : "clientsimulation-firefox_66_win81",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
@@ -877,7 +877,7 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-firefox_71_win10",
+              "id"           : "clientsimulation-firefox_100_win10",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
@@ -940,39 +940,11 @@
               "finding"      : "TLSv1.2 AES128-SHA"
           }
 ,         {
-              "id"           : "clientsimulation-edge_17_win10",
-              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-opera_66_win10",
+              "id"           : "clientsimulation-edge_101_win10_21h2",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-safari_9_ios9",
-              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-safari_9_osx1011",
-              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-safari_10_osx1012",
-              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-safari_121_ios_122",
@@ -989,18 +961,11 @@
               "finding"      : "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-apple_ats_9_ios9",
+              "id"           : "clientsimulation-safari_154_osx_1231",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-java_6u45",
-              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java_7u25",
@@ -1024,11 +989,25 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-java1201",
+              "id"           : "clientsimulation-java1703",
+              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-go_1178",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-libressl_283",
+              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
@@ -1052,7 +1031,21 @@
               "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
           }
 ,         {
-              "id"           : "clientsimulation-thunderbird_68_3_1",
+              "id"           : "clientsimulation-openssl_303",
+              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-apple_mail_16_0",
+              "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 AES128-SHA"
+          }
+,         {
+              "id"           : "clientsimulation-thunderbird_91_9",
               "ip"           : "www.fabienroussel2022.fr/162.159.128.45",
               "port"         : "443",
               "severity"     : "INFO",
@@ -1349,14 +1342,14 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "not supported"
+              "finding"      : "supported"
           }
 ,         {
               "id"           : "TLS_timestamp",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "off by -3 seconds from your localtime"
+              "finding"      : "off by -4 seconds from your localtime"
           }
 ,         {
               "id"           : "certificate_compression",
@@ -1489,7 +1482,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "OK",
-              "finding"      : "310 >= 60 days"
+              "finding"      : "303 >= 60 days"
           }
 ,         {
               "id"           : "cert_notBefore",
@@ -1650,21 +1643,21 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "+39 seconds from localtime"
+              "finding"      : "+56 seconds from localtime"
           }
 ,         {
               "id"           : "HTTP_headerTime",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "1653785329"
+              "finding"      : "1654390438"
           }
 ,         {
               "id"           : "HTTP_headerAge",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "39 seconds"
+              "finding"      : "56 seconds"
           }
 ,         {
               "id"           : "HSTS",
@@ -1748,7 +1741,7 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "app10"
+              "finding"      : "app12"
           }
 ,         {
               "id"           : "Cache-Control",
@@ -1943,20 +1936,6 @@
               "finding"      : "not vulnerable"
           }
 ,         {
-              "id"           : "clientsimulation-android_442",
-              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-android_500",
-              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
               "id"           : "clientsimulation-android_60",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
@@ -1992,7 +1971,14 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-chrome_74_win10",
+              "id"           : "clientsimulation-android_11",
+              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-android_12",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
@@ -2006,6 +1992,13 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
+              "id"           : "clientsimulation-chrome_101_win10",
+              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
               "id"           : "clientsimulation-firefox_66_win81",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
@@ -2013,7 +2006,7 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-firefox_71_win10",
+              "id"           : "clientsimulation-firefox_100_win10",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
@@ -2076,39 +2069,11 @@
               "finding"      : "TLSv1.2 AES128-SHA"
           }
 ,         {
-              "id"           : "clientsimulation-edge_17_win10",
-              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-opera_66_win10",
+              "id"           : "clientsimulation-edge_101_win10_21h2",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-safari_9_ios9",
-              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-safari_9_osx1011",
-              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
-          }
-,         {
-              "id"           : "clientsimulation-safari_10_osx1012",
-              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "TLSv1.2 AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-safari_121_ios_122",
@@ -2125,18 +2090,11 @@
               "finding"      : "TLSv1.3 TLS_CHACHA20_POLY1305_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-apple_ats_9_ios9",
+              "id"           : "clientsimulation-safari_154_osx_1231",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256"
-          }
-,         {
-              "id"           : "clientsimulation-java_6u45",
-              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
-              "port"         : "443",
-              "severity"     : "INFO",
-              "finding"      : "No connection"
+              "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
               "id"           : "clientsimulation-java_7u25",
@@ -2160,11 +2118,25 @@
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
           }
 ,         {
-              "id"           : "clientsimulation-java1201",
+              "id"           : "clientsimulation-java1703",
+              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-go_1178",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
               "finding"      : "TLSv1.3 TLS_AES_128_GCM_SHA256"
+          }
+,         {
+              "id"           : "clientsimulation-libressl_283",
+              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 AES128-SHA"
           }
 ,         {
               "id"           : "clientsimulation-openssl_102e",
@@ -2188,7 +2160,21 @@
               "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
           }
 ,         {
-              "id"           : "clientsimulation-thunderbird_68_3_1",
+              "id"           : "clientsimulation-openssl_303",
+              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.3 TLS_AES_256_GCM_SHA384"
+          }
+,         {
+              "id"           : "clientsimulation-apple_mail_16_0",
+              "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
+              "port"         : "443",
+              "severity"     : "INFO",
+              "finding"      : "TLSv1.2 AES128-SHA"
+          }
+,         {
+              "id"           : "clientsimulation-thunderbird_91_9",
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
@@ -2276,6 +2262,6 @@
               "ip"           : "www.fabienroussel2022.fr/162.159.138.44",
               "port"         : "443",
               "severity"     : "INFO",
-              "finding"      : "127"
+              "finding"      : "166"
           }
 ]
